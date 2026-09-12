@@ -8,7 +8,7 @@ stability: stable
 
 **Comprendre · Mesurer · Tester · Casser · Gérer · Construire · Adapter**
 
-*Un curriculum de trading orienté terrain pour apprendre à raisonner sous incertitude — du zéro-prérequis à la conception, validation et défense d’un système.*
+_Un curriculum de trading orienté terrain pour apprendre à raisonner sous incertitude : du zéro-prérequis à la conception, validation et défense d’un système._
 
 [**Commencer**](00-SOCLE/00-GUIDE/README.md) · [**Voir le parcours**](PROGRESSION.md) · [**Préparer l’environnement**](SETUP.md)
 
@@ -66,7 +66,7 @@ Pas de promesse de revenu. Pas de « stratégie secrète ». Pas de validation p
 
 Tu peux commencer sans connaître le trading, Python ou les statistiques.
 
-Le [**Guide transversal — START HERE**](06-ANNEXES-TRANSVERSES/00-GUIDE.md) répond d’abord aux questions fondamentales :
+Le [**Guide transversal : START HERE**](06-ANNEXES-TRANSVERSES/00-GUIDE.md) répond d’abord aux questions fondamentales :
 
 - qu’est-ce qu’un actif, un marché, un ordre, une position ou un spread ;
 - pourquoi un prix bouge ;
@@ -112,14 +112,14 @@ Le curriculum mène progressivement vers la programmation, l’ingénierie de do
 
 Chaque niveau ajoute une capacité **observable**.
 
-| Niveau | Question centrale | Sortie attendue |
-|---|---|---|
-| **00 — Socle** | De quoi parle-t-on ? | vocabulaire, terrain, premières expériences |
-| **01 — Cadrage** | Que prétends-je exactement ? | hypothèse, protocole, critères d’échec |
-| **02 — Construction** | Comment le rendre testable ? | données, règles, code, backtests |
-| **03 — Pilotage** | Comment survivre à l’exécution ? | sizing, coûts, exposition, contrôle |
-| **04 — Épreuve** | Qu’est-ce qui le fait casser ? | stress tests, red team, ruptures, postmortems |
-| **05 — Maîtrise** | Puis-je le défendre et le transférer ? | réplication, gouvernance, capstone |
+| Niveau                | Question centrale                      | Sortie attendue                               |
+| --------------------- | -------------------------------------- | --------------------------------------------- |
+| **00 : Socle**        | De quoi parle-t-on ?                   | vocabulaire, terrain, premières expériences   |
+| **01 : Cadrage**      | Que prétends-je exactement ?           | hypothèse, protocole, critères d’échec        |
+| **02 : Construction** | Comment le rendre testable ?           | données, règles, code, backtests              |
+| **03 : Pilotage**     | Comment survivre à l’exécution ?       | sizing, coûts, exposition, contrôle           |
+| **04 : Épreuve**      | Qu’est-ce qui le fait casser ?         | stress tests, red team, ruptures, postmortems |
+| **05 : Maîtrise**     | Puis-je le défendre et le transférer ? | réplication, gouvernance, capstone            |
 
 ---
 
@@ -241,7 +241,7 @@ Loss aversion, overconfidence, disposition effect, FOMO, revenge trading, charge
 
 ### Horizon 2035+
 
-Automatisation, exécution algorithmique, données alternatives, IA, agents, gouvernance, résilience et compétences durables — en distinguant clairement **fait, tendance, scénario plausible et spéculation**.
+Automatisation, exécution algorithmique, données alternatives, IA, agents, gouvernance, résilience et compétences durables : en distinguant clairement **fait, tendance, scénario plausible et spéculation**.
 
 ---
 
@@ -323,18 +323,18 @@ C’est pourquoi le curriculum vise davantage les **invariants** que la mémoris
 
 ## Navigation
 
-| Besoin | Entrée |
-|---|---|
-| **Je pars de zéro** | [`06-ANNEXES-TRANSVERSES/00-GUIDE.md`](06-ANNEXES-TRANSVERSES/00-GUIDE.md) |
-| **Je veux le parcours complet** | [`PROGRESSION.md`](PROGRESSION.md) |
-| **Je veux installer l’environnement** | [`SETUP.md`](SETUP.md) |
-| **Je veux comprendre le Socle** | [`00-SOCLE/`](00-SOCLE/) |
-| **Je veux commencer la progression** | [`01-CADRAGE/`](01-CADRAGE/) |
-| **Je veux construire et tester** | [`02-CONSTRUCTION/`](02-CONSTRUCTION/) |
-| **Je veux apprendre le pilotage** | [`03-PILOTAGE/`](03-PILOTAGE/) |
-| **Je veux éprouver un système** | [`04-EPREUVE/`](04-EPREUVE/) |
-| **Je veux aller vers la maîtrise** | [`05-MAITRISE/`](05-MAITRISE/) |
-| **Je veux utiliser les annexes transverses** | [`06-ANNEXES-TRANSVERSES/`](06-ANNEXES-TRANSVERSES/) |
+| Besoin                                       | Entrée                                                                     |
+| -------------------------------------------- | -------------------------------------------------------------------------- |
+| **Je pars de zéro**                          | [`06-ANNEXES-TRANSVERSES/00-GUIDE.md`](06-ANNEXES-TRANSVERSES/00-GUIDE.md) |
+| **Je veux le parcours complet**              | [`PROGRESSION.md`](PROGRESSION.md)                                         |
+| **Je veux installer l’environnement**        | [`SETUP.md`](SETUP.md)                                                     |
+| **Je veux comprendre le Socle**              | [`00-SOCLE/`](00-SOCLE/)                                                   |
+| **Je veux commencer la progression**         | [`01-CADRAGE/`](01-CADRAGE/)                                               |
+| **Je veux construire et tester**             | [`02-CONSTRUCTION/`](02-CONSTRUCTION/)                                     |
+| **Je veux apprendre le pilotage**            | [`03-PILOTAGE/`](03-PILOTAGE/)                                             |
+| **Je veux éprouver un système**              | [`04-EPREUVE/`](04-EPREUVE/)                                               |
+| **Je veux aller vers la maîtrise**           | [`05-MAITRISE/`](05-MAITRISE/)                                             |
+| **Je veux utiliser les annexes transverses** | [`06-ANNEXES-TRANSVERSES/`](06-ANNEXES-TRANSVERSES/)                       |
 
 ---
 
@@ -348,6 +348,6 @@ C’est une meilleure protection contre les illusions de maîtrise que n’impor
 
 **Trading Architecte**
 
-*Pas apprendre à prédire. Apprendre à construire des décisions qui restent défendables quand la prédiction échoue.*
+_Pas apprendre à prédire. Apprendre à construire des décisions qui restent défendables quand la prédiction échoue._
 
 </div>
