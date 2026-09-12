@@ -7,7 +7,7 @@ acte: rappel
 
 ## Termes du niveau
 
-règle, backtest, OOS, overfitting, sizing, spread, slippage, capacité
+règle, backtest, OOS, overfitting (surajustement : adaptation excessive aux données connues), sizing, spread, slippage (écart entre le prix visé et le prix effectivement obtenu), capacité
 
 ## Réflexe
 

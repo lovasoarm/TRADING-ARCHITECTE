@@ -5,6 +5,24 @@ acte: classer
 
 # 03 : INTEMPOREL VS PÉRISSABLE
 
+## CARTE VISUELLE
+
+```text
+IDÉE
+  ↓
+EXPOSITION
+  ↓
+SIZING
+  ↓
+LEVIER
+  ↓
+SLIPPAGE / GAP / FRAIS
+  ↓
+PERTE RÉELLE
+  ↓
+CAPITAL RESTANT
+```
+
 ## Plutôt intemporel
 
 ```text

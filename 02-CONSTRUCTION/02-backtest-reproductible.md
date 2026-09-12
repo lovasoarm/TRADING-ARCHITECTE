@@ -12,7 +12,7 @@ perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 
 > **CE MODULE RÉUTILISE :** `01-CADRAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
-# CONSTRUIRE UN PREMIER BACKTEST
+# CONSTRUIRE UN PREMIER BACKTEST (simulation d’une règle sur des données historiques)
 
 Temps de lecture : ~8–12 min  
 Temps de pratique : ~20–40 min

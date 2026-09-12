@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**tendance, range, momentum, supports, RSI, moyennes et chart patterns**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**tendance, range, momentum (persistance statistique de la direction récente des rendements), supports, RSI (Relative Strength Index : oscillateur de momentum compris entre 0 et 100), moyennes et chart patterns**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

@@ -66,7 +66,7 @@ Dans le parcours, protège-toi avec une trace datée : hypothèse avant observat
 
 ## 5. Mini-atelier
 
-Journalise 30 décisions simulées avec état, raison, taille et temps depuis la décision précédente. Compare les décisions planifiées et impulsives sans utiliser le P&L seul comme verdict.
+Journalise 30 décisions simulées avec état, raison, taille et temps depuis la décision précédente. Compare les décisions planifiées et impulsives sans utiliser le P&L (Profit and Loss : gain ou perte de la position) seul comme verdict.
 
 ### Format de preuve
 

@@ -5,6 +5,25 @@ acte: apprendre
 
 # 02 : COMMENT UTILISER LE PARCOURS
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 ## Une séance
 
 ```text

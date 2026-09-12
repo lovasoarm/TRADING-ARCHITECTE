@@ -5,6 +5,24 @@ acte: comprendre
 
 # 02 : MÉCANISME : RISQUE MODÈLE
 
+## CARTE VISUELLE
+
+```text
+IDÉE
+  ↓
+EXPOSITION
+  ↓
+SIZING
+  ↓
+LEVIER
+  ↓
+SLIPPAGE / GAP / FRAIS
+  ↓
+PERTE RÉELLE
+  ↓
+CAPITAL RESTANT
+```
+
 Un modèle est un paquet d'hypothèses.
 
 ```text

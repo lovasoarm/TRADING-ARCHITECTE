@@ -9,6 +9,25 @@ assessment_role: module_gate
 
 # CHALLENGE : 04-EPREUVE
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 ## Mission
 
 Créer un capstone adversarial qui tente de casser un système de recherche par validation avancée, données dégradées et incident.

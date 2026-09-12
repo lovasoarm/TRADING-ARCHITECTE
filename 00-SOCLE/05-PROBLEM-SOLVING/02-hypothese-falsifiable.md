@@ -5,6 +5,25 @@ acte: hypothéser
 
 # 02 : HYPOTHÈSE FALSIFIABLE
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 Forme minimale :
 
 `Je crois X parce que Y ; si X est faux, j'observerai Z.`

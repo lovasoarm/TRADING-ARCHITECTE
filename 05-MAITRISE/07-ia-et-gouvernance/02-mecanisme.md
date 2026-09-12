@@ -5,7 +5,7 @@ acte: comprendre
 
 # 02 : MÉCANISME : IA COMME SYSTÈME
 
-Un LLM ou un agent n'est pas « une stratégie ». Il s'insère dans une chaîne :
+Un LLM (Large Language Model : grand modèle de langage) ou un agent n'est pas « une stratégie ». Il s'insère dans une chaîne :
 
 ```text
 données → perception → raisonnement → proposition → contrôle → exécution

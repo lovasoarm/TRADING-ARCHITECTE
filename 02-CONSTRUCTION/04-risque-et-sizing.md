@@ -45,11 +45,11 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**risk budget, sizing, leverage, drawdown, margin et risk of ruin**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**risk budget, sizing, leverage, drawdown (baisse du capital depuis un précédent sommet), margin (marge : garantie mobilisée pour soutenir une position) et risk of ruin**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 
-Une formule de quantité peut être correcte et pourtant insuffisante si elle ignore gap, slippage, frais, financement ou dépendance avec d’autres positions.
+Une formule de quantité peut être correcte et pourtant insuffisante si elle ignore gap, slippage (écart entre le prix visé et le prix effectivement obtenu), frais, financement ou dépendance avec d’autres positions.
 
 ### Ce qu'il faut remarquer
 

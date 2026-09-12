@@ -4,7 +4,7 @@ acte: protéger
 noyau: oui
 ---
 
-# 06 : LEVIER, MARGE & LIQUIDATION
+# 06 : LEVIER, MARGE & LIQUIDATION (fermeture d’une position, parfois forcée)
 
 **Levier (exposition / capital)** augmente les gains potentiels **et** les pertes.
 
@@ -28,7 +28,7 @@ liquidation possible
 
 ## Exercice
 
-Simule le même portefeuille à 1×, 2× et 5×. Mesure le drawdown et le buffer avant liquidation.
+Simule le même portefeuille à 1×, 2× et 5×. Mesure le drawdown (baisse du capital depuis un précédent sommet) et le buffer avant liquidation.
 
 ## Règle
 

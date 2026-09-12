@@ -7,7 +7,7 @@ acte: rappel
 
 ## Termes du niveau
 
-CPCV, DSR, SPA, perturbation, incident, postmortem, reconstruction
+CPCV, DSR (Deflated Sharpe Ratio : Sharpe corrigé notamment pour les essais multiples et la non-normalité), SPA (Superior Predictive Ability : test de comparaison robuste entre stratégies en tenant compte du data snooping), perturbation, incident, postmortem, reconstruction
 
 ## Réflexe
 

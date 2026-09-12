@@ -9,6 +9,25 @@ assessment_role: module_gate
 
 # CHALLENGE : 00-SOCLE
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 ## Mission
 
 Construire une mini-salle de marché locale : carnet synthétique, fiche instrument et expérience de distributions.

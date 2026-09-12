@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**benchmark, contribution, facteurs, timing, signal et coûts**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**benchmark (référence utilisée pour comparer une performance), contribution, facteurs, timing, signal et coûts**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 
@@ -88,7 +88,7 @@ Prends le mécanisme de cette leçon et change un seul paramètre : instrument, 
 
 ## 7. Ce que tu viens de démontrer
 
-Tu apprends à expliquer un P&L sans te raconter une histoire flatteuse.
+Tu apprends à expliquer un P&L (Profit and Loss : gain ou perte de la position) sans te raconter une histoire flatteuse.
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 

@@ -7,7 +7,7 @@ acte: comprendre
 
 ## Pourquoi ce module existe
 
-Comprendre futures, options, greeks et couverture comme systèmes de risque.
+Comprendre futures (contrats à terme standardisés), options (contrats donnant un droit, sans obligation, d’acheter ou vendre selon des conditions fixées), greeks (sensibilités d’une option à ses principaux facteurs de risque) et couverture comme systèmes de risque.
 
 ## Carte mentale
 

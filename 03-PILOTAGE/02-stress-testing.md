@@ -49,7 +49,7 @@ RÉVISION
 
 ## 3. Exemple guidé
 
-Une baisse de prix seule est trop pauvre. Un vrai scénario peut combiner gap, spread élargi, marge plus forte, corrélation croissante et liquidité réduite.
+Une baisse de prix seule est trop pauvre. Un vrai scénario peut combiner gap, spread (écart entre le meilleur prix vendeur et le meilleur prix acheteur) élargi, marge plus forte, corrélation croissante et liquidité réduite.
 
 ### Ce qu'il faut remarquer
 

@@ -7,7 +7,7 @@ acte: comprendre
 
 ## Pourquoi ce module existe
 
-Utiliser les agents et LLM sans abandonner preuve, traçabilité et contrôle.
+Utiliser les agents et LLM (Large Language Model : grand modèle de langage) sans abandonner preuve, traçabilité et contrôle.
 
 ## Carte mentale
 

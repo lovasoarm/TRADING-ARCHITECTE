@@ -37,3 +37,18 @@ acte: restituer
 | hedging       | réduction d'une exposition par une autre position                   | disparition du risque                     |
 | margin call   | demande de garantie supplémentaire                                  | mécanisme de marché à lui seul            |
 | liquidation   | fermeture forcée ou volontaire d'une position                       | prix favorable                            |
+
+## Termes techniques essentiels
+
+| ATR | amplitude récente des mouvements de prix | ne prédit pas la direction |
+| OHLCV | ouverture, plus haut, plus bas, clôture et volume | ne montre pas toute la microstructure |
+| P&L | gain ou perte d’une position | ne mesure pas la qualité de la décision à lui seul |
+| VWAP | prix moyen pondéré par les volumes | n’est pas un prix juste garanti |
+| HFT | trading automatisé à très haute fréquence | ne signifie pas automatiquement avantage rentable |
+| VaR | seuil de perte estimé à un niveau de confiance | ne décrit pas parfaitement les queues extrêmes |
+| Expected Shortfall | perte moyenne au-delà du seuil de VaR | dépend du modèle et des données |
+| PBO | probabilité estimée de surajustement du backtest | ne garantit pas la robustesse |
+| DSR | Sharpe corrigé notamment pour les essais multiples | ne transforme pas un signal faible en vérité |
+| Greeks | sensibilités d’une option à ses facteurs de risque | ne prédisent pas seuls la trajectoire |
+| RAG | génération de texte assistée par récupération de sources | ne garantit pas la qualité des sources |
+| LLM | grand modèle de langage | ne garantit pas la véracité de sa réponse |

@@ -19,7 +19,7 @@ Temps de pratique : ~20–40 min
 
 ## 1. Pourquoi cette leçon mérite ton temps
 
-Une série de trades est une réalisation d’une variable aléatoire, pas un scénario écrit d’avance. L’espérance décrit un centre, la dispersion décrit l’incertitude autour de ce centre et la séquence influence fortement le drawdown.
+Une série de trades est une réalisation d’une variable aléatoire, pas un scénario écrit d’avance. L’espérance décrit un centre, la dispersion décrit l’incertitude autour de ce centre et la séquence influence fortement le drawdown (baisse du capital depuis un précédent sommet).
 
 Cette leçon ne cherche pas à te faire mémoriser une définition. Elle construit un modèle utilisable lorsque les informations sont incomplètes, contradictoires ou coûteuses.
 

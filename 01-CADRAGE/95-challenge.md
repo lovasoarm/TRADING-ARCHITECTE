@@ -9,6 +9,22 @@ assessment_role: module_gate
 
 # CHALLENGE : 01-CADRAGE
 
+## CARTE VISUELLE
+
+```text
+QUESTION
+   ↓
+SOURCES
+   ↓
+IA
+   ↓
+VÉRIFICATION
+   ↓
+TEST REPRODUCTIBLE
+   ↓
+DÉCISION
+```
+
 ## Mission
 
 Construire un dossier d’hypothèse et un journal de 30 décisions simulées sans effacer les prédictions initiales.

@@ -7,13 +7,31 @@ assessment_role: project_gate
 
 # 50 : MINI-PROJET FOUNDATIONS
 
-Construis un **marché miniature** local : données de rendements, distributions, carnet, sizing et liquidation.
+## CARTE VISUELLE
+
+```text
+DÉCISION
+   ↓
+ORDRE
+   ↓
+ROUTAGE
+   ↓
+CARNET
+   ↓
+MATCHING
+   ↓
+EXÉCUTION
+   ↓
+PRIX DIFFUSÉ
+```
+
+Construis un **marché miniature** local : données de rendements, distributions, carnet, sizing et liquidation (fermeture d’une position, parfois forcée).
 
 ## Livrables
 
 - [ ] 100 rendements synthétiques
 - [ ] statistiques descriptives
-- [ ] max drawdown
+- [ ] max drawdown (baisse du capital depuis un précédent sommet)
 - [ ] carnet 6 niveaux
 - [ ] exécution de 3 tailles
 - [ ] position sizing avec unité explicite

@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**time series, factors, momentum, mean reversion, régression et optimisation**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**time series, factors, momentum, mean reversion (retour statistique d’une variable vers une moyenne de référence), régression et optimisation**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

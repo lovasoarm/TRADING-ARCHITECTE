@@ -7,7 +7,7 @@ acte: comprendre
 
 ## Pourquoi ce module existe
 
-Tests multiples, bootstrap, DSR, PBO, validation hors échantillon et réplication.
+Tests multiples, bootstrap (rééchantillonnage des observations pour quantifier l’incertitude), DSR, PBO (Probability of Backtest Overfitting : probabilité de surajustement d’un backtest), validation hors échantillon et réplication.
 
 ## Carte mentale
 

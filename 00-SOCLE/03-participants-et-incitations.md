@@ -19,7 +19,7 @@ Temps de pratique : ~20–40 min
 
 ## 1. Pourquoi cette leçon mérite ton temps
 
-Le marché agrège des acteurs dont les objectifs divergent. Un industriel peut chercher à réduire son risque ; un market maker cherche à fournir de la liquidité ; un fonds peut rééquilibrer ; un arbitragiste cherche un écart ; un particulier peut spéculer.
+Le marché agrège des acteurs dont les objectifs divergent. Un industriel peut chercher à réduire son risque ; un market maker (teneur de marché fournissant régulièrement des prix acheteur et vendeur) cherche à fournir de la liquidité ; un fonds peut rééquilibrer ; un arbitragiste cherche un écart ; un particulier peut spéculer.
 
 Cette leçon ne cherche pas à te faire mémoriser une définition. Elle construit un modèle utilisable lorsque les informations sont incomplètes, contradictoires ou coûteuses.
 

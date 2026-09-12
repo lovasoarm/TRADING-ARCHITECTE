@@ -3,7 +3,7 @@ stability: intemporel
 acte: dépanner
 ---
 
-# 06 : DEBUGGING DE BACKTEST
+# 06 : DEBUGGING DE BACKTEST (simulation d’une règle sur des données historiques)
 
 Quand une stratégie « devient miraculeusement » rentable, suspecte d'abord :
 

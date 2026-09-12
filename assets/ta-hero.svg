@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="t d">
+  <title id="t">Trading Architecte : architecture d'un apprentissage sous incertitude</title>
+  <desc id="d">Carte visuelle reliant comprendre, mesurer, tester, casser, gérer, construire et adapter.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#141b31"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7dd3fc"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1400" height="420" rx="30" fill="url(#bg)"/>
+  <g opacity=".14" stroke="#fff"><path d="M0 90H1400M0 180H1400M0 270H1400M0 360H1400"/><path d="M140 0V420M280 0V420M420 0V420M560 0V420M700 0V420M840 0V420M980 0V420M1120 0V420M1260 0V420"/></g>
+  <text x="70" y="78" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="42" font-weight="800">TRADING ARCHITECTE</text>
+  <text x="70" y="112" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="18">Un parcours pour comprendre les marchés, construire des hypothèses et survivre à l'incertitude.</text>
+  <g filter="url(#s)">
+    <rect x="70" y="155" width="230" height="150" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="92" y="190" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">SOCLE</text>
+    <text x="92" y="225" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="800">Comprendre</text>
+    <text x="92" y="252" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">marchés · risque · langage</text>
+    <text x="92" y="276" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">microstructure · données</text>
+  </g>
+  <g filter="url(#s)">
+    <rect x="335" y="155" width="230" height="150" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="357" y="190" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">LAB</text>
+    <text x="357" y="225" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="800">Tester</text>
+    <text x="357" y="252" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">hypothèses · backtests</text>
+    <text x="357" y="276" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">statistiques · coûts</text>
+  </g>
+  <g filter="url(#s)">
+    <rect x="600" y="155" width="230" height="150" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="622" y="190" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">RED TEAM</text>
+    <text x="622" y="225" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="800">Casser</text>
+    <text x="622" y="252" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">stress · biais · régimes</text>
+    <text x="622" y="276" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">échecs · postmortems</text>
+  </g>
+  <g filter="url(#s)">
+    <rect x="865" y="155" width="230" height="150" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="887" y="190" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">SYSTEM</text>
+    <text x="887" y="225" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="800">Gérer</text>
+    <text x="887" y="252" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">sizing · exposition · contrôle</text>
+    <text x="887" y="276" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">monitoring · incidents</text>
+  </g>
+  <g filter="url(#s)">
+    <rect x="1130" y="155" width="200" height="150" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="1152" y="190" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">CAPSTONE</text>
+    <text x="1152" y="225" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="800">Adapter</text>
+    <text x="1152" y="252" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">preuve · décision</text>
+    <text x="1152" y="276" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="15">transfert · terrain</text>
+  </g>
+  <path d="M300 230H335M565 230H600M830 230H865M1095 230H1130" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="300" cy="230" r="7" fill="#7dd3fc"/><circle cx="565" cy="230" r="7" fill="#93c5fd"/><circle cx="830" cy="230" r="7" fill="#a5b4fc"/><circle cx="1095" cy="230" r="7" fill="#c4b5fd"/>
+  <text x="70" y="360" fill="#e2e8f0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">COMPRENDRE → MESURER → TESTER → CASSER → GÉRER → CONSTRUIRE → ADAPTER</text>
+</svg>

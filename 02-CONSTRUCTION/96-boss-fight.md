@@ -13,7 +13,7 @@ assessment_role: mastery_gate
 
 ## Situation
 
-La meilleure variante produit un Sharpe impressionnant après 40 essais. Ta mission est de déterminer si le résultat mérite d’être cru sans réécrire l’historique. Tu dois exposer les essais, refaire le test OOS et intégrer les coûts.
+La meilleure variante produit un Sharpe (ratio comparant un rendement excédentaire à une mesure de volatilité) impressionnant après 40 essais. Ta mission est de déterminer si le résultat mérite d’être cru sans réécrire l’historique. Tu dois exposer les essais, refaire le test OOS et intégrer les coûts.
 
 ## Manches
 
@@ -37,7 +37,7 @@ Réponds par écrit :
 2. qu’est-ce qui a cassé ?
 3. quelle hypothèse était trop forte ?
 4. quelle modification est justifiée ?
-5. quelle modification serait de l’overfitting ou du camouflage ?
+5. quelle modification serait de l’overfitting (surajustement : adaptation excessive aux données connues) ou du camouflage ?
 
 ## Conditions de passage
 

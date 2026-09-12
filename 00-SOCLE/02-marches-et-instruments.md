@@ -19,7 +19,7 @@ Temps de pratique : ~20–40 min
 
 ## 1. Pourquoi cette leçon mérite ton temps
 
-Un instrument est un contrat avec des propriétés précises : exposition, échéance, mode de règlement, marge, financement, liquidité et mécanisme de liquidation. Dire « je trade le S&P 500 » ne dit pas si tu utilises une action, un ETF, un future ou une option.
+Un instrument est un contrat avec des propriétés précises : exposition, échéance, mode de règlement, marge, financement, liquidité et mécanisme de liquidation (fermeture d’une position, parfois forcée). Dire « je trade le S&P 500 » ne dit pas si tu utilises une action, un ETF (fonds coté en Bourse regroupant un panier d’actifs), un future ou une option.
 
 Cette leçon ne cherche pas à te faire mémoriser une définition. Elle construit un modèle utilisable lorsque les informations sont incomplètes, contradictoires ou coûteuses.
 
@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**spot, action, ETF, future, option, FX, crypto et marge**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**spot (marché au comptant, avec échange immédiat ou quasi immédiat), action, ETF, future, option, FX (Foreign Exchange : marché des devises), crypto et marge**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

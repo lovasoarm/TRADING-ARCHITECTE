@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**overfitting, look-ahead, survivorship, data snooping et multiple testing**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**overfitting (surajustement : adaptation excessive aux données connues), look-ahead, survivorship, data snooping et multiple testing**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

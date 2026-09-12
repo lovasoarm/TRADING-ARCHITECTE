@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**ordre, routage, carnet, matching, exécution, spread et slippage**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**ordre, routage, carnet, matching, exécution, spread et slippage (écart entre le prix visé et le prix effectivement obtenu)**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

@@ -9,6 +9,24 @@ assessment_role: module_gate
 
 # CHALLENGE : 03-PILOTAGE
 
+## CARTE VISUELLE
+
+```text
+IDÉE
+  ↓
+EXPOSITION
+  ↓
+SIZING
+  ↓
+LEVIER
+  ↓
+SLIPPAGE / GAP / FRAIS
+  ↓
+PERTE RÉELLE
+  ↓
+CAPITAL RESTANT
+```
+
 ## Mission
 
 Construire un portefeuille simulé avec budget de risque, scénarios de stress, exécution et contrôles opérationnels.

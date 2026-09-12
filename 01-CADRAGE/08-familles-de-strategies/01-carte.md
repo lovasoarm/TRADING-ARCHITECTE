@@ -7,7 +7,7 @@ acte: comprendre
 
 ## Pourquoi ce module existe
 
-Cartographier trend, momentum, mean reversion, carry, arbitrage, market making, vol et leurs hypothèses.
+Cartographier trend, momentum, mean reversion (retour statistique d’une variable vers une moyenne de référence), carry, arbitrage, market making, vol et leurs hypothèses.
 
 ## Carte mentale
 

@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**spread, commission, slippage, market impact, turnover et capacité**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**spread, commission, slippage (écart entre le prix visé et le prix effectivement obtenu), market impact, turnover et capacité**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

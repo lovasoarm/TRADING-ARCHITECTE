@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+  <title id="t">Échelle de preuve de Trading Architecte</title>
+  <desc id="d">Une idée progresse du phénomène à la production sous stress.</desc>
+  <rect width="1200" height="520" rx="28" fill="#0f172a"/>
+  <g font-family="Inter,Arial,sans-serif">
+    <text x="60" y="68" fill="#f8fafc" font-size="30" font-weight="800">Une idée n'est pas validée parce qu'elle est séduisante.</text>
+    <text x="60" y="98" fill="#94a3b8" font-size="16">Elle doit survivre à des niveaux de plus en plus hostiles.</text>
+    <g transform="translate(70,145)">
+      <rect x="0" y="0" width="170" height="54" rx="14" fill="#1e293b" stroke="#334155"/><text x="25" y="34" fill="#f8fafc" font-size="17" font-weight="700">1 · Phénomène</text>
+      <rect x="190" y="0" width="170" height="54" rx="14" fill="#1e293b" stroke="#334155"/><text x="215" y="34" fill="#f8fafc" font-size="17" font-weight="700">2 · Prédiction</text>
+      <rect x="380" y="0" width="170" height="54" rx="14" fill="#1e293b" stroke="#334155"/><text x="405" y="34" fill="#f8fafc" font-size="17" font-weight="700">3 · Hors-échant.</text>
+      <rect x="570" y="0" width="170" height="54" rx="14" fill="#1e293b" stroke="#334155"/><text x="595" y="34" fill="#f8fafc" font-size="17" font-weight="700">4 · Après coûts</text>
+      <rect x="760" y="0" width="170" height="54" rx="14" fill="#1e293b" stroke="#334155"/><text x="785" y="34" fill="#f8fafc" font-size="17" font-weight="700">5 · Sous stress</text>
+      <rect x="950" y="0" width="120" height="54" rx="14" fill="#312e81" stroke="#818cf8"/><text x="972" y="34" fill="#fff" font-size="17" font-weight="800">6 · Terrain</text>
+    </g>
+    <g transform="translate(70,255)">
+      <path d="M0 170 L0 135 L190 135 L190 102 L380 102 L380 69 L570 69 L570 36 L760 36 L760 4 L950 4" fill="none" stroke="#c4b5fd" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="0" cy="170" r="8" fill="#7dd3fc"/><circle cx="190" cy="135" r="8" fill="#7dd3fc"/><circle cx="380" cy="102" r="8" fill="#93c5fd"/><circle cx="570" cy="69" r="8" fill="#a5b4fc"/><circle cx="760" cy="36" r="8" fill="#c4b5fd"/><circle cx="950" cy="4" r="10" fill="#f8fafc"/>
+      <text x="0" y="215" fill="#94a3b8" font-size="15">Chaque marche peut invalider la précédente.</text>
+    </g>
+    <text x="70" y="470" fill="#cbd5e1" font-size="16">Le but n'est pas de trouver une certitude. Le but est de connaître exactement ce qui tient : et ce qui casse.</text>
+  </g>
+</svg>

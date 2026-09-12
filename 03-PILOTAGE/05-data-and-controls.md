@@ -66,7 +66,7 @@ Dans le parcours, protège-toi avec une trace datée : hypothèse avant observat
 
 ## 5. Mini-atelier
 
-Injecte données manquantes, décalage horaire, doublons et mauvaise unité. Vérifie quelles alarmes détectent chaque défaut avant qu’il atteigne le P&L.
+Injecte données manquantes, décalage horaire, doublons et mauvaise unité. Vérifie quelles alarmes détectent chaque défaut avant qu’il atteigne le P&L (Profit and Loss : gain ou perte de la position).
 
 ### Format de preuve
 

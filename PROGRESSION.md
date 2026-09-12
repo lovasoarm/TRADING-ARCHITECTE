@@ -55,7 +55,7 @@ Transformer une impression en hypothèse et instrumenter la décision humaine.
 
 ## 02 : CONSTRUCTION
 
-Construire stratégie, données, backtest, validation, sizing et coût.
+Construire stratégie, données, backtest (simulation d’une règle sur des données historiques), validation, sizing et coût.
 
 **Sortie :** moteur reproductible + rapport de recherche + analyse des frictions.
 

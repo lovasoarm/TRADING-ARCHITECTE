@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**espérance, variance, edge, distribution et drawdown**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**espérance, variance, edge, distribution et drawdown (baisse du capital depuis un précédent sommet)**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

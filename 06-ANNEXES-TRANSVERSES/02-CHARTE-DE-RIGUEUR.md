@@ -30,5 +30,5 @@ IA ≠ ORACLE
 |---|---|
 | « les banques chassent mes stops » | « quelle mécanique de liquidité et d’exécution explique ce mouvement ? » |
 | « la figure garantit un retournement » | « quelle asymétrie mesurable existe, dans quelles conditions ? » |
-| « le backtest prouve la stratégie » | « que reste-t-il hors échantillon, après coûts et perturbations ? » |
-| « je ne risque que 1 % » | « quel est le risque avec gap, slippage, financement et positions corrélées ? » |
+| « le backtest (simulation d’une règle sur des données historiques) prouve la stratégie » | « que reste-t-il hors échantillon, après coûts et perturbations ? » |
+| « je ne risque que 1 % » | « quel est le risque avec gap, slippage (écart entre le prix visé et le prix effectivement obtenu), financement et positions corrélées ? » |

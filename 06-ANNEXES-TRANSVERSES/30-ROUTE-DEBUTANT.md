@@ -5,6 +5,25 @@ acte: parcours
 
 # ROUTE DÉBUTANT : ZÉRO → PREMIÈRE PREUVE
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 Ce fichier donne une route courte aux personnes totalement nouvelles.
 
 ## Semaine 1

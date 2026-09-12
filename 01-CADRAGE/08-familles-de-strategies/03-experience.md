@@ -6,6 +6,25 @@ assessment_role: instructional_checkpoint
 
 # 03 : EXPÉRIENCE : LA CARTE DES HYPOTHÈSES
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 Pour six familles, écris : signal, horizon, coût dominant, risque de queue, dépendance de régime, mécanisme économique supposé.
 
 Ne choisis aucune famille « parce qu'elle gagne ». Choisis celle dont tu peux formuler le mécanisme le plus clairement.

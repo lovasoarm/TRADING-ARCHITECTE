@@ -9,6 +9,25 @@ assessment_role: module_gate
 
 # CHALLENGE : 05-MAITRISE
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 ## Mission
 
 Construire un dossier de praticien : attribution, gouvernance, usage de l’IA, scénario 2035+ et thèse défendable.

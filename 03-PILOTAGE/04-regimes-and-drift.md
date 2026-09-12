@@ -49,7 +49,7 @@ RÉVISION
 
 ## 3. Exemple guidé
 
-Le danger est double : ignorer le changement ou fabriquer un détecteur de régime tellement complexe qu’il devient lui-même une source d’overfitting.
+Le danger est double : ignorer le changement ou fabriquer un détecteur de régime tellement complexe qu’il devient lui-même une source d’overfitting (surajustement : adaptation excessive aux données connues).
 
 ### Ce qu'il faut remarquer
 
@@ -66,7 +66,7 @@ Dans le parcours, protège-toi avec une trace datée : hypothèse avant observat
 
 ## 5. Mini-atelier
 
-Utilise une fenêtre glissante. Mesure d’abord la dérive de performance, volatilité, slippage et corrélations. Ensuite seulement propose une alerte.
+Utilise une fenêtre glissante. Mesure d’abord la dérive de performance, volatilité, slippage (écart entre le prix visé et le prix effectivement obtenu) et corrélations. Ensuite seulement propose une alerte.
 
 ### Format de preuve
 

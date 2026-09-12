@@ -9,6 +9,25 @@ assessment_role: module_gate
 
 # CHALLENGE : 02-CONSTRUCTION
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 ## Mission
 
 Construire un moteur de recherche minimal qui prend une règle gelée, un jeu de données fixé et produit un rapport reproductible.

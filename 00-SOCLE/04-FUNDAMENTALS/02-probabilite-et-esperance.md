@@ -6,6 +6,25 @@ noyau: oui
 
 # 02 : PROBABILITÉ & ESPÉRANCE
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 **Espérance (gain moyen attendu d'une règle si on la répète)** : moyenne pondérée des résultats possibles.
 
 ```text

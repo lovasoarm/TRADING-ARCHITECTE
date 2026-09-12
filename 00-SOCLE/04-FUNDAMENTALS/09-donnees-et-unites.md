@@ -6,6 +6,25 @@ noyau: oui
 
 # 09 : DONNÉES & UNITÉS
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 Beaucoup d'erreurs de trading sont des erreurs de **dimensions** : dollars vs cents, pourcentage vs décimal, prix par action vs valeur notionnelle.
 
 ## Checklist

@@ -5,6 +5,25 @@ acte: restituer
 
 # 03 : RAPPEL À FROID
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 Ferme les notes. Explique :
 
 1. un mécanisme ;

@@ -12,7 +12,7 @@ perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 
 > **CE MODULE RÉUTILISE :** `03-PILOTAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
-# CPCV, DSR ET COMPARAISON CONTRE DES ALTERNATIVES
+# CPCV, DSR (Deflated Sharpe Ratio : Sharpe corrigé notamment pour les essais multiples et la non-normalité) ET COMPARAISON CONTRE DES ALTERNATIVES
 
 Temps de lecture : ~8–12 min  
 Temps de pratique : ~20–40 min
@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**CPCV, Deflated Sharpe Ratio, SPA, Reality Check et multiplicité**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**CPCV, Deflated Sharpe (ratio comparant un rendement excédentaire à une mesure de volatilité) Ratio, SPA, Reality Check (test de White visant à contrôler le data snooping entre stratégies) et multiplicité**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

@@ -4,7 +4,7 @@ acte: comprendre
 noyau: oui
 ---
 
-# 04 : VOLATILITÉ & DRAWDOWN
+# 04 : VOLATILITÉ & DRAWDOWN (baisse du capital depuis un précédent sommet)
 
 **Volatilité (dispersion des rendements)** n'est pas synonyme de **drawdown (baisse depuis un sommet)**.
 

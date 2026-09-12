@@ -6,9 +6,9 @@ stability: evolutif
 
 ## E01 : Win rate contre espérance
 
-Créer plusieurs distributions de trades et comparer taux de réussite, espérance et drawdown.
+Créer plusieurs distributions de trades et comparer taux de réussite, espérance et drawdown (baisse du capital depuis un précédent sommet).
 
-## E02 : Carnet et slippage
+## E02 : Carnet et slippage (écart entre le prix visé et le prix effectivement obtenu)
 
 Faire consommer plusieurs niveaux d’un carnet synthétique et calculer le prix moyen.
 
@@ -16,13 +16,13 @@ Faire consommer plusieurs niveaux d’un carnet synthétique et calculer le prix
 
 Décider avec données masquées puis révéler la suite.
 
-## E04 : Overfitting
+## E04 : Overfitting (surajustement : adaptation excessive aux données connues)
 
-Tester plusieurs variantes, geler la meilleure et observer l’out-of-sample.
+Tester plusieurs variantes, geler la meilleure et observer l’out-of-sample (hors échantillon : données gardées à l’écart de la construction).
 
 ## E05 : Coûts adverses
 
-Multiplier spread, slippage et frais.
+Multiplier spread (écart entre le meilleur prix vendeur et le meilleur prix acheteur), slippage et frais.
 
 ## E06 : Gap stress
 
@@ -32,7 +32,7 @@ Remplacer le prix de sortie théorique par des gaps croissants.
 
 Faire converger des corrélations vers un régime élevé.
 
-## E08 : Kelly sous erreur
+## E08 : Kelly (critère de taille de mise fondé sur l’avantage estimé et le risque de ruine) sous erreur
 
 Perturber volontairement les paramètres de sizing.
 

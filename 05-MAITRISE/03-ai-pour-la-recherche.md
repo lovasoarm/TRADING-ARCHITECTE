@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**LLM, RAG, audit du code, hallucination et traçabilité**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**LLM (Large Language Model : grand modèle de langage), RAG (Retrieval-Augmented Generation : génération assistée par récupération de sources), audit du code, hallucination et traçabilité**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 

@@ -5,6 +5,25 @@ acte: raisonner
 
 # 07 : INCERTITUDE & AMBIGUÏTÉ
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 **Risque** : probabilités suffisamment spécifiées.
 
 **Ambiguïté** : probabilités elles-mêmes incertaines.

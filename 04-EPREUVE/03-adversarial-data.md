@@ -66,7 +66,7 @@ Dans le parcours, protège-toi avec une trace datée : hypothèse avant observat
 
 ## 5. Mini-atelier
 
-Teste chaque dégradation séparément, puis une combinaison. Mesure changement de décision, P&L et taux de refus contrôlé.
+Teste chaque dégradation séparément, puis une combinaison. Mesure changement de décision, P&L (Profit and Loss : gain ou perte de la position) et taux de refus contrôlé.
 
 ### Format de preuve
 

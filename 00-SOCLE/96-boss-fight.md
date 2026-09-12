@@ -37,7 +37,7 @@ Réponds par écrit :
 2. qu’est-ce qui a cassé ?
 3. quelle hypothèse était trop forte ?
 4. quelle modification est justifiée ?
-5. quelle modification serait de l’overfitting ou du camouflage ?
+5. quelle modification serait de l’overfitting (surajustement : adaptation excessive aux données connues) ou du camouflage ?
 
 ## Conditions de passage
 

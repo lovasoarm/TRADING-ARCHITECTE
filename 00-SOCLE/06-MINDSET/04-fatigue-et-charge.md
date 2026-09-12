@@ -5,6 +5,25 @@ acte: gérer
 
 # 04 : FATIGUE & CHARGE
 
+## CARTE VISUELLE
+
+```text
+OBSERVE
+   ↓
+FORMULE
+   ↓
+CONSTRUIS
+   ↓
+TESTE
+   ↓
+MESURE
+   ↓
+CASSE
+   ↓
+RÉVISE
+   ↺
+```
+
 Sous fatigue, le cerveau privilégie les raccourcis.
 
 La réponse architecturelle est :

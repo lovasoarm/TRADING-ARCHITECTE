@@ -7,7 +7,7 @@ acte: rappel
 
 ## Termes du niveau
 
-facteur, corrélation, stress, liquidation, réconciliation, régime, contrôle
+facteur, corrélation, stress, liquidation (fermeture d’une position, parfois forcée), réconciliation, régime, contrôle
 
 ## Réflexe
 
