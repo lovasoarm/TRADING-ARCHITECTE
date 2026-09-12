@@ -1,0 +1,10 @@
+---
+stability: intemporel
+acte: transférer
+---
+
+# 99 : PORTAGE
+
+Transfère le mécanisme de **FEUILLE DE ROUTE 2035+** à un autre actif, un autre horizon et un problème non financier.
+
+Pour chaque cas : invariant, changement, mesure, risque.
