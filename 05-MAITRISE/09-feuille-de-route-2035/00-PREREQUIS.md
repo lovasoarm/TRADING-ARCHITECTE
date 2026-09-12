@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : FEUILLE DE ROUTE 2035+
+# 00 : PRÉREQUIS : FEUILLE DE ROUTE 2035+
 
 ## Avant de commencer
 
@@ -38,4 +38,4 @@ Commence par `01-carte.md`, puis `02-mecanisme.md`. Ne saute au code que lorsque
 
 ### Références
 
-- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348
+- Hasbrouck, J. (1995), _One Security, Many Markets: Determining the Contributions to Price Discovery_, Journal of Finance 50, 1175–1199. : https://doi.org/10.2307/2329348

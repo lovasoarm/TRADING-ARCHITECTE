@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : OPÉRATIONS & COMPLIANCE
+# 00 : PRÉREQUIS : OPÉRATIONS & COMPLIANCE
 
 ## Avant de commencer
 

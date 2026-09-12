@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : PAYOFF LAB
+# 03 : EXPÉRIENCE : PAYOFF LAB
 
 ## CARTE VISUELLE
 

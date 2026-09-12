@@ -3,7 +3,7 @@ stability: stable
 acte: comprendre
 ---
 
-# 01 — CARTE
+# 01 : CARTE
 
 ## Pourquoi ce module existe
 
@@ -71,4 +71,4 @@ Les termes `biais, hypothèses faibles, contre-exemples, falsification` sont int
 
 ### Références
 
-- McLean, R. D. & Pontiff, J. (2016), *Does Academic Research Destroy Stock Return Predictability?*, Journal of Finance 71(1), 5–32. — https://doi.org/10.1111/jofi.12365
+- McLean, R. D. & Pontiff, J. (2016), _Does Academic Research Destroy Stock Return Predictability?_, Journal of Finance 71(1), 5–32. : https://doi.org/10.1111/jofi.12365

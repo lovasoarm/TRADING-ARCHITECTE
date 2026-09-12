@@ -3,7 +3,7 @@ stability: intemporel
 acte: transition
 ---
 
-# 99A — PONT
+# 99A : PONT
 
 Tu passes maintenant du système testable à son pilotage sous contraintes.
 

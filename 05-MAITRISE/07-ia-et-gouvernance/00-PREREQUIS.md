@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : IA & GOUVERNANCE
+# 00 : PRÉREQUIS : IA & GOUVERNANCE
 
 ## Avant de commencer
 

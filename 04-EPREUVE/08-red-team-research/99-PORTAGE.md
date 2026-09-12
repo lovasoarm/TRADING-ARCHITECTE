@@ -3,7 +3,7 @@ stability: intemporel
 acte: transférer
 ---
 
-# 99 — PORTAGE
+# 99 : PORTAGE
 
 ## CARTE VISUELLE
 
@@ -51,4 +51,4 @@ Conserve : contexte initial → contexte nouveau → tableau comparatif → déc
 
 ### Références
 
-- McLean, R. D. & Pontiff, J. (2016), *Does Academic Research Destroy Stock Return Predictability?*, Journal of Finance 71(1), 5–32. — https://doi.org/10.1111/jofi.12365
+- McLean, R. D. & Pontiff, J. (2016), _Does Academic Research Destroy Stock Return Predictability?_, Journal of Finance 71(1), 5–32. : https://doi.org/10.1111/jofi.12365

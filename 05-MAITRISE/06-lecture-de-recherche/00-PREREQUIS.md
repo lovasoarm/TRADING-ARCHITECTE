@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : LIRE LA RECHERCHE
+# 00 : PRÉREQUIS : LIRE LA RECHERCHE
 
 ## Avant de commencer
 

@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : UNE RÈGLE, TROIS HORAIRES
+# 03 : EXPÉRIENCE : UNE RÈGLE, TROIS HORAIRES
 
 ## CARTE VISUELLE
 
@@ -28,4 +28,4 @@ Mesure : turnover, coûts, nombre de décisions, dispersion des résultats, max 
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

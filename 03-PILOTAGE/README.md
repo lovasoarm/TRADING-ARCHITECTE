@@ -4,9 +4,9 @@ acte: parcours
 noyau: oui
 ---
 
-> **SCÈNE CRAZYDEVS — LE COCKPIT :** Un cockpit sérieux surveille aussi les alarmes et les procédures de sortie.
+> **SCÈNE CRAZYDEVS : LE COCKPIT :** Un cockpit sérieux surveille aussi les alarmes et les procédures de sortie.
 
-# 03 — PILOTAGE
+# 03 : PILOTAGE
 
 **Mission :** Faire survivre le système au niveau portefeuille et exploitation.
 
@@ -42,7 +42,6 @@ PORTAGE
 PONT
 ```
 
-
 ## Modules approfondis
 
 - [DÉRIVÉS & GESTION DES PAYOFFS](06-derives-et-greques/README.md)
@@ -52,11 +51,11 @@ PONT
 
 ## Leçons
 
-- [01 — 02-stress-testing](02-stress-testing.md)
-- [02 — 03-execution-system](03-execution-system.md)
-- [04 — 01-portfolio-risk](01-portfolio-risk.md)
-- [06 — 05-data-and-controls](05-data-and-controls.md)
-- [08 — 04-regimes-and-drift](04-regimes-and-drift.md)
+- [01 : 02-stress-testing](02-stress-testing.md)
+- [02 : 03-execution-system](03-execution-system.md)
+- [04 : 01-portfolio-risk](01-portfolio-risk.md)
+- [06 : 05-data-and-controls](05-data-and-controls.md)
+- [08 : 04-regimes-and-drift](04-regimes-and-drift.md)
 
 ## NEXT ACTION
 

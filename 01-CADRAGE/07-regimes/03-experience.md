@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : COUPER L'HISTORIQUE
+# 03 : EXPÉRIENCE : COUPER L'HISTORIQUE
 
 ## CARTE VISUELLE
 
@@ -30,4 +30,4 @@ Puis essaye de retirer le filtre : si tout s'écroule, demande si le filtre capt
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

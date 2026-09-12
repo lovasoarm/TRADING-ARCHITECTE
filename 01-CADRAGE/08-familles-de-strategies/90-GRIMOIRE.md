@@ -3,7 +3,7 @@ stability: stable
 acte: référence
 ---
 
-# 90 — GRIMOIRE : FAMILLES DE STRATÉGIES
+# 90 : GRIMOIRE : FAMILLES DE STRATÉGIES
 
 ## Runes de travail
 
@@ -53,4 +53,4 @@ Pour **familles de stratégies**, garde une copie des données brutes, des param
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

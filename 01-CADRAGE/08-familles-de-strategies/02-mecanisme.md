@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 — MÉCANISME : FAMILLES
+# 02 : MÉCANISME : FAMILLES
 
 ```text
 Trend → exploiter une persistance de direction
@@ -39,5 +39,5 @@ Pour ce mécanisme, le parcours s'appuie notamment sur White (2000, Reality Chec
 
 ### Références
 
-- Hansen, P. R. (2005), *A Test for Superior Predictive Ability*, JBES 23(4), 365–380. — https://doi.org/10.1198/073500105000000063
-- White, H. (2000), *A Reality Check for Data Snooping*. — https://doi.org/10.1111/1468-0262.00152
+- Hansen, P. R. (2005), _A Test for Superior Predictive Ability_, JBES 23(4), 365–380. : https://doi.org/10.1198/073500105000000063
+- White, H. (2000), _A Reality Check for Data Snooping_. : https://doi.org/10.1111/1468-0262.00152

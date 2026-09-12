@@ -3,7 +3,7 @@ stability: intemporel
 acte: transition
 ---
 
-# 99A — PONT
+# 99A : PONT
 
 Tu passes maintenant de l’observation et de l’hypothèse à la construction d’un système.
 

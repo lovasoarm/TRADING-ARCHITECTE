@@ -8,7 +8,7 @@ cognitive_level: L5
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
 
 > **CE MODULE RÉUTILISE :** `01-CADRAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu apprends à distinguer rendement de tableur et rendement économiquement acce
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 
@@ -126,4 +126,4 @@ Le module s'appuie sur le cadre de coûts/impact d'Almgren & Chriss et sur les r
 
 ### Références
 
-- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348
+- Hasbrouck, J. (1995), _One Security, Many Markets: Determining the Contributions to Price Discovery_, Journal of Finance 50, 1175–1199. : https://doi.org/10.2307/2329348

@@ -3,7 +3,7 @@ stability: intemporel
 acte: pratiquer
 ---
 
-# 04 — RÈGLES DU JEU
+# 04 : RÈGLES DU JEU
 
 1. **Pas de capital réel requis** pour apprendre.
 2. **Toute hypothèse a une date** lorsqu'elle dépend d'une observation.

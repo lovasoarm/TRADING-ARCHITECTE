@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : LA CARTE DES HYPOTHÈSES
+# 03 : EXPÉRIENCE : LA CARTE DES HYPOTHÈSES
 
 ## CARTE VISUELLE
 

@@ -3,7 +3,7 @@ stability: intemporel
 acte: apprendre
 ---
 
-# 02 — COMMENT UTILISER LE PARCOURS
+# 02 : COMMENT UTILISER LE PARCOURS
 
 ## CARTE VISUELLE
 

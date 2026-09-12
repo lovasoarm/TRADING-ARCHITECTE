@@ -3,7 +3,7 @@ stability: stable
 acte: référence
 ---
 
-# 90 — GRIMOIRE : FEUILLE DE ROUTE 2035+
+# 90 : GRIMOIRE : FEUILLE DE ROUTE 2035+
 
 ## Runes de travail
 
@@ -53,4 +53,4 @@ Pour **compétences durables à horizon 2035+**, garde une copie des données br
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

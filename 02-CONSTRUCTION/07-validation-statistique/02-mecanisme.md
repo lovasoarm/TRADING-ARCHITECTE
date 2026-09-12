@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 — MÉCANISME : VALIDATION
+# 02 : MÉCANISME : VALIDATION
 
 Tester N variantes augmente la probabilité de trouver un gagnant par hasard.
 
@@ -36,5 +36,5 @@ Pour ce mécanisme, le parcours s'appuie notamment sur White (2000, Reality Chec
 
 ### Références
 
-- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
-- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253
+- White, H. (2000), _A Reality Check for Data Snooping_, Econometrica 68(5), 1097–1126. : https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), _The Probability of Backtest Overfitting_. : https://ssrn.com/abstract=2326253

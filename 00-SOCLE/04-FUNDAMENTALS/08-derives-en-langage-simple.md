@@ -3,7 +3,7 @@ stability: évolutif
 acte: comprendre
 ---
 
-# 08 — DÉRIVÉS EN LANGAGE SIMPLE
+# 08 : DÉRIVÉS EN LANGAGE SIMPLE
 
 **Future (contrat ferme à terme)** : engagement standardisé sur une transaction future.
 

@@ -3,7 +3,7 @@ stability: intemporel
 acte: critiquer
 ---
 
-# 04 — LIMITES
+# 04 : LIMITES
 
 ## CARTE VISUELLE
 
@@ -27,13 +27,13 @@ décision
 
 Pour **compétences durables à horizon 2035+**, ne mémorise pas une liste de risques : apprends à les provoquer.
 
-| Défaillance | Symptôme | Test simple | Réponse attendue |
-|---|---|---|---|
-| données incomplètes | résultat anormalement propre | supprimer une partie des observations | documenter la sensibilité |
-| changement de régime | performance qui se retourne | découper l'échantillon par période | conditionner la conclusion |
-| coût sous-estimé | edge réduit en production | multiplier les coûts par 2 | recalculer le seuil de viabilité |
-| fuite d'information | performance irréaliste | décaler la variable d'une période | corriger le pipeline |
-| sélection postérieure | meilleur cas choisi après coup | rejouer l'univers complet | conserver toutes les variantes |
+| Défaillance           | Symptôme                       | Test simple                           | Réponse attendue                 |
+| --------------------- | ------------------------------ | ------------------------------------- | -------------------------------- |
+| données incomplètes   | résultat anormalement propre   | supprimer une partie des observations | documenter la sensibilité        |
+| changement de régime  | performance qui se retourne    | découper l'échantillon par période    | conditionner la conclusion       |
+| coût sous-estimé      | edge réduit en production      | multiplier les coûts par 2            | recalculer le seuil de viabilité |
+| fuite d'information   | performance irréaliste         | décaler la variable d'une période     | corriger le pipeline             |
+| sélection postérieure | meilleur cas choisi après coup | rejouer l'univers complet             | conserver toutes les variantes   |
 
 ### Ce que la limite ne signifie pas
 
@@ -57,4 +57,4 @@ la conclusion change-t-elle ?
 
 ### Références
 
-- Kahneman, D. & Tversky, A. (1979), *Prospect Theory: An Analysis of Decision under Risk*, Econometrica 47(2), 263–292. — https://doi.org/10.2307/1914185
+- Kahneman, D. & Tversky, A. (1979), _Prospect Theory: An Analysis of Decision under Risk_, Econometrica 47(2), 263–292. : https://doi.org/10.2307/1914185

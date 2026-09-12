@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : HORIZONS & TIMEFRAMES
+# 00 : PRÉREQUIS : HORIZONS & TIMEFRAMES
 
 ## Avant de commencer
 

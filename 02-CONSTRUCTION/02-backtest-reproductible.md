@@ -8,7 +8,7 @@ cognitive_level: L8
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
 
 > **CE MODULE RÉUTILISE :** `01-CADRAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu apprends la reproductibilité comme une propriété du processus de recherche
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 
@@ -136,8 +136,8 @@ Les principes de biais de backtest, de data snooping et de coûts suivent notamm
 
 ### Références
 
-- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
-- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253
+- White, H. (2000), _A Reality Check for Data Snooping_, Econometrica 68(5), 1097–1126. : https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), _The Probability of Backtest Overfitting_. : https://ssrn.com/abstract=2326253
 
 ### Extrait Python exécutable
 

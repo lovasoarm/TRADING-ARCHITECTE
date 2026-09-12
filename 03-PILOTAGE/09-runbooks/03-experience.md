@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : ALERTE DE DÉRIVE
+# 03 : EXPÉRIENCE : ALERTE DE DÉRIVE
 
 ## CARTE VISUELLE
 

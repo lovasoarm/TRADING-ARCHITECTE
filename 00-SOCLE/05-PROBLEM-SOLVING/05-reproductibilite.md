@@ -3,7 +3,7 @@ stability: intemporel
 acte: reproduire
 ---
 
-# 05 — REPRODUCTIBILITÉ
+# 05 : REPRODUCTIBILITÉ
 
 ## CARTE VISUELLE
 

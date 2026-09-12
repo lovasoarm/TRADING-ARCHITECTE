@@ -4,9 +4,9 @@ acte: comprendre
 noyau: oui
 ---
 
-> **SCÈNE CRAZYDEVS — la forge :** avant de fabriquer une machine complexe, tu apprends la matière première.
+> **SCÈNE CRAZYDEVS : la forge :** avant de fabriquer une machine complexe, tu apprends la matière première.
 
-# 04 — FUNDAMENTALS
+# 04 : FUNDAMENTALS
 
 Fondations quantitatives et mécaniques. Aucun chapitre n'exige de « faire des maths pour faire des maths » : chaque formule est rattachée à une décision.
 

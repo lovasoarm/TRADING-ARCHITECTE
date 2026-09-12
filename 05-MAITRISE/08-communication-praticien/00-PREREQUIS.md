@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : COMMUNICATION PRATICIEN
+# 00 : PRÉREQUIS : COMMUNICATION PRATICIEN
 
 ## Avant de commencer
 

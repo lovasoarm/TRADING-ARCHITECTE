@@ -8,7 +8,7 @@ cognitive_level: L5
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** L’épreuve commence quand quelqu’un change les conditions.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** L’épreuve commence quand quelqu’un change les conditions.
 
 > **CE MODULE RÉUTILISE :** `03-PILOTAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu choisis un modèle pour sa réponse au problème, pas pour son prestige techn
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 
@@ -116,5 +116,5 @@ Ce qui pourrait réfuter mon interprétation : _____
 
 ### Références
 
-- Hansen, P. R. (2005), *A Test for Superior Predictive Ability*, JBES 23(4), 365–380. — https://doi.org/10.1198/073500105000000063
-- White, H. (2000), *A Reality Check for Data Snooping*. — https://doi.org/10.1111/1468-0262.00152
+- Hansen, P. R. (2005), _A Test for Superior Predictive Ability_, JBES 23(4), 365–380. : https://doi.org/10.1198/073500105000000063
+- White, H. (2000), _A Reality Check for Data Snooping_. : https://doi.org/10.1111/1468-0262.00152

@@ -3,7 +3,7 @@ stability: intemporel
 acte: apprendre
 ---
 
-# 05 — COMMENT LIRE UNE LEÇON
+# 05 : COMMENT LIRE UNE LEÇON
 
 Chaque leçon possède au moins cinq couches.
 

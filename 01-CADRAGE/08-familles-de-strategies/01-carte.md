@@ -3,7 +3,7 @@ stability: stable
 acte: comprendre
 ---
 
-# 01 — CARTE
+# 01 : CARTE
 
 ## Pourquoi ce module existe
 
@@ -71,5 +71,5 @@ Les termes `momentum, trend-following, mean reversion, carry, market making` son
 
 ### Références
 
-- Moskowitz, T. J., Ooi, Y. H., & Pedersen, L. H. (2012), *Time Series Momentum*. — https://doi.org/10.1016/j.jfineco.2011.11.003
-- Harvey, C. R., Liu, Y., & Zhu, H. (2016), *... and the Cross-Section of Expected Returns*, Review of Financial Studies 29, 5–68. — https://doi.org/10.1093/rfs/hhv059
+- Moskowitz, T. J., Ooi, Y. H., & Pedersen, L. H. (2012), _Time Series Momentum_. : https://doi.org/10.1016/j.jfineco.2011.11.003
+- Harvey, C. R., Liu, Y., & Zhu, H. (2016), _... and the Cross-Section of Expected Returns_, Review of Financial Studies 29, 5–68. : https://doi.org/10.1093/rfs/hhv059

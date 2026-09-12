@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : OUTIL PÉRISSABLE
+# 03 : EXPÉRIENCE : OUTIL PÉRISSABLE
 
 ## CARTE VISUELLE
 

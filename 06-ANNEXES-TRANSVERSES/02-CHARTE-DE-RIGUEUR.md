@@ -26,14 +26,14 @@ IA ≠ ORACLE
 
 ## Terminologie
 
-| Narratif fragile | Reformulation utile |
-|---|---|
-| « les banques chassent mes stops » | « quelle mécanique de liquidité et d’exécution explique ce mouvement ? » |
-| « la figure garantit un retournement » | « quelle asymétrie mesurable existe, dans quelles conditions ? » |
-| « le backtest (simulation d’une règle sur des données historiques) prouve la stratégie » | « que reste-t-il hors échantillon, après coûts et perturbations ? » |
-| « je ne risque que 1 % » | « quel est le risque avec gap, slippage (écart entre le prix visé et le prix effectivement obtenu), financement et positions corrélées ? » |
+| Narratif fragile                                                                         | Reformulation utile                                                                                                                        |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| « les banques chassent mes stops »                                                       | « quelle mécanique de liquidité et d’exécution explique ce mouvement ? »                                                                   |
+| « la figure garantit un retournement »                                                   | « quelle asymétrie mesurable existe, dans quelles conditions ? »                                                                           |
+| « le backtest (simulation d’une règle sur des données historiques) prouve la stratégie » | « que reste-t-il hors échantillon, après coûts et perturbations ? »                                                                        |
+| « je ne risque que 1 % »                                                                 | « quel est le risque avec gap, slippage (écart entre le prix visé et le prix effectivement obtenu), financement et positions corrélées ? » |
 
 ### Références
 
-- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
-- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253
+- White, H. (2000), _A Reality Check for Data Snooping_, Econometrica 68(5), 1097–1126. : https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), _The Probability of Backtest Overfitting_. : https://ssrn.com/abstract=2326253

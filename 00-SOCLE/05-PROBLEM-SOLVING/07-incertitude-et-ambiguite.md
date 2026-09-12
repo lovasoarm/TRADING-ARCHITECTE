@@ -3,7 +3,7 @@ stability: intemporel
 acte: raisonner
 ---
 
-# 07 — INCERTITUDE & AMBIGUÏTÉ
+# 07 : INCERTITUDE & AMBIGUÏTÉ
 
 ## CARTE VISUELLE
 

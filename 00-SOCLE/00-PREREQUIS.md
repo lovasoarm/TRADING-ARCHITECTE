@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : 00-SOCLE
+# 00 : PRÉREQUIS : 00-SOCLE
 
 ## Avant de commencer
 

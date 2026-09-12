@@ -6,11 +6,11 @@ assessment_role: diagnostic_mastery
 
 > **SCÈNE CRAZYDEVS : le cockpit :** avant d'accélérer, tu apprends ce que mesurent les cadrans.
 
-# 01 — TA PREMIÈRE SÉANCE
+# 01 : TA PREMIÈRE SÉANCE
 
 Temps : 20–35 min. Aucun compte réel. Aucun dépôt d'argent. Aucun broker obligatoire.
 
-## Étape 1 — réponds avant de lire
+## Étape 1 : réponds avant de lire
 
 ```text
 Q1. Qu'est-ce qu'un prix ?
@@ -21,13 +21,13 @@ Q4. Quel mot de trading te paraît le plus opaque ?
 
 Date ta réponse : `t0`.
 
-## Étape 2 — lis seulement trois portes
+## Étape 2 : lis seulement trois portes
 
 - [Le trading comme décision sous incertitude](../01-la-realite-du-trading.md)
 - [Ce que l'on peut réellement trader](../02-marches-et-instruments.md)
 - [Premiers principes de microstructure](../05-microstructure-premiers-principes.md)
 
-## Étape 3 — fais une preuve minuscule
+## Étape 3 : fais une preuve minuscule
 
 Dessine :
 
@@ -37,7 +37,7 @@ information → décision → ordre → exécution → résultat
 
 Puis ajoute une phrase par flèche.
 
-## Étape 4 — dis le jargon autrement
+## Étape 4 : dis le jargon autrement
 
 Choisis cinq mots rencontrés aujourd'hui. Pour chacun :
 
@@ -49,4 +49,4 @@ Pas une stratégie. Pas un signal. Une **carte mentale fonctionnelle**.
 
 ### Références
 
-- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348
+- Hasbrouck, J. (1995), _One Security, Many Markets: Determining the Contributions to Price Discovery_, Journal of Finance 50, 1175–1199. : https://doi.org/10.2307/2329348

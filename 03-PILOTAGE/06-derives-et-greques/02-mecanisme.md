@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 — MÉCANISME : PAYOFFS
+# 02 : MÉCANISME : PAYOFFS
 
 ## CARTE VISUELLE
 

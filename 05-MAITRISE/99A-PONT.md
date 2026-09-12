@@ -3,7 +3,7 @@ stability: intemporel
 acte: transition
 ---
 
-# 99A — PONT
+# 99A : PONT
 
 Tu termines le parcours en transformant les acquis en doctrine, portfolio de preuves et prochaine question.
 

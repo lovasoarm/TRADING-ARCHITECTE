@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# PORTAGE MENTAL — 00 — SOCLE
+# PORTAGE MENTAL : 00 : SOCLE
 
 ```text
 PRINCIPE

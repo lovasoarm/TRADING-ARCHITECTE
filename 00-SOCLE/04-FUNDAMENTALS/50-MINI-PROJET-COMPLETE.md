@@ -5,7 +5,7 @@ noyau: oui
 assessment_role: project_gate
 ---
 
-# 50 — MINI-PROJET FOUNDATIONS
+# 50 : MINI-PROJET FOUNDATIONS
 
 ## CARTE VISUELLE
 
@@ -46,4 +46,4 @@ Chaque artefact possède :
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

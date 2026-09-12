@@ -3,7 +3,7 @@ stability: intemporel
 acte: réviser
 ---
 
-# 05 — RÉVISION D'OPINION
+# 05 : RÉVISION D'OPINION
 
 Écris une thèse. Puis force une information qui la rend mauvaise.
 

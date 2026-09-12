@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : 02-CONSTRUCTION
+# 00 : PRÉREQUIS : 02-CONSTRUCTION
 
 ## Avant de commencer
 

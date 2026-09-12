@@ -3,7 +3,7 @@ stability: intemporel
 acte: cadrer
 ---
 
-# 01 — QUESTION → DÉCISION
+# 01 : QUESTION → DÉCISION
 
 Une bonne question de trading n'est pas « où va le prix ? » mais :
 

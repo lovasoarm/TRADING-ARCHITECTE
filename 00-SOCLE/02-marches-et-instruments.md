@@ -8,7 +8,7 @@ cognitive_level: L5
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Avant de choisir un train, regarde les rails.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Avant de choisir un train, regarde les rails.
 
 > **CE MODULE RÉUTILISE :** `00-SOCLE/01-START-HERE.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -45,7 +45,7 @@ CONTRE-EXEMPLE
 RÉVISION
 ```
 
-**spot (marché au comptant, avec échange immédiat ou quasi immédiat), action, ETF, future, option, FX (Foreign Exchange — marché des devises), crypto et marge**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
+**spot (marché au comptant, avec échange immédiat ou quasi immédiat), action, ETF, future, option, FX (Foreign Exchange : marché des devises), crypto et marge**. Ces termes sont utiles seulement lorsqu'ils permettent d'expliquer une observation.
 
 ## 3. Exemple guidé
 
@@ -92,7 +92,7 @@ Tu sais maintenant choisir un objet de marché avant de parler de stratégie.
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 

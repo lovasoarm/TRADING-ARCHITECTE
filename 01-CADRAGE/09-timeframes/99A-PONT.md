@@ -3,17 +3,17 @@ stability: intemporel
 acte: transition
 ---
 
-# 99A — PONT
+# 99A : PONT
 
 ## Ce que tu emportes
 
 À la sortie de **HORIZONS & TIMEFRAMES**, tu dois pouvoir formuler :
 
-1. **Mécanisme** — Changer d’horizon change le bruit observé, les coûts relatifs, le temps de réaction et les données nécessaires.
-2. **Mesure** — quel indicateur ou quelle observation rend le mécanisme visible ?
-3. **Preuve** — quel résultat peut réellement être revendiqué ?
-4. **Limite** — dans quel contexte la conclusion devient-elle fragile ?
-5. **Règle de révision** — quel signal te ferait changer d’avis ?
+1. **Mécanisme** : Changer d’horizon change le bruit observé, les coûts relatifs, le temps de réaction et les données nécessaires.
+2. **Mesure** : quel indicateur ou quelle observation rend le mécanisme visible ?
+3. **Preuve** : quel résultat peut réellement être revendiqué ?
+4. **Limite** : dans quel contexte la conclusion devient-elle fragile ?
+5. **Règle de révision** : quel signal te ferait changer d’avis ?
 
 ## Test de portage
 
@@ -44,5 +44,5 @@ Ne porte pas « le RSI fonctionne ». Porte plutôt : « une mesure de momentum 
 
 ### Références
 
-- Hansen, P. R. (2005), *A Test for Superior Predictive Ability*, JBES 23(4), 365–380. — https://doi.org/10.1198/073500105000000063
-- White, H. (2000), *A Reality Check for Data Snooping*. — https://doi.org/10.1111/1468-0262.00152
+- Hansen, P. R. (2005), _A Test for Superior Predictive Ability_, JBES 23(4), 365–380. : https://doi.org/10.1198/073500105000000063
+- White, H. (2000), _A Reality Check for Data Snooping_. : https://doi.org/10.1111/1468-0262.00152

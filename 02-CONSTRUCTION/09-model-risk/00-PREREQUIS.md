@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : MODEL RISK
+# 00 : PRÉREQUIS : MODEL RISK
 
 ## Avant de commencer
 

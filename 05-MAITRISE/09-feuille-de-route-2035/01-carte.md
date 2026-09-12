@@ -3,7 +3,7 @@ stability: stable
 acte: comprendre
 ---
 
-# 01 — CARTE
+# 01 : CARTE
 
 ## Pourquoi ce module existe
 
@@ -71,4 +71,4 @@ Les termes `automation, agents, gouvernance, microstructure, résilience` sont i
 
 ### Références
 
-- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348
+- Hasbrouck, J. (1995), _One Security, Many Markets: Determining the Contributions to Price Discovery_, Journal of Finance 50, 1175–1199. : https://doi.org/10.2307/2329348

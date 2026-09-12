@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : LA NOTE UNE PAGE
+# 03 : EXPÉRIENCE : LA NOTE UNE PAGE
 
 ## CARTE VISUELLE
 

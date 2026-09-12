@@ -8,7 +8,7 @@ cognitive_level: L6
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** L’épreuve commence quand quelqu’un change les conditions.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** L’épreuve commence quand quelqu’un change les conditions.
 
 > **CE MODULE RÉUTILISE :** `03-PILOTAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -66,7 +66,7 @@ Dans le parcours, protège-toi avec une trace datée : hypothèse avant observat
 
 ## 5. Mini-atelier
 
-Teste chaque dégradation séparément, puis une combinaison. Mesure changement de décision, P&L (Profit and Loss — gain ou perte de la position) et taux de refus contrôlé.
+Teste chaque dégradation séparément, puis une combinaison. Mesure changement de décision, P&L (Profit and Loss : gain ou perte de la position) et taux de refus contrôlé.
 
 ### Format de preuve
 
@@ -92,7 +92,7 @@ Un système robuste sait parfois dire « je ne sais pas ».
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 

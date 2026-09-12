@@ -3,7 +3,7 @@ stability: intemporel
 acte: dépanner
 ---
 
-# 06 — SI TU BLOQUES
+# 06 : SI TU BLOQUES
 
 > **SCÈNE CRAZYDEVS : le mur :** un blocage nommé est déjà un diagnostic. Un blocage flou devient une journée perdue.
 

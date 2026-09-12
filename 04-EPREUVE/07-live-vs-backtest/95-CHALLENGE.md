@@ -4,7 +4,7 @@ acte: pratiquer
 assessment_role: module_gate
 ---
 
-# 95 — CHALLENGE : BACKTEST VS TERRAIN
+# 95 : CHALLENGE : BACKTEST VS TERRAIN
 
 ## Mission
 
@@ -28,28 +28,28 @@ Une bonne réponse doit distinguer :
 
 ## Grille d'auto-évaluation / 10
 
-- [ ] 2 pts — vocabulaire accessible
-- [ ] 2 pts — mécanisme causal cohérent
-- [ ] 2 pts — exemple chiffré
-- [ ] 2 pts — objection traitée sans déplacer les buts
-- [ ] 2 pts — limite + prochaine expérience
+- [ ] 2 pts : vocabulaire accessible
+- [ ] 2 pts : mécanisme causal cohérent
+- [ ] 2 pts : exemple chiffré
+- [ ] 2 pts : objection traitée sans déplacer les buts
+- [ ] 2 pts : limite + prochaine expérience
 
 **Seuil recommandé : 8/10.** En dessous, refais l'exemple avant de passer au Boss.
 
 ### Références
 
-- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
-- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253
+- White, H. (2000), _A Reality Check for Data Snooping_, Econometrica 68(5), 1097–1126. : https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), _The Probability of Backtest Overfitting_. : https://ssrn.com/abstract=2326253
 
-### Grille d’auto-évaluation — /10
+### Grille d’auto-évaluation : /10
 
-| Critère | Points | Ce qu’on attend |
-|---|---:|---|
-| Exactitude | 0–2 | Les calculs et définitions sont cohérents |
-| Méthode | 0–2 | Les étapes sont explicites et reproductibles |
-| Preuve | 0–2 | Une observation ou un test concret soutient l’argument |
-| Limites | 0–2 | Au moins 2 modes d’échec sont nommés |
-| Communication | 0–2 | Un débutant peut suivre sans jargon non expliqué |
+| Critère       | Points | Ce qu’on attend                                        |
+| ------------- | -----: | ------------------------------------------------------ |
+| Exactitude    |    0–2 | Les calculs et définitions sont cohérents              |
+| Méthode       |    0–2 | Les étapes sont explicites et reproductibles           |
+| Preuve        |    0–2 | Une observation ou un test concret soutient l’argument |
+| Limites       |    0–2 | Au moins 2 modes d’échec sont nommés                   |
+| Communication |    0–2 | Un débutant peut suivre sans jargon non expliqué       |
 
 **Seuil conseillé : 8/10.** En dessous, corriger puis refaire l’exercice.
 

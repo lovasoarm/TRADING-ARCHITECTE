@@ -3,7 +3,7 @@ stability: évolutif
 acte: parcours
 ---
 
-# ROUTE DÉBUTANT — ZÉRO → PREMIÈRE PREUVE
+# ROUTE DÉBUTANT : ZÉRO → PREMIÈRE PREUVE
 
 ## CARTE VISUELLE
 

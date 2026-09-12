@@ -8,7 +8,7 @@ cognitive_level: L5
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** À ce niveau, tu décides aussi ce qui mérite d’être arrêté.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** À ce niveau, tu décides aussi ce qui mérite d’être arrêté.
 
 > **CE MODULE RÉUTILISE :** `04-EPREUVE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ La gouvernance transforme une suite d’idées en programme de recherche cumulat
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 
@@ -116,4 +116,4 @@ Ce qui pourrait réfuter mon interprétation : _____
 
 ### Références
 
-- McLean, R. D. & Pontiff, J. (2016), *Does Academic Research Destroy Stock Return Predictability?*, Journal of Finance 71(1), 5–32. — https://doi.org/10.1111/jofi.12365
+- McLean, R. D. & Pontiff, J. (2016), _Does Academic Research Destroy Stock Return Predictability?_, Journal of Finance 71(1), 5–32. : https://doi.org/10.1111/jofi.12365

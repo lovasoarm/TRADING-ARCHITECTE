@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : DÉRIVÉS & GESTION DES PAYOFFS
+# 00 : PRÉREQUIS : DÉRIVÉS & GESTION DES PAYOFFS
 
 ## Avant de commencer
 

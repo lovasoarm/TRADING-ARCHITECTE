@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 — MÉCANISME : LIRE UN PAPIER
+# 02 : MÉCANISME : LIRE UN PAPIER
 
 ## CARTE VISUELLE
 

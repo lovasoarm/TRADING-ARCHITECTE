@@ -3,7 +3,7 @@ stability: évolutif
 type: setup
 ---
 
-# SETUP — ZÉRO FRICTION
+# SETUP : ZÉRO FRICTION
 
 ## Minimum
 

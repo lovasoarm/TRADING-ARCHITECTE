@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : DATA ENGINEERING
+# 00 : PRÉREQUIS : DATA ENGINEERING
 
 ## Avant de commencer
 

@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : 03-PILOTAGE
+# 00 : PRÉREQUIS : 03-PILOTAGE
 
 ## Avant de commencer
 

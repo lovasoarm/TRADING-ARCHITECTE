@@ -4,13 +4,13 @@ stability: stable
 
 <div align="center">
 
-<img src="assets/ta-hero.svg" alt="Trading Architecte — architecture d'un apprentissage sous incertitude" width="100%">
+<img src="assets/ta-hero.svg" alt="Trading Architecte : architecture d'un apprentissage sous incertitude" width="100%">
 
 # TRADING ARCHITECTE
 
 ### Comprendre. Mesurer. Tester. Casser. Gérer. Construire. Adapter.
 
-**Un curriculum de trading orienté terrain pour apprendre à raisonner sous incertitude — du zéro-prérequis jusqu'à la construction, la validation et la défense d'un système.**
+**Un curriculum de trading orienté terrain pour apprendre à raisonner sous incertitude : du zéro-prérequis jusqu'à la construction, la validation et la défense d'un système.**
 
 [**Commencer par le guide**](00-SOCLE/00-GUIDE/README.md) · [**Voir la progression**](PROGRESSION.md) · [**Installer l'environnement**](SETUP.md)
 
@@ -30,11 +30,11 @@ Pas de promesse de revenu. Pas de « stratégie secrète ». Pas de certificatio
 
 ---
 
-## ✦ Commence ici — même si tu ne connais rien
+## ✦ Commence ici : même si tu ne connais rien
 
 Tu n'as pas besoin de connaître les marchés, Python ou les statistiques pour franchir la première porte.
 
-**[→ `00-SOCLE/00-GUIDE` — START HERE](00-SOCLE/00-GUIDE/README.md)**
+**[→ `00-SOCLE/00-GUIDE` : START HERE](00-SOCLE/00-GUIDE/README.md)**
 
 Le guide transversal répond aux questions que les cours avancés oublient souvent :
 
@@ -84,14 +84,14 @@ preuve (ce que tu peux défendre)
 
 Chaque niveau ajoute une capacité qui doit devenir **observable**.
 
-| Niveau | Question centrale | Ce que tu construis |
-|---|---|---|
-| **00 — Socle** | De quoi parle-t-on ? | vocabulaire, marché, risque, données, premières expériences |
-| **01 — Cadrage** | Quelle est mon hypothèse ? | problème, hypothèse falsifiable, protocole, preuves |
-| **02 — Construction** | Comment rendre l'idée testable ? | stratégies, code, backtests, données, validation |
-| **03 — Pilotage** | Comment survivre à l'exécution ? | sizing, exposition, coûts, opérations, monitoring |
-| **04 — Épreuve** | Que se passe-t-il quand tout se dégrade ? | stress tests, red team, ruptures de régime, postmortems |
-| **05 — Maîtrise** | Puis-je défendre et transférer mon système ? | capstone, réplication, gouvernance, adaptation, soutenance |
+| Niveau                | Question centrale                            | Ce que tu construis                                         |
+| --------------------- | -------------------------------------------- | ----------------------------------------------------------- |
+| **00 : Socle**        | De quoi parle-t-on ?                         | vocabulaire, marché, risque, données, premières expériences |
+| **01 : Cadrage**      | Quelle est mon hypothèse ?                   | problème, hypothèse falsifiable, protocole, preuves         |
+| **02 : Construction** | Comment rendre l'idée testable ?             | stratégies, code, backtests, données, validation            |
+| **03 : Pilotage**     | Comment survivre à l'exécution ?             | sizing, exposition, coûts, opérations, monitoring           |
+| **04 : Épreuve**      | Que se passe-t-il quand tout se dégrade ?    | stress tests, red team, ruptures de régime, postmortems     |
+| **05 : Maîtrise**     | Puis-je défendre et transférer mon système ? | capstone, réplication, gouvernance, adaptation, soutenance  |
 
 ---
 
@@ -153,7 +153,7 @@ Loss aversion, overconfidence, disposition effect, FOMO, revenge trading, pressi
 
 ### Lire l'horizon 2035+
 
-Automatisation, IA, agents, données alternatives, exécution algorithmique, gouvernance, résilience et compétences durables — en séparant soigneusement le fait, la tendance, le scénario plausible et la spéculation.
+Automatisation, IA, agents, données alternatives, exécution algorithmique, gouvernance, résilience et compétences durables : en séparant soigneusement le fait, la tendance, le scénario plausible et la spéculation.
 
 ---
 
@@ -347,7 +347,7 @@ Le résultat final n'est pas « je connais beaucoup de termes ».
 
 ### 🟦 Tu débutes totalement
 
-[**00-SOCLE/00-GUIDE — START HERE**](00-SOCLE/00-GUIDE/README.md)
+[**00-SOCLE/00-GUIDE : START HERE**](00-SOCLE/00-GUIDE/README.md)
 
 Puis suis le fil canonique sans sauter les prérequis.
 
@@ -414,7 +414,7 @@ C'est la différence entre **utiliser un outil** et **construire un système que
 
 **TRADING ARCHITECTE**
 
-*Pas une promesse de richesse. Une école de raisonnement sous incertitude.*
+_Pas une promesse de richesse. Une école de raisonnement sous incertitude._
 
 [**→ Entrer par le Guide**](00-SOCLE/00-GUIDE/README.md)
 

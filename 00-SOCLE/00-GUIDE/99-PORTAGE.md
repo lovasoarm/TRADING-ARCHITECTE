@@ -3,7 +3,7 @@ stability: intemporel
 acte: transférer
 ---
 
-# 99 — PORTAGE DU GUIDE
+# 99 : PORTAGE DU GUIDE
 
 ## CARTE VISUELLE
 

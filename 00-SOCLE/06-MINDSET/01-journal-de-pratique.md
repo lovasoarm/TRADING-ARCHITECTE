@@ -3,7 +3,7 @@ stability: intemporel
 acte: pratiquer
 ---
 
-# 01 — JOURNAL DE PRATIQUE
+# 01 : JOURNAL DE PRATIQUE
 
 ## CARTE VISUELLE
 

@@ -3,7 +3,7 @@ stability: intemporel
 acte: expérimenter
 ---
 
-# 03 — PLAN D'EXPÉRIENCE
+# 03 : PLAN D'EXPÉRIENCE
 
 Un protocole minimal précise :
 

@@ -3,7 +3,7 @@ stability: stable
 acte: référence
 ---
 
-# 90 — GRIMOIRE : 02-PROLOGUE
+# 90 : GRIMOIRE : 02-PROLOGUE
 
 ## Runes de travail
 
@@ -53,4 +53,4 @@ Pour **ce module**, garde une copie des données brutes, des paramètres et du r
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

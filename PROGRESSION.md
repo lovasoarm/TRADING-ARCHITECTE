@@ -41,32 +41,38 @@ Une étape est validée par une **preuve**, pas par la lecture.
 05 MAÎTRISE
 ```
 
-## 00 — SOCLE
+## 00 : SOCLE
+
 Comprendre le terrain, les instruments, les acteurs, les distributions, les ordres, le vocabulaire et la méthode de travail.
 
 **Sortie :** carte du marché + expérience de distribution + carnet simulé + diagnostic de compétences.
 
-## 01 — CADRAGE
+## 01 : CADRAGE
+
 Transformer une impression en hypothèse et instrumenter la décision humaine.
 
 **Sortie :** dossier d'hypothèse + 30 décisions simulées + journal décisionnel.
 
-## 02 — CONSTRUCTION
+## 02 : CONSTRUCTION
+
 Construire stratégie, données, backtest (simulation d’une règle sur des données historiques), validation, sizing et coût.
 
 **Sortie :** moteur reproductible + rapport de recherche + analyse des frictions.
 
-## 03 — PILOTAGE
+## 03 : PILOTAGE
+
 Passer du trade au portefeuille, à l'exécution, à l'opérationnel et au monitoring.
 
 **Sortie :** portefeuille simulé + stress pack + contrôles + runbook.
 
-## 04 — ÉPREUVE
+## 04 : ÉPREUVE
+
 Attaquer les données, le modèle, l'exécution et la reprise après incident.
 
 **Sortie :** capstone adversarial + postmortem + réplication.
 
-## 05 — MAÎTRISE
+## 05 : MAÎTRISE
+
 Attribuer, gouverner, utiliser l'IA avec contrôle et défendre une thèse prospective.
 
 **Sortie :** portfolio final + thèse + soutenance + plan de compétence 2035+.
@@ -83,5 +89,5 @@ Ne coche pas « lu ». Coche seulement ce que tu peux **refaire, expliquer, déf
 
 ### Références
 
-- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
-- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253
+- White, H. (2000), _A Reality Check for Data Snooping_, Econometrica 68(5), 1097–1126. : https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), _The Probability of Backtest Overfitting_. : https://ssrn.com/abstract=2326253

@@ -7,9 +7,9 @@ cognitive_level: L9
 assessment_role: mastery_gate
 ---
 
-> **BOSS CRAZYDEVS — 00-SOCLE** : l’arène retire une certitude et ajoute une contrainte.
+> **BOSS CRAZYDEVS : 00-SOCLE** : l’arène retire une certitude et ajoute une contrainte.
 
-# BOSS-FIGHT — 00-SOCLE
+# BOSS-FIGHT : 00-SOCLE
 
 ## Situation
 
@@ -17,19 +17,19 @@ Un ami te montre une capture d’écran d’un trade gagnant et affirme : « voi
 
 ## Manches
 
-### 1. Cartographie — 20 min
+### 1. Cartographie : 20 min
 
 Écris : objectif, information réellement disponible, dépendances, risque principal, critère de succès.
 
-### 2. Construction — 45 min
+### 2. Construction : 45 min
 
 Utilise ton mini-projet. Pas de nouvelle sophistication non justifiée.
 
-### 3. Attaque — 30 à 45 min
+### 3. Attaque : 30 à 45 min
 
 Le contradicteur injecte une contrainte adaptée au niveau. Tu conserves l’état **avant correction**.
 
-### 4. Défense — 20 min
+### 4. Défense : 20 min
 
 Réponds par écrit :
 

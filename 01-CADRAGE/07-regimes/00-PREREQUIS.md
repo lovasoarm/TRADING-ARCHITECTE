@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : RÉGIMES DE MARCHÉ
+# 00 : PRÉREQUIS : RÉGIMES DE MARCHÉ
 
 ## Avant de commencer
 

@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 — MÉCANISME : RISQUE MODÈLE
+# 02 : MÉCANISME : RISQUE MODÈLE
 
 ## CARTE VISUELLE
 

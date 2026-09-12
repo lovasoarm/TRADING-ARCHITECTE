@@ -5,7 +5,7 @@ type: boss
 assessment_role: mastery_gate
 ---
 
-# 96 — BOSS : RED TEAM RESEARCH
+# 96 : BOSS : RED TEAM RESEARCH
 
 ## Scénario
 
@@ -29,11 +29,11 @@ Montre ce qui survit, ce qui casse et pourquoi. Tu dois conserver **l'état init
 
 ## Critères
 
-- 2 pts — incident correctement reproduit
-- 2 pts — cause isolée
-- 2 pts — chiffres avant/après
-- 2 pts — correction proportionnée
-- 2 pts — limite reconnue
+- 2 pts : incident correctement reproduit
+- 2 pts : cause isolée
+- 2 pts : chiffres avant/après
+- 2 pts : correction proportionnée
+- 2 pts : limite reconnue
 
 ## Exemple de réponse acceptable
 
@@ -43,17 +43,17 @@ Montre ce qui survit, ce qui casse et pourquoi. Tu dois conserver **l'état init
 
 ### Références
 
-- McLean, R. D. & Pontiff, J. (2016), *Does Academic Research Destroy Stock Return Predictability?*, Journal of Finance 71(1), 5–32. — https://doi.org/10.1111/jofi.12365
+- McLean, R. D. & Pontiff, J. (2016), _Does Academic Research Destroy Stock Return Predictability?_, Journal of Finance 71(1), 5–32. : https://doi.org/10.1111/jofi.12365
 
-### Grille d’auto-évaluation — /10
+### Grille d’auto-évaluation : /10
 
-| Critère | Points | Ce qu’on attend |
-|---|---:|---|
-| Exactitude | 0–2 | Les calculs et définitions sont cohérents |
-| Méthode | 0–2 | Les étapes sont explicites et reproductibles |
-| Preuve | 0–2 | Une observation ou un test concret soutient l’argument |
-| Limites | 0–2 | Au moins 2 modes d’échec sont nommés |
-| Communication | 0–2 | Un débutant peut suivre sans jargon non expliqué |
+| Critère       | Points | Ce qu’on attend                                        |
+| ------------- | -----: | ------------------------------------------------------ |
+| Exactitude    |    0–2 | Les calculs et définitions sont cohérents              |
+| Méthode       |    0–2 | Les étapes sont explicites et reproductibles           |
+| Preuve        |    0–2 | Une observation ou un test concret soutient l’argument |
+| Limites       |    0–2 | Au moins 2 modes d’échec sont nommés                   |
+| Communication |    0–2 | Un débutant peut suivre sans jargon non expliqué       |
 
 **Seuil conseillé : 8/10.** En dessous, corriger puis refaire l’exercice.
 

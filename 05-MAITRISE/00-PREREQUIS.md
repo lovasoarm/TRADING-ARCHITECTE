@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : 05-MAITRISE
+# 00 : PRÉREQUIS : 05-MAITRISE
 
 ## Avant de commencer
 

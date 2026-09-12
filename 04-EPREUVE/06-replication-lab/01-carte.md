@@ -3,7 +3,7 @@ stability: stable
 acte: comprendre
 ---
 
-# 01 — CARTE
+# 01 : CARTE
 
 ## Pourquoi ce module existe
 

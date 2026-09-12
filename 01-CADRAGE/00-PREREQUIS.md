@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : 01-CADRAGE
+# 00 : PRÉREQUIS : 01-CADRAGE
 
 ## Avant de commencer
 

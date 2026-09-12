@@ -2,7 +2,7 @@
 stability: intemporel
 ---
 
-# 26 — PROTOCOLE DE LEÇON PROFONDE
+# 26 : PROTOCOLE DE LEÇON PROFONDE
 
 Avant la leçon : **prédiction**.
 
@@ -39,4 +39,3 @@ portage
 ### Règle d'auto-apprentissage
 
 Ne valide pas une section parce que tu peux la relire. Valide-la lorsque tu peux **reconstruire le raisonnement sans regarder**, produire un exemple et expliquer au moins une limite.
-

@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : LEAKAGE HUNT
+# 03 : EXPÉRIENCE : LEAKAGE HUNT
 
 ## CARTE VISUELLE
 

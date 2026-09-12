@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : FEATURE DESIGN
+# 00 : PRÉREQUIS : FEATURE DESIGN
 
 ## Avant de commencer
 

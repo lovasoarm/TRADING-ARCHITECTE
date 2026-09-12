@@ -3,7 +3,7 @@ stability: intemporel
 acte: hypothéser
 ---
 
-# 02 — HYPOTHÈSE FALSIFIABLE
+# 02 : HYPOTHÈSE FALSIFIABLE
 
 ## CARTE VISUELLE
 

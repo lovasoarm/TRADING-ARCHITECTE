@@ -3,7 +3,7 @@ stability: stable
 acte: référence
 ---
 
-# 90 — GRIMOIRE : HORIZONS & TIMEFRAMES
+# 90 : GRIMOIRE : HORIZONS & TIMEFRAMES
 
 ## Runes de travail
 
@@ -53,4 +53,4 @@ Pour **horizons de décision**, garde une copie des données brutes, des paramè
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

@@ -3,7 +3,7 @@ stability: intemporel
 acte: restituer
 ---
 
-# 03 — RAPPEL À FROID
+# 03 : RAPPEL À FROID
 
 ## CARTE VISUELLE
 

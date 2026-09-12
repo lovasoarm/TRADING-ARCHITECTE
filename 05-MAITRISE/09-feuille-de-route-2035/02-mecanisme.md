@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 — MÉCANISME : COMPÉTENCES DURABLES
+# 02 : MÉCANISME : COMPÉTENCES DURABLES
 
 ## CARTE VISUELLE
 
@@ -25,4 +25,4 @@ Projeter 2035 consiste moins à prédire l'outil précis qu'à identifier les co
 
 ### Références
 
-- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348
+- Hasbrouck, J. (1995), _One Security, Many Markets: Determining the Contributions to Price Discovery_, Journal of Finance 50, 1175–1199. : https://doi.org/10.2307/2329348

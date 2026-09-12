@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : RÉPLICATION AVEUGLE
+# 03 : EXPÉRIENCE : RÉPLICATION AVEUGLE
 
 ## CARTE VISUELLE
 

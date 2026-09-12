@@ -3,7 +3,7 @@ stability: intemporel
 acte: gérer
 ---
 
-# 04 — FATIGUE & CHARGE
+# 04 : FATIGUE & CHARGE
 
 ## CARTE VISUELLE
 

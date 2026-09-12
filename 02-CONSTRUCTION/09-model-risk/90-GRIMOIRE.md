@@ -3,7 +3,7 @@ stability: stable
 acte: référence
 ---
 
-# 90 — GRIMOIRE : MODEL RISK
+# 90 : GRIMOIRE : MODEL RISK
 
 ## Runes de travail
 
@@ -53,4 +53,4 @@ Pour **risque de modèle**, garde une copie des données brutes, des paramètres
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

@@ -8,7 +8,7 @@ cognitive_level: L7
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Le premier graphique raconte une histoire. Le deuxième montre le contre-exemple.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Le premier graphique raconte une histoire. Le deuxième montre le contre-exemple.
 
 > **CE MODULE RÉUTILISE :** `00-SOCLE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -66,7 +66,7 @@ Dans le parcours, protège-toi avec une trace datée : hypothèse avant observat
 
 ## 5. Mini-atelier
 
-Journalise 30 décisions simulées avec état, raison, taille et temps depuis la décision précédente. Compare les décisions planifiées et impulsives sans utiliser le P&L (Profit and Loss — gain ou perte de la position) seul comme verdict.
+Journalise 30 décisions simulées avec état, raison, taille et temps depuis la décision précédente. Compare les décisions planifiées et impulsives sans utiliser le P&L (Profit and Loss : gain ou perte de la position) seul comme verdict.
 
 ### Format de preuve
 
@@ -92,7 +92,7 @@ Tu transformes une morale vague en variables observables.
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 

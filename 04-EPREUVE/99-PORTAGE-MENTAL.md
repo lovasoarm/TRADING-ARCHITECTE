@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# PORTAGE MENTAL — 04 — ÉPREUVE
+# PORTAGE MENTAL : 04 : ÉPREUVE
 
 ```text
 PRINCIPE

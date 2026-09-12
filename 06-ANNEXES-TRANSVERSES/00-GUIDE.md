@@ -4,12 +4,12 @@ stability: mixte - fondamentaux durables, marché et outils périssables
 
 # 00-GUIDE : Tu ne sais pas quoi faire ? Commence ici.
 
-> **Version CrazyDevs — Trading Architecte**
+> **Version CrazyDevs : Trading Architecte**
 >
 > Ce guide n'est pas un dictionnaire de trading avec une cravate.
 > C'est une carte de terrain pour quelqu'un qui arrive devant un graphique,
 > voit 300 indicateurs, 50 influenceurs, 20 marchés, des bougies partout,
-> des mots comme *spread*, *leverage*, *alpha*, *drawdown*, *backtest*, *options*,
+> des mots comme _spread_, _leverage_, _alpha_, _drawdown_, _backtest_, _options_,
 > et pense :
 >
 > **« D'accord… mais je commence par quoi ? »**
@@ -23,22 +23,22 @@ Ce document est une boussole transversale : il t'explique **comment entrer dans 
 
 ## Sommaire
 
-0. [Tu pars de zéro ? Lis ceci d’abord](#0-tu-pars-de-zéro--lis-ceci-dabord)  
-1. [C’est quoi, le trading ?](#1-cest-quoi-le-trading)  
-2. [Les grands marchés et instruments](#2-les-grands-marchés-et-instruments)  
-3. [Comment fonctionne un marché, vraiment ?](#3-comment-fonctionne-un-marché-vraiment)  
-4. [Les mots qu’on voit partout](#4-les-mots-quon-voit-partout)  
-5. [Débutant : par où commencer ?](#5-débutant--par-où-commencer)  
-6. [J’ai une idée de stratégie : que faire maintenant ?](#6-jai-une-idée-de-stratégie--que-faire-maintenant)  
-7. [Les vérités que l'on dit rarement au début](#7-les-vérités-que-lon-dit-rarement-au-début)  
-8. [Le risque, l'argent et la vraie difficulté](#8-le-risque-largent-et-la-vraie-difficulté)  
-9. [Le terrain : manuel, systématique, quantitatif](#9-le-terrain--manuel-systématique-quantitatif)  
-10. [L'IA : assistant, multiplicateur, danger](#10-lia--assistant-multiplicateur-danger)  
-11. [2035+ : apprendre des invariants](#11-2035--apprendre-des-invariants)  
-12. [Ton parcours complet](#12-ton-parcours-complet)  
-13. [Quand tu bloques](#13-quand-tu-bloques)  
-14. [Grimoire ultra-débutant](#14-grimoire-ultra-débutant)  
-15. [Challenge final du guide](#15-challenge-final-du-guide)  
+0. [Tu pars de zéro ? Lis ceci d’abord](#0-tu-pars-de-zéro--lis-ceci-dabord)
+1. [C’est quoi, le trading ?](#1-cest-quoi-le-trading)
+2. [Les grands marchés et instruments](#2-les-grands-marchés-et-instruments)
+3. [Comment fonctionne un marché, vraiment ?](#3-comment-fonctionne-un-marché-vraiment)
+4. [Les mots qu’on voit partout](#4-les-mots-quon-voit-partout)
+5. [Débutant : par où commencer ?](#5-débutant--par-où-commencer)
+6. [J’ai une idée de stratégie : que faire maintenant ?](#6-jai-une-idée-de-stratégie--que-faire-maintenant)
+7. [Les vérités que l'on dit rarement au début](#7-les-vérités-que-lon-dit-rarement-au-début)
+8. [Le risque, l'argent et la vraie difficulté](#8-le-risque-largent-et-la-vraie-difficulté)
+9. [Le terrain : manuel, systématique, quantitatif](#9-le-terrain--manuel-systématique-quantitatif)
+10. [L'IA : assistant, multiplicateur, danger](#10-lia--assistant-multiplicateur-danger)
+11. [2035+ : apprendre des invariants](#11-2035--apprendre-des-invariants)
+12. [Ton parcours complet](#12-ton-parcours-complet)
+13. [Quand tu bloques](#13-quand-tu-bloques)
+14. [Grimoire ultra-débutant](#14-grimoire-ultra-débutant)
+15. [Challenge final du guide](#15-challenge-final-du-guide)
 16. [Sources et entretien du guide](#16-sources-et-entretien-du-guide)
 
 ---
@@ -488,33 +488,33 @@ Une définition sans mécanisme est fragile. Une analogie sans limite devient un
 
 ## 4.2 Le premier dictionnaire
 
-| Mot | Français simple | Analogie | Ce qu'il ne faut pas conclure |
-|---|---|---|---|
-| actif | instrument exposé au marché | objet dans un inventaire | qu'il est automatiquement rentable |
-| broker (intermédiaire) | accès/acheminement vers le marché | guichet | qu'il garantit un prix |
-| bid | meilleur prix acheteur visible | prix proposé par le client en face | qu'il représente toute la demande |
-| ask | meilleur prix vendeur visible | prix demandé au guichet | qu'il représente toute l'offre |
-| spread | écart bid-ask | marge entre deux guichets | qu'il est toujours fixe |
-| liquidité | facilité à transacter | profondeur d'une file | qu'elle survit intacte en crise |
-| slippage | écart entre attendu et exécuté | sol glissant | qu'il est nul si tu utilises un stop |
-| levier | exposition amplifiée | conduire une machine plus grande avec la même pédale | qu'il augmente ton edge |
-| marge | garantie pour porter l'exposition | caution | qu'elle limite toujours la perte finale |
-| rendement | variation de valeur | compteur de progression | qu'il mesure le risque seul |
-| volatilité | amplitude des variations | route cahoteuse | qu'elle prédit la direction |
-| drawdown | perte depuis un sommet | descente depuis une crête | qu'il est identique à la volatilité |
-| backtest | simulation historique | replay d'un match | qu'il prouve le futur |
-| alpha | performance excédentaire relative à une référence | bonus au-dessus d'une ligne de base | qu'il est permanent |
-| beta | exposition à une variation de référence | sensibilité de la voiture à la route | qu'il est mauvais ou bon en soi |
-| edge | avantage statistique ou économique attendu | petit biais de la balance | qu'il garantit chaque trade |
-| stop-loss | règle de sortie prévue | porte coupe-feu | qu'elle fixe toujours la perte finale |
-| position sizing | taille décidée selon le risque | taille du sac à dos | qu'il suffit à rendre une stratégie bonne |
-| expectancy | gain/perte moyen pondéré par les probabilités | score moyen d'une machine de jeu | qu'elle reste stable |
-| Sharpe | rendement excédentaire rapporté à une mesure de volatilité | vitesse par rapport aux cahots | qu'il suffit pour juger une stratégie |
-| regime | environnement de marché | météo du terrain | qu'il est visible à l'œil nu |
-| overfitting | ajustement excessif aux données passées | mémoriser le sujet au lieu d'apprendre la matière | qu'il nécessite un modèle complexe |
-| look-ahead bias | utiliser une information future | tricher avec la correction | qu'il est toujours évident |
-| survivorship bias | oublier les actifs disparus | ne regarder que les survivants | qu'un historique propre est forcément fidèle |
-| execution | transformation de la décision en transaction réelle | passage du plan au terrain | qu'elle soit instantanée |
+| Mot                    | Français simple                                            | Analogie                                             | Ce qu'il ne faut pas conclure                |
+| ---------------------- | ---------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------- |
+| actif                  | instrument exposé au marché                                | objet dans un inventaire                             | qu'il est automatiquement rentable           |
+| broker (intermédiaire) | accès/acheminement vers le marché                          | guichet                                              | qu'il garantit un prix                       |
+| bid                    | meilleur prix acheteur visible                             | prix proposé par le client en face                   | qu'il représente toute la demande            |
+| ask                    | meilleur prix vendeur visible                              | prix demandé au guichet                              | qu'il représente toute l'offre               |
+| spread                 | écart bid-ask                                              | marge entre deux guichets                            | qu'il est toujours fixe                      |
+| liquidité              | facilité à transacter                                      | profondeur d'une file                                | qu'elle survit intacte en crise              |
+| slippage               | écart entre attendu et exécuté                             | sol glissant                                         | qu'il est nul si tu utilises un stop         |
+| levier                 | exposition amplifiée                                       | conduire une machine plus grande avec la même pédale | qu'il augmente ton edge                      |
+| marge                  | garantie pour porter l'exposition                          | caution                                              | qu'elle limite toujours la perte finale      |
+| rendement              | variation de valeur                                        | compteur de progression                              | qu'il mesure le risque seul                  |
+| volatilité             | amplitude des variations                                   | route cahoteuse                                      | qu'elle prédit la direction                  |
+| drawdown               | perte depuis un sommet                                     | descente depuis une crête                            | qu'il est identique à la volatilité          |
+| backtest               | simulation historique                                      | replay d'un match                                    | qu'il prouve le futur                        |
+| alpha                  | performance excédentaire relative à une référence          | bonus au-dessus d'une ligne de base                  | qu'il est permanent                          |
+| beta                   | exposition à une variation de référence                    | sensibilité de la voiture à la route                 | qu'il est mauvais ou bon en soi              |
+| edge                   | avantage statistique ou économique attendu                 | petit biais de la balance                            | qu'il garantit chaque trade                  |
+| stop-loss              | règle de sortie prévue                                     | porte coupe-feu                                      | qu'elle fixe toujours la perte finale        |
+| position sizing        | taille décidée selon le risque                             | taille du sac à dos                                  | qu'il suffit à rendre une stratégie bonne    |
+| expectancy             | gain/perte moyen pondéré par les probabilités              | score moyen d'une machine de jeu                     | qu'elle reste stable                         |
+| Sharpe                 | rendement excédentaire rapporté à une mesure de volatilité | vitesse par rapport aux cahots                       | qu'il suffit pour juger une stratégie        |
+| regime                 | environnement de marché                                    | météo du terrain                                     | qu'il est visible à l'œil nu                 |
+| overfitting            | ajustement excessif aux données passées                    | mémoriser le sujet au lieu d'apprendre la matière    | qu'il nécessite un modèle complexe           |
+| look-ahead bias        | utiliser une information future                            | tricher avec la correction                           | qu'il est toujours évident                   |
+| survivorship bias      | oublier les actifs disparus                                | ne regarder que les survivants                       | qu'un historique propre est forcément fidèle |
+| execution              | transformation de la décision en transaction réelle        | passage du plan au terrain                           | qu'elle soit instantanée                     |
 
 ## 4.3 Les abréviations qui terrorisent les débutants
 
@@ -613,10 +613,10 @@ voilà ce qui survit
 
 Un concept est considéré comme vraiment acquis lorsque tu peux :
 
-**Niveau 1 — reconnaître** : tu sais que le mot existe.  
-**Niveau 2 — expliquer** : tu peux le dire sans copier la définition.  
-**Niveau 3 — mesurer** : tu peux construire une observation ou un calcul.  
-**Niveau 4 — défendre** : tu peux expliquer quand le concept échoue et quoi faire alors.
+**Niveau 1 : reconnaître** : tu sais que le mot existe.  
+**Niveau 2 : expliquer** : tu peux le dire sans copier la définition.  
+**Niveau 3 : mesurer** : tu peux construire une observation ou un calcul.  
+**Niveau 4 : défendre** : tu peux expliquer quand le concept échoue et quoi faire alors.
 
 ```text
 RECONNAÎTRE → EXPLIQUER → MESURER → DÉFENDRE
@@ -683,7 +683,7 @@ Ne saute pas directement à une équation complexe parce qu'elle semble prestigi
 
 # 6. J’ai une idée de stratégie : que faire maintenant ?
 
-## 6.1 Étape 1 — transformer le slogan en hypothèse
+## 6.1 Étape 1 : transformer le slogan en hypothèse
 
 Mauvais :
 
@@ -695,7 +695,7 @@ Meilleur :
 
 Tu viens de passer d'un slogan à une hypothèse.
 
-## 6.2 Étape 2 — définir ce qui te ferait perdre
+## 6.2 Étape 2 : définir ce qui te ferait perdre
 
 Une hypothèse sérieuse contient une sortie possible :
 
@@ -713,7 +713,7 @@ CRITÈRE D'ÉCHEC
 
 Sans critère d'échec, tu peux toujours réinterpréter les résultats pour sauver l'idée.
 
-## 6.3 Étape 3 — choisir une baseline
+## 6.3 Étape 3 : choisir une baseline
 
 Une baseline est une référence simple contre laquelle comparer.
 
@@ -728,7 +728,7 @@ modèle ML vs règle heuristique simple
 
 Si ton modèle sophistiqué ne bat qu'une baseline volontairement médiocre, tu n'as pas démontré grand-chose.
 
-## 6.4 Étape 4 — commencer volontairement naïf
+## 6.4 Étape 4 : commencer volontairement naïf
 
 Le premier modèle doit être **suffisamment simple pour être compris ligne par ligne**.
 
@@ -736,7 +736,7 @@ Pourquoi ?
 
 Parce que lorsque le résultat est étrange, tu veux pouvoir remonter la chaîne causale.
 
-## 6.5 Étape 5 — calculer les coûts avant de célébrer
+## 6.5 Étape 5 : calculer les coûts avant de célébrer
 
 Un backtest sans coûts est une maquette.
 
@@ -755,7 +755,7 @@ frais spécifiques
 
 Une amélioration de stratégie qui disparaît après friction n'est pas une erreur de comptabilité : c'est une information sur la qualité économique de l'edge.
 
-## 6.6 Étape 6 — tenter de casser le résultat
+## 6.6 Étape 6 : tenter de casser le résultat
 
 Pose au système les questions les plus hostiles :
 
@@ -772,7 +772,7 @@ Et si le fournisseur de données introduit un biais ?
 Tu n'es pas en train de détruire la stratégie.
 Tu cherches à mesurer **combien elle dépend de circonstances particulières**.
 
-## 6.7 Étape 7 — seulement ensuite augmenter la sophistication
+## 6.7 Étape 7 : seulement ensuite augmenter la sophistication
 
 ```text
 règle simple
@@ -1370,7 +1370,7 @@ contre-exemple
 retour au texte
 ```
 
-Exemple : *slippage*.
+Exemple : _slippage_.
 
 > « Le prix que je pensais obtenir et le prix réellement exécuté ne sont pas identiques. »
 
@@ -1463,18 +1463,18 @@ Puis tu montes progressivement.
 
 ## 14.2 Le tableau « ne confonds pas »
 
-| Ne pas confondre | Avec | Pourquoi |
-|---|---|---|
-| corrélation | causalité | deux séries peuvent bouger ensemble sans mécanisme causal |
-| gain | edge | une opération réussie peut être due au hasard |
-| backtest | preuve | le passé est utilisé pour tester une hypothèse, pas pour garantir le futur |
-| volatilité | direction | l'amplitude ne dit pas à elle seule où va le prix |
-| levier | avantage | amplifier n'améliore pas la qualité du signal |
-| indicateur | mécanisme | un indicateur est une transformation de données, pas une loi physique |
-| complexité | sophistication | plus de paramètres augmentent aussi les occasions de sur-ajuster |
-| IA | vérité | un modèle peut être utile et faux simultanément |
-| intuition | validation | l'intuition génère une hypothèse ; le test la confronte au réel |
-| win rate | rentabilité | la taille relative des gains/pertes et les coûts comptent |
+| Ne pas confondre | Avec           | Pourquoi                                                                   |
+| ---------------- | -------------- | -------------------------------------------------------------------------- |
+| corrélation      | causalité      | deux séries peuvent bouger ensemble sans mécanisme causal                  |
+| gain             | edge           | une opération réussie peut être due au hasard                              |
+| backtest         | preuve         | le passé est utilisé pour tester une hypothèse, pas pour garantir le futur |
+| volatilité       | direction      | l'amplitude ne dit pas à elle seule où va le prix                          |
+| levier           | avantage       | amplifier n'améliore pas la qualité du signal                              |
+| indicateur       | mécanisme      | un indicateur est une transformation de données, pas une loi physique      |
+| complexité       | sophistication | plus de paramètres augmentent aussi les occasions de sur-ajuster           |
+| IA               | vérité         | un modèle peut être utile et faux simultanément                            |
+| intuition        | validation     | l'intuition génère une hypothèse ; le test la confronte au réel            |
+| win rate         | rentabilité    | la taille relative des gains/pertes et les coûts comptent                  |
 
 ## 14.3 Les cinq phrases que tu peux utiliser partout
 
@@ -1538,7 +1538,7 @@ La personne doit ensuite pouvoir répondre à cinq questions :
 4. Pourquoi un graphique ne montre-t-il pas tout le marché ?
 5. Pourquoi l'IA doit-elle être contrôlée ?
 
-## Niveau 1 — Construire
+## Niveau 1 : Construire
 
 Dessine une carte :
 
@@ -1546,19 +1546,19 @@ Dessine une carte :
 information → décision → ordre → marché → exécution → résultat
 ```
 
-## Niveau 2 — Expliquer
+## Niveau 2 : Expliquer
 
 Explique dix mots du grimoire sans copier leurs définitions.
 
-## Niveau 3 — Mesurer
+## Niveau 3 : Mesurer
 
 Prends vingt observations de rendement et calcule au minimum moyenne, dispersion et drawdown d'une courbe cumulée.
 
-## Niveau 4 — Casser
+## Niveau 4 : Casser
 
 Trouve trois raisons pour lesquelles ton expérience pourrait donner un faux signal.
 
-## Niveau 5 — Défendre
+## Niveau 5 : Défendre
 
 Réponds à :
 
@@ -1648,21 +1648,21 @@ PREUVE
 
 C'est cela, l'esprit de Trading Architecte.
 
-## Carnet transversal unique — 7 micro-pratiques
+## Carnet transversal unique : 7 micro-pratiques
 
 Ce carnet est le rituel commun. Les 7 exercices sont à refaire au besoin ; les **44 missions spécialisées** ci-dessous sont différentes et ancrées dans leur domaine.
 
-1. **Observation sans histoire** — écrire 10 faits observables sans causalité.
-2. **Deux mécanismes concurrents** — proposer 2 explications incompatibles et la donnée qui les départagerait.
-3. **Coût caché** — ajouter spread, commission, slippage et impact à un résultat théorique.
-4. **Le miroir** — écrire la meilleure objection à sa propre hypothèse.
-5. **Traduction pédagogique** — définir 5 termes avec définition simple, analogie, exemple, limite.
-6. **Transfert** — déplacer un mécanisme vers un autre actif, horizon ou contexte.
-7. **Preuve en une page** — résumer uniquement ce qui peut être mesuré, testé ou marqué comme hypothèse.
+1. **Observation sans histoire** : écrire 10 faits observables sans causalité.
+2. **Deux mécanismes concurrents** : proposer 2 explications incompatibles et la donnée qui les départagerait.
+3. **Coût caché** : ajouter spread, commission, slippage et impact à un résultat théorique.
+4. **Le miroir** : écrire la meilleure objection à sa propre hypothèse.
+5. **Traduction pédagogique** : définir 5 termes avec définition simple, analogie, exemple, limite.
+6. **Transfert** : déplacer un mécanisme vers un autre actif, horizon ou contexte.
+7. **Preuve en une page** : résumer uniquement ce qui peut être mesuré, testé ou marqué comme hypothèse.
 
 ## 44 missions spécialisées
 
-### Mission 01 — L’entrée dans le métier
+### Mission 01 : L’entrée dans le métier
 
 **Ancrage :** `00-SOCLE/02-PROLOGUE`
 
@@ -1670,7 +1670,7 @@ Ce carnet est le rituel commun. Les 7 exercices sont à refaire au besoin ; les 
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 02 — Repères et vocabulaire
+### Mission 02 : Repères et vocabulaire
 
 **Ancrage :** `00-SOCLE/03-REFERENTIEL`
 
@@ -1678,7 +1678,7 @@ Choisir 6 termes du référentiel et construire une chaîne : terme → définit
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 03 — Rendement et hasard
+### Mission 03 : Rendement et hasard
 
 **Ancrage :** `00-SOCLE/04-FUNDAMENTALS`
 
@@ -1686,7 +1686,7 @@ Prendre 5 prix 100, 102, 101, 105, 103. Calculer les 4 rendements simples, puis 
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 04 — Question → test
+### Mission 04 : Question → test
 
 **Ancrage :** `00-SOCLE/05-PROBLEM-SOLVING`
 
@@ -1694,7 +1694,7 @@ Transformer une question vague en hypothèse falsifiable avec seuil numérique d
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 05 — Biais sous pression
+### Mission 05 : Biais sous pression
 
 **Ancrage :** `00-SOCLE/06-MINDSET`
 
@@ -1702,7 +1702,7 @@ Après 3 pertes de 0,5 % chacune, calculer le capital restant à partir de 10 00
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 06 — Macro sans récit
+### Mission 06 : Macro sans récit
 
 **Ancrage :** `01-CADRAGE/06-fondamentaux-macro`
 
@@ -1710,7 +1710,7 @@ Comparer une hausse de taux de 50 pb à une baisse de 25 pb : calculer l’écar
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 07 — Changement de régime
+### Mission 07 : Changement de régime
 
 **Ancrage :** `01-CADRAGE/07-regimes`
 
@@ -1718,7 +1718,7 @@ Sur une série imaginaire où la volatilité passe de 1 % à 3 %, calculer le mu
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 08 — Familles d’edge
+### Mission 08 : Familles d’edge
 
 **Ancrage :** `01-CADRAGE/08-familles-de-strategies`
 
@@ -1726,7 +1726,7 @@ Comparer un signal à espérance 0,20 € avec 55 % de gains et un autre à 0,20
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 09 — Échelle temporelle
+### Mission 09 : Échelle temporelle
 
 **Ancrage :** `01-CADRAGE/09-timeframes`
 
@@ -1734,7 +1734,7 @@ Un signal journalier vise 2 % avec un stop de 1 %. Un signal horaire vise 0,5 % 
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 10 — Données sales
+### Mission 10 : Données sales
 
 **Ancrage :** `02-CONSTRUCTION/06-data-engineering`
 
@@ -1742,7 +1742,7 @@ Introduire un split 2:1 dans une série à 100 €. Montrer le rendement artific
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 11 — Tests multiples
+### Mission 11 : Tests multiples
 
 **Ancrage :** `02-CONSTRUCTION/07-validation-statistique`
 
@@ -1750,7 +1750,7 @@ Simuler mentalement 100 tests indépendants au seuil 5 %. Calculer le nombre moy
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 12 — Feature leakage
+### Mission 12 : Feature leakage
 
 **Ancrage :** `02-CONSTRUCTION/08-feature-design`
 
@@ -1758,7 +1758,7 @@ Une variable utilise le rendement de T+1 pour expliquer T. Numéroter la séquen
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 13 — Risque de modèle
+### Mission 13 : Risque de modèle
 
 **Ancrage :** `02-CONSTRUCTION/09-model-risk`
 
@@ -1766,7 +1766,7 @@ Un modèle estime 1 % de risque quotidien mais réalise 4 % une fois sur 50 jour
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 14 — Laboratoire
+### Mission 14 : Laboratoire
 
 **Ancrage :** `02-CONSTRUCTION/10-lab-executable`
 
@@ -1774,7 +1774,7 @@ Lancer le sizing sur 10 000 € avec 0,5 % de risque et 2 € de distance au sto
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 15 — Greeks
+### Mission 15 : Greeks
 
 **Ancrage :** `03-PILOTAGE/06-derives-et-greques`
 
@@ -1782,7 +1782,7 @@ Une option a delta 0,45 et le sous-jacent gagne 3 €. Estimer la variation delt
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 16 — Corrélation
+### Mission 16 : Corrélation
 
 **Ancrage :** `03-PILOTAGE/07-portfolio-construction`
 
@@ -1790,7 +1790,7 @@ Deux actifs ont volatilité 10 % et 15 %, corrélation 0,2, poids 60/40. Calcule
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 17 — Opérationnel
+### Mission 17 : Opérationnel
 
 **Ancrage :** `03-PILOTAGE/08-operations-et-compliance`
 
@@ -1798,7 +1798,7 @@ Un ordre est envoyé deux fois sur 100 titres à 50 €. Quantifier l’expositi
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 18 — Runbook
+### Mission 18 : Runbook
 
 **Ancrage :** `03-PILOTAGE/09-runbooks`
 
@@ -1806,7 +1806,7 @@ Construire une alerte avec seuil : drawdown intraday 2 %, latence 500 ms, ou per
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 19 — Réplication
+### Mission 19 : Réplication
 
 **Ancrage :** `04-EPREUVE/06-replication-lab`
 
@@ -1814,7 +1814,7 @@ Une étude annonce Sharpe 1,2. Recalculer le Sharpe après division par 2 de l�
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 20 — Backtest vs réel
+### Mission 20 : Backtest vs réel
 
 **Ancrage :** `04-EPREUVE/07-live-vs-backtest`
 
@@ -1822,7 +1822,7 @@ Backtest : 12 % brut, coûts 2 %. Réel : 12 % brut, coûts 5 %. Calculer les re
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 21 — Red team
+### Mission 21 : Red team
 
 **Ancrage :** `04-EPREUVE/08-red-team-research`
 
@@ -1830,7 +1830,7 @@ Prendre une affirmation « robuste » et proposer 3 attaques quantitatives : pé
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 22 — Lire un papier
+### Mission 22 : Lire un papier
 
 **Ancrage :** `05-MAITRISE/06-lecture-de-recherche`
 
@@ -1838,7 +1838,7 @@ Extraire d’un résultat annoncé n=500 observations : variable expliquée, est
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 23 — Gouvernance
+### Mission 23 : Gouvernance
 
 **Ancrage :** `05-MAITRISE/07-ia-et-gouvernance`
 
@@ -1846,7 +1846,7 @@ Un agent propose 40 ordres dont 6 dépassent la limite. Calculer le taux d’ord
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 24 — Défense orale
+### Mission 24 : Défense orale
 
 **Ancrage :** `05-MAITRISE/08-communication-praticien`
 
@@ -1854,7 +1854,7 @@ Présenter en 90 secondes un système avec 52 % de trades gagnants et gain moyen
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 25 — Horizon 2035
+### Mission 25 : Horizon 2035
 
 **Ancrage :** `05-MAITRISE/09-feuille-de-route-2035`
 
@@ -1862,7 +1862,7 @@ Classer 4 compétences selon leur durée de vie : microstructure, syntaxe d’un
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 26 — Sensibilité au spread
+### Mission 26 : Sensibilité au spread
 
 **Ancrage :** `CROSS/01`
 
@@ -1870,7 +1870,7 @@ Avec 60 trades/mois, spread 2 € par trade : calculer le coût mensuel. Refaire
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 27 — Drawdown
+### Mission 27 : Drawdown
 
 **Ancrage :** `CROSS/02`
 
@@ -1878,7 +1878,7 @@ Une equity passe 10 000 → 9 200 → 10 580. Calculer le drawdown maximal puis 
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 28 — Position sizing
+### Mission 28 : Position sizing
 
 **Ancrage :** `CROSS/03`
 
@@ -1886,7 +1886,7 @@ Capital 25 000 €, risque 0,4 %, distance 1,25 €. Calculer le budget de risqu
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 29 — Slippage
+### Mission 29 : Slippage
 
 **Ancrage :** `CROSS/04`
 
@@ -1894,7 +1894,7 @@ Prix prévu 100 €, exécution moyenne 100,08 € pour 400 unités. Calculer le
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 30 — Espérance
+### Mission 30 : Espérance
 
 **Ancrage :** `CROSS/05`
 
@@ -1902,7 +1902,7 @@ Prix prévu 100 €, exécution moyenne 100,08 € pour 400 unités. Calculer le
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 31 — Profit factor
+### Mission 31 : Profit factor
 
 **Ancrage :** `CROSS/06`
 
@@ -1910,7 +1910,7 @@ Gross wins 7 500 €, gross losses 5 000 €. Calculer le profit factor et préc
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 32 — Sharpe
+### Mission 32 : Sharpe
 
 **Ancrage :** `CROSS/07`
 
@@ -1918,7 +1918,7 @@ Rendement moyen 0,06 %/jour, écart-type 0,9 %. Calculer le Sharpe journalier si
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 33 — VaR vs perte
+### Mission 33 : VaR vs perte
 
 **Ancrage :** `CROSS/08`
 
@@ -1926,7 +1926,7 @@ VaR 95 % = 1,2 %. Une journée réalise −3,5 %. Mesurer l’écart et explique
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 34 — Corrélation
+### Mission 34 : Corrélation
 
 **Ancrage :** `CROSS/09`
 
@@ -1934,7 +1934,7 @@ Deux positions ont ρ=0,9. Comparer qualitativement le gain de diversification �
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 35 — Turnover
+### Mission 35 : Turnover
 
 **Ancrage :** `CROSS/10`
 
@@ -1942,7 +1942,7 @@ Un portefeuille de 100 000 € tourne 80 % par semaine à 15 pb de coût aller-r
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 36 — Regime filter
+### Mission 36 : Regime filter
 
 **Ancrage :** `CROSS/11`
 
@@ -1950,7 +1950,7 @@ Régime calme : vol 0,8 %. Régime stress : 2,4 %. Calculer le ratio 3:1 et la r
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 37 — Walk-forward
+### Mission 37 : Walk-forward
 
 **Ancrage :** `CROSS/12`
 
@@ -1958,7 +1958,7 @@ Régime calme : vol 0,8 %. Régime stress : 2,4 %. Calculer le ratio 3:1 et la r
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 38 — Overfitting
+### Mission 38 : Overfitting
 
 **Ancrage :** `CROSS/13`
 
@@ -1966,7 +1966,7 @@ Régime calme : vol 0,8 %. Régime stress : 2,4 %. Calculer le ratio 3:1 et la r
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 39 — Break-even costs
+### Mission 39 : Break-even costs
 
 **Ancrage :** `CROSS/14`
 
@@ -1974,7 +1974,7 @@ Edge brut 0,18R/trade, coût 0,11R. Calculer l’edge net et le coût maximal av
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 40 — Options
+### Mission 40 : Options
 
 **Ancrage :** `CROSS/15`
 
@@ -1982,7 +1982,7 @@ Premium 4 €, delta 0,5, move de 2 €. Approximation de premier ordre : variat
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 41 — Execution latency
+### Mission 41 : Execution latency
 
 **Ancrage :** `CROSS/16`
 
@@ -1990,7 +1990,7 @@ Premium 4 €, delta 0,5, move de 2 €. Approximation de premier ordre : variat
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 42 — Data quality
+### Mission 42 : Data quality
 
 **Ancrage :** `CROSS/17`
 
@@ -1998,7 +1998,7 @@ Premium 4 €, delta 0,5, move de 2 €. Approximation de premier ordre : variat
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 43 — Scenario stress
+### Mission 43 : Scenario stress
 
 **Ancrage :** `CROSS/18`
 
@@ -2006,7 +2006,7 @@ Perte −6 % du portefeuille, corrélation qui passe de 0,2 à 0,8. Calculer la 
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 44 — Research decay
+### Mission 44 : Research decay
 
 **Ancrage :** `CROSS/19`
 
@@ -2014,11 +2014,10 @@ Une anomalie annonce 8 % ; post-publication 4,8 %. Calculer la baisse relative d
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Mission 45 — Capital recovery
+### Mission 45 : Capital recovery
 
 **Ancrage :** `CROSS/20`
 
 Après −30 %, calculer le gain requis pour revenir au capital initial et expliquer l’asymétrie.
 
 **Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
-

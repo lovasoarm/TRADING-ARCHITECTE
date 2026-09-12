@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : REPLICATION LAB
+# 00 : PRÉREQUIS : REPLICATION LAB
 
 ## Avant de commencer
 

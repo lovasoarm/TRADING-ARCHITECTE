@@ -3,7 +3,7 @@ stability: stable
 acte: référence
 ---
 
-# 90 — GRIMOIRE : DATA ENGINEERING
+# 90 : GRIMOIRE : DATA ENGINEERING
 
 ## Runes de travail
 
@@ -53,4 +53,4 @@ Pour **données de marché fiables**, garde une copie des données brutes, des p
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

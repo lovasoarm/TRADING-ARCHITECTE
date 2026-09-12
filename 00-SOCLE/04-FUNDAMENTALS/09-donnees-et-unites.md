@@ -4,7 +4,7 @@ acte: vérifier
 noyau: oui
 ---
 
-# 09 — DONNÉES & UNITÉS
+# 09 : DONNÉES & UNITÉS
 
 ## CARTE VISUELLE
 

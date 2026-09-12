@@ -4,10 +4,10 @@ stability: stable
 
 # RESEARCH LEDGER
 
-| ID | Date | Question | Données | Essais | Résultat | Limite | Statut | Suite |
-|---|---|---|---|---:|---|---|---|---|
-| R-001 | | | | | | | | |
-| R-002 | | | | | | | | |
+| ID    | Date | Question | Données | Essais | Résultat | Limite | Statut | Suite |
+| ----- | ---- | -------- | ------- | -----: | -------- | ------ | ------ | ----- |
+| R-001 |      |          |         |        |          |        |        |       |
+| R-002 |      |          |         |        |          |        |        |       |
 
 ## Statuts
 
@@ -45,4 +45,4 @@ Ne valide pas une section parce que tu peux la relire. Valide-la lorsque tu peux
 
 ### Références
 
-- McLean, R. D. & Pontiff, J. (2016), *Does Academic Research Destroy Stock Return Predictability?*, Journal of Finance 71(1), 5–32. — https://doi.org/10.1111/jofi.12365
+- McLean, R. D. & Pontiff, J. (2016), _Does Academic Research Destroy Stock Return Predictability?_, Journal of Finance 71(1), 5–32. : https://doi.org/10.1111/jofi.12365

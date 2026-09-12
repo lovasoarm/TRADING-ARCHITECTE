@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : CINQ ACTIFS, DEUX FACTEURS
+# 03 : EXPÉRIENCE : CINQ ACTIFS, DEUX FACTEURS
 
 ## CARTE VISUELLE
 

@@ -6,7 +6,7 @@ route: complete
 
 > **SCÈNE CRAZYDEVS : l'atelier :** on n'apprend pas la mécanique avec une voiture lancée à 130 km/h.
 
-# 03 — SETUP SANS CAPITAL
+# 03 : SETUP SANS CAPITAL
 
 ## Matériel minimal
 

@@ -3,9 +3,9 @@ stability: intemporel
 acte: travailler
 ---
 
-> **SCÈNE CRAZYDEVS — l'athlète :** la discipline utile n'est pas « être fort ». C'est construire un environnement où l'erreur coûte peu et laisse une trace.
+> **SCÈNE CRAZYDEVS : l'athlète :** la discipline utile n'est pas « être fort ». C'est construire un environnement où l'erreur coûte peu et laisse une trace.
 
-# 06 — MINDSET
+# 06 : MINDSET
 
 - [01-journal-de-pratique.md](01-journal-de-pratique.md)
 - [02-biais-en-action.md](02-biais-en-action.md)

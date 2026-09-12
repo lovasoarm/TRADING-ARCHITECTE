@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# PORTAGE MENTAL — 03 — PILOTAGE
+# PORTAGE MENTAL : 03 : PILOTAGE
 
 ```text
 PRINCIPE

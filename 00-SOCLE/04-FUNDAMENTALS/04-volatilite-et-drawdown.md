@@ -4,7 +4,7 @@ acte: comprendre
 noyau: oui
 ---
 
-# 04 — VOLATILITÉ & DRAWDOWN (baisse du capital depuis un précédent sommet)
+# 04 : VOLATILITÉ & DRAWDOWN (baisse du capital depuis un précédent sommet)
 
 **Volatilité (dispersion des rendements)** n'est pas synonyme de **drawdown (baisse depuis un sommet)**.
 
@@ -26,4 +26,4 @@ Quel risque t'intéresse réellement : variation quotidienne, perte depuis somme
 
 ### Références
 
-- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041
+- Almgren, R. & Chriss, N. (2001), _Optimal Execution of Portfolio Transactions_. : https://doi.org/10.21314/JOR.2001.041

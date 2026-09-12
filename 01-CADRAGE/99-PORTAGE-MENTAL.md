@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# PORTAGE MENTAL — 01 — CADRAGE
+# PORTAGE MENTAL : 01 : CADRAGE
 
 ```text
 PRINCIPE

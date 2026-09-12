@@ -4,7 +4,7 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 — EXPÉRIENCE : DOUBLE IMPLEMENTATION
+# 03 : EXPÉRIENCE : DOUBLE IMPLEMENTATION
 
 ## CARTE VISUELLE
 

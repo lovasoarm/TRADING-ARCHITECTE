@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : CONSTRUCTION DE PORTEFEUILLE
+# 00 : PRÉREQUIS : CONSTRUCTION DE PORTEFEUILLE
 
 ## Avant de commencer
 

@@ -8,7 +8,7 @@ cognitive_level: L7
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** L’épreuve commence quand quelqu’un change les conditions.
+> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** L’épreuve commence quand quelqu’un change les conditions.
 
 > **CE MODULE RÉUTILISE :** `03-PILOTAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu transformes l’échec en modification vérifiable plutôt qu’en récit mor
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
 
 Ferme le fichier.
 

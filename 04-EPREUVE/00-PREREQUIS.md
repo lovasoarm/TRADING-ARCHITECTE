@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : 04-EPREUVE
+# 00 : PRÉREQUIS : 04-EPREUVE
 
 ## Avant de commencer
 

@@ -5,7 +5,7 @@ type: boss
 assessment_role: mastery_gate
 ---
 
-# 96 — BOSS : VALIDATION STATISTIQUE
+# 96 : BOSS : VALIDATION STATISTIQUE
 
 ## Scénario
 
@@ -29,11 +29,11 @@ Montre ce qui survit, ce qui casse et pourquoi. Tu dois conserver **l'état init
 
 ## Critères
 
-- 2 pts — incident correctement reproduit
-- 2 pts — cause isolée
-- 2 pts — chiffres avant/après
-- 2 pts — correction proportionnée
-- 2 pts — limite reconnue
+- 2 pts : incident correctement reproduit
+- 2 pts : cause isolée
+- 2 pts : chiffres avant/après
+- 2 pts : correction proportionnée
+- 2 pts : limite reconnue
 
 ## Exemple de réponse acceptable
 
@@ -43,18 +43,18 @@ Montre ce qui survit, ce qui casse et pourquoi. Tu dois conserver **l'état init
 
 ### Références
 
-- Hansen, P. R. (2005), *A Test for Superior Predictive Ability*, JBES 23(4), 365–380. — https://doi.org/10.1198/073500105000000063
-- White, H. (2000), *A Reality Check for Data Snooping*. — https://doi.org/10.1111/1468-0262.00152
+- Hansen, P. R. (2005), _A Test for Superior Predictive Ability_, JBES 23(4), 365–380. : https://doi.org/10.1198/073500105000000063
+- White, H. (2000), _A Reality Check for Data Snooping_. : https://doi.org/10.1111/1468-0262.00152
 
-### Grille d’auto-évaluation — /10
+### Grille d’auto-évaluation : /10
 
-| Critère | Points | Ce qu’on attend |
-|---|---:|---|
-| Exactitude | 0–2 | Les calculs et définitions sont cohérents |
-| Méthode | 0–2 | Les étapes sont explicites et reproductibles |
-| Preuve | 0–2 | Une observation ou un test concret soutient l’argument |
-| Limites | 0–2 | Au moins 2 modes d’échec sont nommés |
-| Communication | 0–2 | Un débutant peut suivre sans jargon non expliqué |
+| Critère       | Points | Ce qu’on attend                                        |
+| ------------- | -----: | ------------------------------------------------------ |
+| Exactitude    |    0–2 | Les calculs et définitions sont cohérents              |
+| Méthode       |    0–2 | Les étapes sont explicites et reproductibles           |
+| Preuve        |    0–2 | Une observation ou un test concret soutient l’argument |
+| Limites       |    0–2 | Au moins 2 modes d’échec sont nommés                   |
+| Communication |    0–2 | Un débutant peut suivre sans jargon non expliqué       |
 
 **Seuil conseillé : 8/10.** En dessous, corriger puis refaire l’exercice.
 

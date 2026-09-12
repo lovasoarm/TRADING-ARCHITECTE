@@ -3,7 +3,7 @@ stability: stable
 acte: entrée
 ---
 
-# 00 — PRÉREQUIS : FONDAMENTAUX MACRO ET DÉCLENCHEURS
+# 00 : PRÉREQUIS : FONDAMENTAUX MACRO ET DÉCLENCHEURS
 
 ## Avant de commencer
 

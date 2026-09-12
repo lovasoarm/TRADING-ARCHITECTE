@@ -3,7 +3,7 @@ stability: intemporel
 acte: observer
 ---
 
-# 02 — BIAIS EN ACTION
+# 02 : BIAIS EN ACTION
 
 Ne mémorise pas seulement des noms de biais. Mets-toi en situation.
 

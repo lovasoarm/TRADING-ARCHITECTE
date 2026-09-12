@@ -3,7 +3,7 @@ stability: intemporel
 acte: transition
 ---
 
-# 99A — PONT
+# 99A : PONT
 
 Tu passes maintenant du vocabulaire et des réflexes de décision à la mise en place du cadrage.
 
