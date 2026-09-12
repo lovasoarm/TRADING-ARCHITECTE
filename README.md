@@ -4,102 +4,136 @@ stability: stable
 
 <div align="center">
 
-<img src="assets/ta-hero.svg" alt="Trading Architecte : architecture d'un apprentissage sous incertitude" width="100%">
-
 # TRADING ARCHITECTE
 
-### Comprendre. Mesurer. Tester. Casser. Gérer. Construire. Adapter.
+**Comprendre · Mesurer · Tester · Casser · Gérer · Construire · Adapter**
 
-**Un curriculum de trading orienté terrain pour apprendre à raisonner sous incertitude : du zéro-prérequis jusqu'à la construction, la validation et la défense d'un système.**
+*Un curriculum de trading orienté terrain pour apprendre à raisonner sous incertitude — du zéro-prérequis à la conception, validation et défense d’un système.*
 
-[**Commencer par le guide**](00-SOCLE/00-GUIDE/README.md) · [**Voir la progression**](PROGRESSION.md) · [**Installer l'environnement**](SETUP.md)
+[**Commencer**](00-SOCLE/00-GUIDE/README.md) · [**Voir le parcours**](PROGRESSION.md) · [**Préparer l’environnement**](SETUP.md)
+
+</div>
+
+<div align="center">
+
+<svg width="120" height="18" viewBox="0 0 120 18" role="img" aria-label="Trading Architecte">
+  <path d="M8 9h30" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+  <circle cx="60" cy="9" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+  <path d="M82 9h30" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
 
 </div>
 
 ---
 
-## Pourquoi ce dépôt existe
+## L’idée en une page
 
-Le trading grand public pousse souvent à chercher le **setup**, l'indicateur ou le taux de réussite idéal. Trading Architecte part d'une autre question :
+Trading Architecte ne part pas de la question « quelle stratégie gagne ? ».
 
-> **Que dois-tu comprendre, mesurer, tester et contrôler pour qu'une décision reste défendable lorsque le marché, les données ou tes propres hypothèses deviennent hostiles ?**
+Il part de celle-ci :
 
-Le parcours traite le trading comme un problème d'**architecture de décision** : marché → information → hypothèse → stratégie → exécution → risque → validation → surveillance → révision.
+> **Que dois-tu comprendre, mesurer, tester et contrôler pour qu’une décision reste défendable lorsque le marché, les données ou tes propres hypothèses deviennent hostiles ?**
 
-Pas de promesse de revenu. Pas de « stratégie secrète ». Pas de certification par lecture seule.
-
----
-
-## ✦ Commence ici : même si tu ne connais rien
-
-Tu n'as pas besoin de connaître les marchés, Python ou les statistiques pour franchir la première porte.
-
-**[→ `00-SOCLE/00-GUIDE` : START HERE](00-SOCLE/00-GUIDE/README.md)**
-
-Le guide transversal répond aux questions que les cours avancés oublient souvent :
-
-- Qu'est-ce qu'un marché, un ordre, une position, un spread, un levier ?
-- Quelle différence entre investir, spéculer, couvrir et arbitrer ?
-- Comment lire une première bougie sans inventer une histoire ?
-- Pourquoi un stop-loss ne garantit pas une perte fixe ?
-- Comment pratiquer sans risquer son argent ?
-- Comment savoir si je dois continuer, revenir en arrière ou changer de piste ?
-- Quel vocabulaire dois-je réellement maîtriser avant de passer au code ?
-
-Le dépôt utilise volontairement un **double canal** :
+Le dépôt traite le trading comme une **chaîne de décision** :
 
 ```text
-TERME TECHNIQUE
-      ↓
-explication simple (ce que cela veut dire)
-      ↓
-analogie (à quoi cela ressemble)
-      ↓
-mécanisme (ce qui se passe réellement)
-      ↓
-expérience (ce que tu observes)
-      ↓
-preuve (ce que tu peux défendre)
+MARCHÉ
+  ↓
+INFORMATION
+  ↓
+HYPOTHÈSE
+  ↓
+STRATÉGIE
+  ↓
+EXÉCUTION
+  ↓
+RISQUE
+  ↓
+VALIDATION
+  ↓
+SURVEILLANCE
+  ↓
+RÉVISION
 ```
+
+Pas de promesse de revenu. Pas de « stratégie secrète ». Pas de validation par lecture seule.
 
 ---
 
-## Une route, pas une bibliothèque à parcourir au hasard
+## Pour qui ?
 
-<img src="assets/ta-route.svg" alt="Les six niveaux du parcours Trading Architecte" width="100%">
+### Tu débutes complètement
+
+Tu peux commencer sans connaître le trading, Python ou les statistiques.
+
+Le [**Guide transversal — START HERE**](06-ANNEXES-TRANSVERSES/00-GUIDE.md) répond d’abord aux questions fondamentales :
+
+- qu’est-ce qu’un actif, un marché, un ordre, une position ou un spread ;
+- pourquoi un prix bouge ;
+- différence entre investir, spéculer, couvrir et arbitrer ;
+- ce que signifient levier, volatilité, drawdown, risque et perte ;
+- comment observer et pratiquer **sans engager de capital** ;
+- comment apprendre le vocabulaire sans devoir tout connaître d’un coup ;
+- comment savoir quoi faire quand tu bloques.
+
+Le principe est simple : **la technicité ne disparaît pas ; elle devient franchissable.**
+
+### Tu as déjà un niveau intermédiaire
+
+Le parcours peut aussi servir de laboratoire : hypothèses falsifiables, données, backtests, validation hors échantillon, coûts, exécution, stress tests, risques et réplication.
+
+### Tu veux aller vers le quant / systématique
+
+Le curriculum mène progressivement vers la programmation, l’ingénierie de données, la statistique appliquée, la recherche systématique, le portfolio, le monitoring et la gouvernance.
+
+---
+
+## Le fil canonique
 
 ```text
-00 SOCLE
-   ↓
-01 CADRAGE
-   ↓
-02 CONSTRUCTION
-   ↓
-03 PILOTAGE
-   ↓
-04 ÉPREUVE
-   ↓
-05 MAÎTRISE
+00  SOCLE
+    Comprendre le terrain
+        ↓
+01  CADRAGE
+    Transformer une idée en hypothèse
+        ↓
+02  CONSTRUCTION
+    Construire quelque chose de testable
+        ↓
+03  PILOTAGE
+    Gérer risque, exécution et opérations
+        ↓
+04  ÉPREUVE
+    Chercher activement ce qui casse
+        ↓
+05  MAÎTRISE
+    Défendre, transférer et adapter
 ```
 
-Chaque niveau ajoute une capacité qui doit devenir **observable**.
+Chaque niveau ajoute une capacité **observable**.
 
-| Niveau                | Question centrale                            | Ce que tu construis                                         |
-| --------------------- | -------------------------------------------- | ----------------------------------------------------------- |
-| **00 : Socle**        | De quoi parle-t-on ?                         | vocabulaire, marché, risque, données, premières expériences |
-| **01 : Cadrage**      | Quelle est mon hypothèse ?                   | problème, hypothèse falsifiable, protocole, preuves         |
-| **02 : Construction** | Comment rendre l'idée testable ?             | stratégies, code, backtests, données, validation            |
-| **03 : Pilotage**     | Comment survivre à l'exécution ?             | sizing, exposition, coûts, opérations, monitoring           |
-| **04 : Épreuve**      | Que se passe-t-il quand tout se dégrade ?    | stress tests, red team, ruptures de régime, postmortems     |
-| **05 : Maîtrise**     | Puis-je défendre et transférer mon système ? | capstone, réplication, gouvernance, adaptation, soutenance  |
+| Niveau | Question centrale | Sortie attendue |
+|---|---|---|
+| **00 — Socle** | De quoi parle-t-on ? | vocabulaire, terrain, premières expériences |
+| **01 — Cadrage** | Que prétends-je exactement ? | hypothèse, protocole, critères d’échec |
+| **02 — Construction** | Comment le rendre testable ? | données, règles, code, backtests |
+| **03 — Pilotage** | Comment survivre à l’exécution ? | sizing, coûts, exposition, contrôle |
+| **04 — Épreuve** | Qu’est-ce qui le fait casser ? | stress tests, red team, ruptures, postmortems |
+| **05 — Maîtrise** | Puis-je le défendre et le transférer ? | réplication, gouvernance, capstone |
 
 ---
 
-## Le principe dur
+<div align="center">
+<svg width="160" height="14" viewBox="0 0 160 14" aria-hidden="true">
+  <path d="M4 7h44m8 0h44m8 0h48" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="52" cy="7" r="2.5" fill="none" stroke="currentColor" stroke-width="1"/>
+  <circle cx="104" cy="7" r="2.5" fill="none" stroke="currentColor" stroke-width="1"/>
+</svg>
+</div>
 
-<img src="assets/ta-proof-ladder.svg" alt="Échelle de preuve de Trading Architecte" width="100%">
+## La règle d’or : la preuve gagne progressivement le droit d’exister
 
-Une idée ne devient pas solide parce qu'elle est populaire, élégante ou rentable sur une jolie courbe.
+Une idée séduisante n’est pas encore une stratégie crédible.
 
 ```text
 PHÉNOMÈNE
@@ -115,51 +149,17 @@ SOUS STRESS
 EN TERRAIN
 ```
 
-La philosophie est simple : **une affirmation doit gagner progressivement le droit d'être crue**.
+Le curriculum traite explicitement les pièges qui font passer un résultat de « joli » à « fragile » :
 
-C'est pourquoi le parcours traite explicitement le data snooping, l'overfitting, les coûts de transaction, la non-stationnarité, la liquidité, le risque opérationnel et les biais comportementaux.
+`data snooping` · `overfitting` · sélection ex post · biais de survivance · non-stationnarité · coûts · slippage · liquidité · risque opérationnel · corrélations · comportement humain.
 
----
-
-## Ce que tu vas réellement apprendre
-
-### Comprendre le marché
-
-Microstructure, découverte des prix, carnet d'ordres, matching, liquidité, acteurs, instruments, dérivés, coûts et mécanique d'exécution.
-
-### Penser en probabilités
-
-Rendements, distributions, espérance, variance, drawdown, corrélation, risque de ruine, sizing, scénarios et incertitude de modèle.
-
-### Construire une hypothèse
-
-Partir d'un mécanisme économique plutôt que d'un motif graphique, écrire une prédiction falsifiable et définir à l'avance ce qui ferait échouer l'idée.
-
-### Tester sans se raconter d'histoires
-
-Backtesting, hors-échantillon, walk-forward, tests multiples, data snooping, robustesse, coûts, slippage, biais de sélection et validation adversariale.
-
-### Passer du graphique au système
-
-Transformer une intuition en règles explicites, données reproductibles, code testable, métriques et procédures d'exécution.
-
-### Gérer le vrai risque
-
-Levier, exposition, corrélations cachées, gap, liquidité, contrepartie, modèle, opérations, kill switch, monitoring et incidents.
-
-### Comprendre le facteur humain
-
-Loss aversion, overconfidence, disposition effect, FOMO, revenge trading, pression cognitive et architecture de process.
-
-### Lire l'horizon 2035+
-
-Automatisation, IA, agents, données alternatives, exécution algorithmique, gouvernance, résilience et compétences durables : en séparant soigneusement le fait, la tendance, le scénario plausible et la spéculation.
+**Une courbe d’equity n’est pas une preuve. C’est le début de l’enquête.**
 
 ---
 
-## La signature pédagogique
+## Une pédagogie qui oblige à faire
 
-Trading Architecte n'est pas organisé comme une suite de chapitres à mémoriser. Chaque concept important suit autant que possible cette boucle :
+Chaque concept important suit autant que possible une boucle de travail :
 
 ```text
 EXPLIQUER
@@ -172,250 +172,182 @@ MESURER
    ↓
 CASSER
    ↓
-EXPLIQUER CE QUI A CASSÉ
+COMPRENDRE L'ÉCHEC
    ↓
 RÉVISER
 ```
 
-Tu trouveras donc des **expériences**, des **mini-projets**, des **challenges**, des **Boss**, des **postmortems**, des **ponts de transfert** et un **grimoire** de référence.
+Le dépôt utilise donc des :
 
-Une lecture peut t'apprendre un mot. Une épreuve doit te montrer que tu sais l'utiliser.
+**cartes** · **expériences** · **mini-projets** · **challenges** · **Boss** · **postmortems** · **ponts de transfert** · **grimoire**
+
+L’objectif n’est pas de réciter une méthode. L’objectif est de produire quelque chose que tu peux **inspecter, tester, critiquer et défendre**.
 
 ---
 
-## Pour les débutants absolus
+## Le langage : technique, mais lisible
 
-Le dépôt ne suppose pas que « trader » signifie déjà quelque chose pour toi.
+Un débutant ne devrait pas être arrêté par un acronyme qu’il n’a jamais rencontré.
 
-On peut commencer avec :
+Le principe de lecture du dépôt est donc :
 
 ```text
-Je ne connais pas les marchés.
-        ↓
-Je comprends ce qu'est un actif.
-        ↓
-Je comprends ce qu'est un ordre.
-        ↓
-Je comprends pourquoi un prix bouge.
-        ↓
-Je comprends ce que je risque.
-        ↓
-Je peux observer sans engager de capital.
-        ↓
-Je peux formuler une première hypothèse.
-        ↓
-Je peux la tester.
+TERME TECHNIQUE
+      ↓
+explication simple
+      ↓
+analogie
+      ↓
+mécanisme réel
+      ↓
+expérience
+      ↓
+preuve
 ```
 
-Le jargon est accompagné d'explications en langage simple et d'analogies lorsque cela améliore réellement la compréhension. Le but n'est pas de supprimer la technicité : **c'est de rendre la technicité franchissable**.
+Les termes spécialisés sont accompagnés d’une explication lorsque nécessaire, sans retirer la précision du vocabulaire professionnel.
 
 ---
 
-## Ce que ce dépôt refuse
+## Ce que tu vas réellement apprendre
+
+### Marchés & microstructure
+
+Actifs, places de marché, acteurs, carnet d’ordres, matching, liquidité, découverte des prix, ordres, exécution et coûts.
+
+### Probabilités & risque
+
+Rendements, distributions, espérance, variance, volatilité, drawdown, corrélation, risque de ruine, position sizing, scénarios et incertitude de modèle.
+
+### Recherche & stratégies
+
+Hypothèses falsifiables, momentum, trend following, mean reversion, pairs trading, facteurs, stratégies systématiques et lecture critique de l’analyse technique.
+
+### Données & code
+
+Données brutes, qualité, timestamps, biais de données, pipelines, règles reproductibles, backtests, validation et automatisation progressive.
+
+### Validation
+
+Hors-échantillon, walk-forward, tests multiples, data snooping, robustesse, coûts de transaction, stress tests, réplication et red team.
+
+### Exécution & opérations
+
+Sizing, exposition, slippage, liquidité, contrepartie, monitoring, contrôles, kill switch, incidents et procédures de survie.
+
+### Psychologie observable
+
+Loss aversion, overconfidence, disposition effect, FOMO, revenge trading, charge cognitive et conception de process qui réduit les décisions fragiles.
+
+### Horizon 2035+
+
+Automatisation, exécution algorithmique, données alternatives, IA, agents, gouvernance, résilience et compétences durables — en distinguant clairement **fait, tendance, scénario plausible et spéculation**.
+
+---
+
+## Ce que le dépôt refuse
 
 ```text
-SETUP MAGIQUE             → non
-PROMESSE DE RENDEMENT     → non
-CERTIFICATION PAR LECTURE → non
-GRAPHIQUE = PREUVE        → non
-BACKTEST = FUTUR          → non
-IA = ORACLE               → non
+SETUP MAGIQUE              ✕
+PROMESSE DE RENDEMENT      ✕
+SECRET DE MARCHÉ           ✕
+GRAPHIQUE = PREUVE        ✕
+BACKTEST = FUTUR           ✕
+IA = ORACLE                ✕
 ```
 
-Une idée populaire peut être étudiée. Elle peut être conservée comme objet historique ou falsifiable. Mais sa popularité ne remplace jamais l'évidence.
+Une idée populaire peut être étudiée.
+Une idée controversée peut être testée.
+Une idée séduisante peut être mise à l’épreuve.
+
+Mais **la popularité ne remplace jamais la preuve**.
 
 ---
 
-## Les marchés sont traités comme des systèmes réels
+## Commencer sans se perdre
 
-Le cursus ne s'arrête pas à « entrée / sortie ».
-
-```text
-INFORMATION
-    ↓
-HYPOTHÈSE
-    ↓
-DÉCISION
-    ↓
-ORDRE
-    ↓
-ROUTAGE
-    ↓
-CARNET / VENUE
-    ↓
-MATCHING
-    ↓
-EXÉCUTION
-    ↓
-POSITION
-    ↓
-RISQUE
-    ↓
-SURVEILLANCE
-    ↓
-POSTMORTEM
-```
-
-Cela oblige à penser aux choses qui disparaissent souvent dans les formations superficielles : données imparfaites, friction, latence, liquidité, coûts, contrepartie, procédures, erreurs humaines et changement de régime.
-
----
-
-## Le côté « CrazyDevs »
-
-Les ASCII, schémas et scènes ne sont pas là pour faire joli. Ils servent à faire **voir une architecture mentale**.
+### Itinéraire recommandé
 
 ```text
-AVANT
-« Je crois que ça monte. »
-
+1. Ouvre le START HERE
         ↓
-
-ARCHITECTE
-« Quelle hypothèse ?
- Quelle donnée ?
- Quel mécanisme ?
- Quel test ?
- Quel niveau d'échec ?
- Quel risque si j'ai tort ? »
+2. Comprends le terrain et le vocabulaire
+        ↓
+3. Suis le SOCLE
+        ↓
+4. Passe au CADRAGE
+        ↓
+5. Construis une première hypothèse
+        ↓
+6. Teste-la avant d'ajouter de la complexité
+        ↓
+7. Apprends à chercher ce qui pourrait l'invalider
+        ↓
+8. Monte progressivement vers l'automatisation
 ```
 
-Les illustrations visuelles servent de mémoire ; les expériences et les preuves servent de validation.
+**Ne saute pas directement à une stratégie complexe parce qu’elle est plus impressionnante.**
 
----
-
-## Un parcours moderne sans dépendance à la mode
-
-Le curriculum accepte les outils contemporains, mais il privilégie les compétences qui traversent les changements de stack :
-
-**microstructure · pensée probabiliste · risque · qualité des données · validation · ingénierie · observabilité · gouvernance · adaptation**
-
-Les outils peuvent changer. Les contraintes physiques et méthodologiques du marché changent beaucoup moins vite.
-
----
-
-## Et l'IA ?
-
-L'IA est traitée comme **un outil parmi d'autres, avec des limites et un coût d'erreur**.
-
-Elle peut aider à coder, explorer, documenter ou comparer. Elle peut aussi halluciner, sur-ajuster, amplifier un biais ou masquer une hypothèse fragile.
-
-La règle reste donc :
-
-```text
-IA
- ↓
-PROPOSITION
- ↓
-VÉRIFICATION
- ↓
-TEST
- ↓
-MESURE
- ↓
-DÉCISION
-```
-
-Le programme ne dépend pas d'un modèle particulier et n'est pas construit autour d'une promesse d'automatisation totale.
-
----
-
-## Ce que tu produis en avançant
-
-À différents paliers, tu construis progressivement :
-
-- une carte du marché et des risques ;
-- un vocabulaire opérationnel ;
-- des observations reproductibles ;
-- des hypothèses falsifiables ;
-- des stratégies formalisées ;
-- des jeux de données contrôlés ;
-- des notebooks / scripts et backtests ;
-- des rapports de validation ;
-- des règles de sizing et de contrôle ;
-- des tests de stress ;
-- des journaux et postmortems ;
-- des systèmes monitorables ;
-- un capstone défendable et transférable.
-
-Le résultat final n'est pas « je connais beaucoup de termes ».
-
-> **Le résultat final est : je peux expliquer ce que j'ai construit, pourquoi je lui fais confiance, où il peut casser, et ce que je ferai lorsqu'il cassera.**
-
----
-
-## Navigation recommandée
-
-### 🟦 Tu débutes totalement
-
-[**00-SOCLE/00-GUIDE : START HERE**](00-SOCLE/00-GUIDE/README.md)
-
-Puis suis le fil canonique sans sauter les prérequis.
-
-### 🟪 Tu connais déjà les bases
-
-Commence par le [**référentiel**](00-SOCLE/03-REFERENTIEL/README.md), identifie tes lacunes, puis reprends au premier palier non validé.
-
-### 🟥 Tu veux surtout pratiquer
-
-Va vers les expériences et mini-projets après avoir vérifié leurs prérequis. Le dépôt privilégie la pratique reproductible à la consommation passive.
-
-### ⬛ Tu veux aller vers le quant / systématique
-
-Le parcours t'y conduit progressivement : données → hypothèse → stratégie → validation → exécution → risque → stress → gouvernance.
-
----
-
-## Structure du dépôt
-
-```text
-TRADING-ARCHITECTE/
-│
-├── 00-SOCLE/
-│   ├── 00-GUIDE/
-│   ├── REFERENTIEL/
-│   ├── FUNDAMENTALS/
-│   ├── PROBLEM-SOLVING/
-│   └── MINDSET/
-│
-├── 01-CADRAGE/
-├── 02-CONSTRUCTION/
-├── 03-PILOTAGE/
-├── 04-EPREUVE/
-├── 05-MAITRISE/
-│
-├── 06-ANNEXES-TRANSVERSES/
-│   └── 00-GUIDE.md
-│
-├── PROGRESSION.md
-├── SETUP.md
-└── README.md
-```
-
----
-
-## Règle d'or
-
-```text
-NE PAS CHERCHER :
-« Quelle stratégie marche ? »
-
-CHERCHER :
-« Quelle affirmation puis-je démontrer,
- dans quelles conditions,
- avec quelles limites,
- et que se passe-t-il lorsqu'elle cesse de fonctionner ? »
-```
-
-C'est la différence entre **utiliser un outil** et **construire un système que l'on comprend**.
+Une bonne progression donne d’abord les moyens de comprendre pourquoi une méthode fonctionne, pourquoi elle échoue et dans quelles conditions elle cesse d’être crédible.
 
 ---
 
 <div align="center">
+<svg width="150" height="16" viewBox="0 0 150 16" aria-hidden="true">
+  <path d="M8 8h32m12 0h32m12 0h38" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path d="M40 5v6m52-6v6" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+</svg>
+</div>
 
-**TRADING ARCHITECTE**
+## Une architecture faite pour durer
 
-_Pas une promesse de richesse. Une école de raisonnement sous incertitude._
+Les outils changent vite. Les contraintes fondamentales changent moins vite.
 
-[**→ Entrer par le Guide**](00-SOCLE/00-GUIDE/README.md)
+```text
+OUTILS                     → changent
+PLATEFORMES                → changent
+LIBRAIRIES                 → changent
+MODÈLES                    → changent
+
+MÉCANIQUE DU MARCHÉ        → beaucoup plus stable
+PROBABILITÉ                → stable
+GESTION DU RISQUE          → stable
+RIGUEUR EXPÉRIMENTALE      → stable
+DISCIPLINE DES DONNÉES     → stable
+CAPACITÉ À DÉTECTER L'ERREUR → indispensable
+```
+
+C’est pourquoi le curriculum vise davantage les **invariants** que la mémorisation d’un stack logiciel particulier.
+
+---
+
+## Navigation
+
+| Besoin | Entrée |
+|---|---|
+| **Je pars de zéro** | [`06-ANNEXES-TRANSVERSES/00-GUIDE.md`](06-ANNEXES-TRANSVERSES/00-GUIDE.md) |
+| **Je veux le parcours complet** | [`PROGRESSION.md`](PROGRESSION.md) |
+| **Je veux installer l’environnement** | [`SETUP.md`](SETUP.md) |
+| **Je veux comprendre le Socle** | [`00-SOCLE/`](00-SOCLE/) |
+| **Je veux commencer la progression** | [`01-CADRAGE/`](01-CADRAGE/) |
+| **Je veux construire et tester** | [`02-CONSTRUCTION/`](02-CONSTRUCTION/) |
+| **Je veux apprendre le pilotage** | [`03-PILOTAGE/`](03-PILOTAGE/) |
+| **Je veux éprouver un système** | [`04-EPREUVE/`](04-EPREUVE/) |
+| **Je veux aller vers la maîtrise** | [`05-MAITRISE/`](05-MAITRISE/) |
+| **Je veux utiliser les annexes transverses** | [`06-ANNEXES-TRANSVERSES/`](06-ANNEXES-TRANSVERSES/) |
+
+---
+
+## La question à garder pendant tout le parcours
+
+> **« Qu’est-ce qui me ferait changer d’avis ? »**
+
+C’est une meilleure protection contre les illusions de maîtrise que n’importe quel indicateur supplémentaire.
+
+<div align="center">
+
+**Trading Architecte**
+
+*Pas apprendre à prédire. Apprendre à construire des décisions qui restent défendables quand la prédiction échoue.*
 
 </div>
