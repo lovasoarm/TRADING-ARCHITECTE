@@ -3,7 +3,7 @@ stability: intemporel
 acte: dépanner
 ---
 
-# 06 : DEBUGGING DE BACKTEST (simulation d’une règle sur des données historiques)
+# 06 — DEBUGGING DE BACKTEST (simulation d’une règle sur des données historiques)
 
 Quand une stratégie « devient miraculeusement » rentable, suspecte d'abord :
 
@@ -22,3 +22,8 @@ chercher d'abord une erreur simple
    ↓
 puis seulement une explication sophistiquée
 ```
+
+### Références
+
+- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253

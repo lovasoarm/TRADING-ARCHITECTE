@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 01 : POURQUOI CE PARCOURS
+# 01 — POURQUOI CE PARCOURS
 
 Le trading grand public mélange souvent trois choses : apprendre des outils, raconter le marché et prouver qu'une décision est robuste.
 

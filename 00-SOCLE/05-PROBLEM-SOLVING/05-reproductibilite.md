@@ -3,25 +3,22 @@ stability: intemporel
 acte: reproduire
 ---
 
-# 05 : REPRODUCTIBILITÉ
+# 05 — REPRODUCTIBILITÉ
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Un résultat sérieux doit être refaisable.

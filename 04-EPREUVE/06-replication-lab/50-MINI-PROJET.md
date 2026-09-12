@@ -4,7 +4,7 @@ acte: construire
 assessment_role: project_gate
 ---
 
-# 50 : MINI-PROJET
+# 50 — MINI-PROJET
 
 Transforme le module en un artefact inspectable.
 

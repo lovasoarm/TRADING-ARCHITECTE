@@ -4,9 +4,9 @@ acte: se situer
 assessment_role: diagnostic_mastery
 ---
 
-> **SCÈNE CRAZYDEVS : la carte :** tu peux être perdu dans une forêt même avec une excellente boussole ; ici, on vérifie les deux.
+> **SCÈNE CRAZYDEVS — la carte :** tu peux être perdu dans une forêt même avec une excellente boussole ; ici, on vérifie les deux.
 
-# 03 : REFERENTIEL
+# 03 — REFERENTIEL
 
 Ce module répond à quatre questions :
 

@@ -4,7 +4,7 @@ acte: construire
 assessment_role: project_gate
 ---
 
-# 50 : MINI-PROJET
+# 50 — MINI-PROJET
 
 Transforme le module en un artefact inspectable.
 
@@ -19,3 +19,7 @@ Transforme le module en un artefact inspectable.
 - [ ] prochaine décision
 
 Sujet du module : **RED TEAM RESEARCH**.
+
+### Références
+
+- McLean, R. D. & Pontiff, J. (2016), *Does Academic Research Destroy Stock Return Predictability?*, Journal of Finance 71(1), 5–32. — https://doi.org/10.1111/jofi.12365

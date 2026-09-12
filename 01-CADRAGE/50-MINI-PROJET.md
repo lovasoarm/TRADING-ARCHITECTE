@@ -7,7 +7,7 @@ noyau: oui
 
 > **ANCRAGE CRAZYDEVS :** le projet est le moment où les idées quittent la page et commencent à produire des traces.
 
-# MINI-PROJET : 01-CADRAGE
+# MINI-PROJET — 01-CADRAGE
 
 ## Mission
 
@@ -32,12 +32,12 @@ Construire un dossier d’hypothèse et un journal de 30 décisions simulées sa
 
 ## Critères
 
-| Critère          | Minimum             | Solide                              |
-| ---------------- | ------------------- | ----------------------------------- |
-| Reproductibilité | procédure écrite    | procédure + versioning              |
-| Explication      | sans jargon         | mécanisme + contre-exemple          |
-| Preuve           | résultat brut       | résultat + limite + contrôle        |
-| Transfert        | un nouveau contexte | plusieurs contextes avec adaptation |
+| Critère | Minimum | Solide |
+|---|---|---|
+| Reproductibilité | procédure écrite | procédure + versioning |
+| Explication | sans jargon | mécanisme + contre-exemple |
+| Preuve | résultat brut | résultat + limite + contrôle |
+| Transfert | un nouveau contexte | plusieurs contextes avec adaptation |
 
 ## Preuve à conserver
 

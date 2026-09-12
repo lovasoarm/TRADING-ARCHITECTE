@@ -3,7 +3,7 @@ stability: intemporel
 acte: vérifier
 ---
 
-# 04 : HYGIÈNE DES DONNÉES
+# 04 — HYGIÈNE DES DONNÉES
 
 Avant l'analyse :
 

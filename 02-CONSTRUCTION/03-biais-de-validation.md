@@ -8,7 +8,7 @@ cognitive_level: L4
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
 
 > **CE MODULE RÉUTILISE :** `01-CADRAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu apprends à rechercher les raisons pour lesquelles un résultat pourrait êtr
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 
@@ -113,3 +113,30 @@ Ce que je pense avant de voir la suite : ________
 Ce que je sais réellement à t0 : _______________
 Ce qui pourrait réfuter mon interprétation : _____
 ```
+
+## Cas numérique : le meilleur des 100 n'est pas automatiquement bon
+
+Suppose 100 variantes indépendantes avec une probabilité théorique de 5 % de produire un résultat « positif » par hasard. La probabilité d'avoir au moins un positif parmi 100 essais est : **1 − 0,95^100 ≈ 99,4 %**.
+
+Les marchés ne satisfont évidemment pas toutes les hypothèses d'indépendance ; l'exemple sert à construire l'intuition. C'est pourquoi White Reality Check, SPA, DSR et validation hors échantillon jouent des rôles distincts.
+
+## Références
+
+White (2000), Hansen (2005), Bailey et al. (PBO/DSR selon les extensions étudiées), Harvey, Liu & Zhu (2016).
+
+### Références
+
+- Hansen, P. R. (2005), *A Test for Superior Predictive Ability*, JBES 23(4), 365–380. — https://doi.org/10.1198/073500105000000063
+- White, H. (2000), *A Reality Check for Data Snooping*. — https://doi.org/10.1111/1468-0262.00152
+
+### Mini-expérience Python
+
+```python
+scores = [0.01, -0.02, 0.03, 0.015, 0.08]
+best = max(scores)
+assert best == 0.08
+print("Champion in-sample :", best)
+print("Question suivante : le champion survit-il sur des données non utilisées pour le choisir ?")
+```
+
+Le but est de rendre visible la différence entre **sélectionner** un meilleur score et **démontrer** qu'il est robuste.

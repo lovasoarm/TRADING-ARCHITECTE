@@ -8,7 +8,7 @@ cognitive_level: L8
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
 
 > **CE MODULE RÉUTILISE :** `01-CADRAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu apprends la reproductibilité comme une propriété du processus de recherche
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 
@@ -113,3 +113,44 @@ Ce que je pense avant de voir la suite : ________
 Ce que je sais réellement à t0 : _______________
 Ce qui pourrait réfuter mon interprétation : _____
 ```
+
+## Exemple chiffré : une courbe qui ment par omission
+
+Une stratégie gagne 10 000 € brut sur 1 000 trades. Si le coût moyen réel est seulement **12 € par trade**, les coûts cumulés valent **12 000 €** : le « backtest gagnant » devient **−2 000 € net**. Ce calcul volontairement simple montre pourquoi le modèle de coûts doit être une partie du test, pas une note de bas de page.
+
+## Exécution réelle
+
+```text
+donnée brute → règle figée → backtest
+                         ↓
+                   coûts réalistes
+                         ↓
+                 hors échantillon
+                         ↓
+                    réplication
+```
+
+## Source de méthode
+
+Les principes de biais de backtest, de data snooping et de coûts suivent notamment White (2000), Hansen (2005), Almgren & Chriss (2001) et les travaux recensés dans le corpus du projet.
+
+### Références
+
+- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253
+
+### Extrait Python exécutable
+
+```python
+from pathlib import Path
+import csv
+
+path = Path("data/spy.us.csv")
+with path.open(newline="", encoding="utf-8") as f:
+    closes = [float(row["Close"]) for row in csv.DictReader(f)]
+
+assert len(closes) > 250, "La série doit contenir au moins 251 clôtures."
+print(f"Observations disponibles : {len(closes)}")
+```
+
+Ce fragment fait une chose simple mais vérifiable : il refuse silencieusement une série trop courte avant le backtest. La suite du laboratoire ajoute signal, coûts et fenêtres walk-forward.

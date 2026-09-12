@@ -8,7 +8,7 @@ cognitive_level: L4
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Le premier graphique raconte une histoire. Le deuxième montre le contre-exemple.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Le premier graphique raconte une histoire. Le deuxième montre le contre-exemple.
 
 > **CE MODULE RÉUTILISE :** `00-SOCLE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu viens de poser la barrière entre hindsight et décision réelle.
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 
@@ -113,3 +113,11 @@ Ce que je pense avant de voir la suite : ________
 Ce que je sais réellement à t0 : _______________
 Ce qui pourrait réfuter mon interprétation : _____
 ```
+
+## Références de la leçon
+
+Hasbrouck (2007), Empirical Market Microstructure ; Lehalle et al. (2013).
+
+### Références
+
+- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348

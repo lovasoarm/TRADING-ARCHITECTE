@@ -3,25 +3,22 @@ stability: intemporel
 acte: transférer
 ---
 
-# 99 : PORTAGE
+# 99 — PORTAGE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Prends une décision non financière et applique :

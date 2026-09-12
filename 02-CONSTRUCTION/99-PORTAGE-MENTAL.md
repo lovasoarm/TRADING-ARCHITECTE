@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# PORTAGE MENTAL : 02 : CONSTRUCTION
+# PORTAGE MENTAL — 02 — CONSTRUCTION
 
 ```text
 PRINCIPE

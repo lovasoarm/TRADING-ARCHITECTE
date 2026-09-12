@@ -3,25 +3,18 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 : MÉCANISME : PAYOFFS
+# 02 — MÉCANISME : PAYOFFS
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+sous-jacent
+    ↓
+payoff
+    ↓
+Δ  Γ  Θ  Vega
+    ↓
+profil de risque
 ```
 
 Les dérivés déplacent le problème : on ne gère plus seulement un prix, mais un payoff conditionnel, une échéance, une marge et parfois plusieurs sensibilités.

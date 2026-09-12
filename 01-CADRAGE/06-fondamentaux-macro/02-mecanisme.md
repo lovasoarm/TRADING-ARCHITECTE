@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 : MÉCANISME : MACRO SANS ORACLE
+# 02 — MÉCANISME : MACRO SANS ORACLE
 
 **Taux (prix du financement du capital)**, **inflation (variation générale des prix)** et **croissance (variation de l'activité économique)** peuvent modifier les attentes des acteurs. Mais une variable macro n'est pas une flèche directement branchée sur le prix.
 

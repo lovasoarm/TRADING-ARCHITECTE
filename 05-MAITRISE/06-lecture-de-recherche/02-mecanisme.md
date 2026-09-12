@@ -3,25 +3,16 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 : MÉCANISME : LIRE UN PAPIER
+# 02 — MÉCANISME : LIRE UN PAPIER
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question → identification → méthode
+                                  ↓
+                            résultat
+                               ↙  ↘
+                         limites   implication
 ```
 
 Lis dans cet ordre : question, données, méthode, identification, résultat, robustesse, limites, réplication.

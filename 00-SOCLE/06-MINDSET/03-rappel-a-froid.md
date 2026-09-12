@@ -3,25 +3,22 @@ stability: intemporel
 acte: restituer
 ---
 
-# 03 : RAPPEL À FROID
+# 03 — RAPPEL À FROID
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Ferme les notes. Explique :

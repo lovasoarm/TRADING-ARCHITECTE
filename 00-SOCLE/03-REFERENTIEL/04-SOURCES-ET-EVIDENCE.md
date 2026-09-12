@@ -3,7 +3,7 @@ stability: évolutif
 acte: qualifier
 ---
 
-# 04 : SOURCES ET ÉVIDENCE
+# 04 — SOURCES ET ÉVIDENCE
 
 ## Hiérarchie pratique
 

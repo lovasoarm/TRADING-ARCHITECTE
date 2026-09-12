@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 : MÉCANISME : VARIABLES
+# 02 — MÉCANISME : VARIABLES
 
 Une **feature (variable construite pour fournir de l'information à un modèle ou une règle)** doit être disponible au moment de la décision.
 

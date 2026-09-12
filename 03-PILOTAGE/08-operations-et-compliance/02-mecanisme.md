@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# 02 : MÉCANISME : CONTRÔLES
+# 02 — MÉCANISME : CONTRÔLES
 
 Un système de trading réel est aussi un système d'opérations.
 

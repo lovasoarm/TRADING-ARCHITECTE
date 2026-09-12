@@ -3,25 +3,22 @@ stability: intemporel
 acte: apprendre
 ---
 
-# 02 : COMMENT UTILISER LE PARCOURS
+# 02 — COMMENT UTILISER LE PARCOURS
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 ## Une séance

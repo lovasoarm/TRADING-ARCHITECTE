@@ -4,7 +4,7 @@ acte: comprendre
 noyau: oui
 ---
 
-# 05 : CORRÉLATION & COVARIANCE
+# 05 — CORRÉLATION & COVARIANCE
 
 **Corrélation (degré de co-mouvement linéaire)** : deux positions différentes peuvent cacher la même exposition économique.
 

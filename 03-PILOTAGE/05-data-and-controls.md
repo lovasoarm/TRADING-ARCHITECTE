@@ -8,7 +8,7 @@ cognitive_level: L6
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Un cockpit sérieux surveille aussi les alarmes et les procédures de sortie.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Un cockpit sérieux surveille aussi les alarmes et les procédures de sortie.
 
 > **CE MODULE RÉUTILISE :** `02-CONSTRUCTION/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -66,7 +66,7 @@ Dans le parcours, protège-toi avec une trace datée : hypothèse avant observat
 
 ## 5. Mini-atelier
 
-Injecte données manquantes, décalage horaire, doublons et mauvaise unité. Vérifie quelles alarmes détectent chaque défaut avant qu’il atteigne le P&L (Profit and Loss : gain ou perte de la position).
+Injecte données manquantes, décalage horaire, doublons et mauvaise unité. Vérifie quelles alarmes détectent chaque défaut avant qu’il atteigne le P&L (Profit and Loss — gain ou perte de la position).
 
 ### Format de preuve
 
@@ -92,7 +92,7 @@ Tu traites la donnée comme une partie du système de risque.
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 

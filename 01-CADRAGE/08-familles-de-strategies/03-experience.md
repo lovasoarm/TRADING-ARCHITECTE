@@ -4,25 +4,22 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 : EXPÉRIENCE : LA CARTE DES HYPOTHÈSES
+# 03 — EXPÉRIENCE : LA CARTE DES HYPOTHÈSES
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Pour six familles, écris : signal, horizon, coût dominant, risque de queue, dépendance de régime, mécanisme économique supposé.

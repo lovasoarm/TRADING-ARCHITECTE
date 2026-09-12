@@ -1,27 +1,32 @@
 ---
 stability: intemporel
-acte: comprendre
+acte: transition
 ---
 
-# PONT : VERS LE NIVEAU SUIVANT
+# 99A — PONT
 
-> **ARRÊTE-TOI ICI.** Ce fichier est une respiration, pas un chapitre.
+Tu passes maintenant de l’observation et de l’hypothèse à la construction d’un système.
 
-## Tu dois emporter
-
-- un mécanisme ;
-- une preuve ;
-- une limite ;
-- une règle de révision.
-
-## Exercice-charnière
-
-Réponds en cinq minutes :
+## Ce que tu dois emporter
 
 ```text
-Qu’est-ce qui resterait vrai si le contexte changeait ?
-Qu’est-ce qui deviendrait faux ?
-Quelle mesure le montrerait ?
+ce que je sais
+    ↓
+ce que je peux montrer
+    ↓
+ce qui pourrait être faux
+    ↓
+ce que je teste ensuite
 ```
 
-Si tu bloques, retourne au dernier Boss.
+### Contrôle de sortie
+
+- [ ] une preuve est conservée ;
+- [ ] une limite est explicitement écrite ;
+- [ ] au moins un nombre ou résultat concret est archivé ;
+- [ ] la prochaine action est claire ;
+- [ ] rien n'est présenté comme certitude universelle.
+
+### Règle
+
+Le pont n'est pas une nouvelle leçon : c'est une **compression de compétence**. Si tu ne peux pas résumer le niveau en une minute, retourne à l'artefact qui t'a posé problème.

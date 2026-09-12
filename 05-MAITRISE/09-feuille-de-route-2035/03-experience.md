@@ -4,25 +4,22 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 : EXPÉRIENCE : OUTIL PÉRISSABLE
+# 03 — EXPÉRIENCE : OUTIL PÉRISSABLE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Prends une compétence actuelle liée à un outil. Réécris-la en capacité durable.

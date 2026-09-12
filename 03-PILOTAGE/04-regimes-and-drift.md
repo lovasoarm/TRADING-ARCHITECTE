@@ -8,7 +8,7 @@ cognitive_level: L7
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Un cockpit sérieux surveille aussi les alarmes et les procédures de sortie.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Un cockpit sérieux surveille aussi les alarmes et les procédures de sortie.
 
 > **CE MODULE RÉUTILISE :** `02-CONSTRUCTION/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu apprends à surveiller une stratégie sans transformer chaque différence en 
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 

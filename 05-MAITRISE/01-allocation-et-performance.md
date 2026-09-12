@@ -8,7 +8,7 @@ cognitive_level: L8
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** À ce niveau, tu décides aussi ce qui mérite d’être arrêté.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** À ce niveau, tu décides aussi ce qui mérite d’être arrêté.
 
 > **CE MODULE RÉUTILISE :** `04-EPREUVE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -88,11 +88,11 @@ Prends le mécanisme de cette leçon et change un seul paramètre : instrument, 
 
 ## 7. Ce que tu viens de démontrer
 
-Tu apprends à expliquer un P&L (Profit and Loss : gain ou perte de la position) sans te raconter une histoire flatteuse.
+Tu apprends à expliquer un P&L (Profit and Loss — gain ou perte de la position) sans te raconter une histoire flatteuse.
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 

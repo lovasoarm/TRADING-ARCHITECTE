@@ -2,7 +2,7 @@
 stability: stable
 ---
 
-# GLOSSAIRE : OPÉRATIONNEL
+# GLOSSAIRE — OPÉRATIONNEL
 
 - **Ask** : meilleur prix vendeur disponible.
 - **Bid** : meilleur prix acheteur disponible.
@@ -41,3 +41,8 @@ stability: stable
 | Greeks | sensibilités d’une option à ses facteurs de risque | ne prédisent pas seuls la trajectoire |
 | RAG | génération de texte assistée par récupération de sources | ne garantit pas la qualité des sources |
 | LLM | grand modèle de langage | ne garantit pas la véracité de sa réponse |
+
+### Références
+
+- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253

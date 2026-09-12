@@ -4,12 +4,12 @@ stability: mixte - fondamentaux durables, marché et outils périssables
 
 # 00-GUIDE : Tu ne sais pas quoi faire ? Commence ici.
 
-> **Version CrazyDevs : Trading Architecte**
+> **Version CrazyDevs — Trading Architecte**
 >
 > Ce guide n'est pas un dictionnaire de trading avec une cravate.
 > C'est une carte de terrain pour quelqu'un qui arrive devant un graphique,
 > voit 300 indicateurs, 50 influenceurs, 20 marchés, des bougies partout,
-> des mots comme _spread_, _leverage_, _alpha_, _drawdown_, _backtest_, _options_,
+> des mots comme *spread*, *leverage*, *alpha*, *drawdown*, *backtest*, *options*,
 > et pense :
 >
 > **« D'accord… mais je commence par quoi ? »**
@@ -23,22 +23,22 @@ Ce document est une boussole transversale : il t'explique **comment entrer dans 
 
 ## Sommaire
 
-0. [Tu pars de zéro ? Lis ceci d’abord](#0-tu-pars-de-zéro--lis-ceci-dabord)
-1. [C’est quoi, le trading ?](#1-cest-quoi-le-trading)
-2. [Les grands marchés et instruments](#2-les-grands-marchés-et-instruments)
-3. [Comment fonctionne un marché, vraiment ?](#3-comment-fonctionne-un-marché-vraiment)
-4. [Les mots qu’on voit partout](#4-les-mots-quon-voit-partout)
-5. [Débutant : par où commencer ?](#5-débutant--par-où-commencer)
-6. [J’ai une idée de stratégie : que faire maintenant ?](#6-jai-une-idée-de-stratégie--que-faire-maintenant)
-7. [Les vérités que l'on dit rarement au début](#7-les-vérités-que-lon-dit-rarement-au-début)
-8. [Le risque, l'argent et la vraie difficulté](#8-le-risque-largent-et-la-vraie-difficulté)
-9. [Le terrain : manuel, systématique, quantitatif](#9-le-terrain--manuel-systématique-quantitatif)
-10. [L'IA : assistant, multiplicateur, danger](#10-lia--assistant-multiplicateur-danger)
-11. [2035+ : apprendre des invariants](#11-2035--apprendre-des-invariants)
-12. [Ton parcours complet](#12-ton-parcours-complet)
-13. [Quand tu bloques](#13-quand-tu-bloques)
-14. [Grimoire ultra-débutant](#14-grimoire-ultra-débutant)
-15. [Challenge final du guide](#15-challenge-final-du-guide)
+0. [Tu pars de zéro ? Lis ceci d’abord](#0-tu-pars-de-zéro--lis-ceci-dabord)  
+1. [C’est quoi, le trading ?](#1-cest-quoi-le-trading)  
+2. [Les grands marchés et instruments](#2-les-grands-marchés-et-instruments)  
+3. [Comment fonctionne un marché, vraiment ?](#3-comment-fonctionne-un-marché-vraiment)  
+4. [Les mots qu’on voit partout](#4-les-mots-quon-voit-partout)  
+5. [Débutant : par où commencer ?](#5-débutant--par-où-commencer)  
+6. [J’ai une idée de stratégie : que faire maintenant ?](#6-jai-une-idée-de-stratégie--que-faire-maintenant)  
+7. [Les vérités que l'on dit rarement au début](#7-les-vérités-que-lon-dit-rarement-au-début)  
+8. [Le risque, l'argent et la vraie difficulté](#8-le-risque-largent-et-la-vraie-difficulté)  
+9. [Le terrain : manuel, systématique, quantitatif](#9-le-terrain--manuel-systématique-quantitatif)  
+10. [L'IA : assistant, multiplicateur, danger](#10-lia--assistant-multiplicateur-danger)  
+11. [2035+ : apprendre des invariants](#11-2035--apprendre-des-invariants)  
+12. [Ton parcours complet](#12-ton-parcours-complet)  
+13. [Quand tu bloques](#13-quand-tu-bloques)  
+14. [Grimoire ultra-débutant](#14-grimoire-ultra-débutant)  
+15. [Challenge final du guide](#15-challenge-final-du-guide)  
 16. [Sources et entretien du guide](#16-sources-et-entretien-du-guide)
 
 ---
@@ -488,33 +488,33 @@ Une définition sans mécanisme est fragile. Une analogie sans limite devient un
 
 ## 4.2 Le premier dictionnaire
 
-| Mot                    | Français simple                                            | Analogie                                             | Ce qu'il ne faut pas conclure                |
-| ---------------------- | ---------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------- |
-| actif                  | instrument exposé au marché                                | objet dans un inventaire                             | qu'il est automatiquement rentable           |
-| broker (intermédiaire) | accès/acheminement vers le marché                          | guichet                                              | qu'il garantit un prix                       |
-| bid                    | meilleur prix acheteur visible                             | prix proposé par le client en face                   | qu'il représente toute la demande            |
-| ask                    | meilleur prix vendeur visible                              | prix demandé au guichet                              | qu'il représente toute l'offre               |
-| spread                 | écart bid-ask                                              | marge entre deux guichets                            | qu'il est toujours fixe                      |
-| liquidité              | facilité à transacter                                      | profondeur d'une file                                | qu'elle survit intacte en crise              |
-| slippage               | écart entre attendu et exécuté                             | sol glissant                                         | qu'il est nul si tu utilises un stop         |
-| levier                 | exposition amplifiée                                       | conduire une machine plus grande avec la même pédale | qu'il augmente ton edge                      |
-| marge                  | garantie pour porter l'exposition                          | caution                                              | qu'elle limite toujours la perte finale      |
-| rendement              | variation de valeur                                        | compteur de progression                              | qu'il mesure le risque seul                  |
-| volatilité             | amplitude des variations                                   | route cahoteuse                                      | qu'elle prédit la direction                  |
-| drawdown               | perte depuis un sommet                                     | descente depuis une crête                            | qu'il est identique à la volatilité          |
-| backtest               | simulation historique                                      | replay d'un match                                    | qu'il prouve le futur                        |
-| alpha                  | performance excédentaire relative à une référence          | bonus au-dessus d'une ligne de base                  | qu'il est permanent                          |
-| beta                   | exposition à une variation de référence                    | sensibilité de la voiture à la route                 | qu'il est mauvais ou bon en soi              |
-| edge                   | avantage statistique ou économique attendu                 | petit biais de la balance                            | qu'il garantit chaque trade                  |
-| stop-loss              | règle de sortie prévue                                     | porte coupe-feu                                      | qu'elle fixe toujours la perte finale        |
-| position sizing        | taille décidée selon le risque                             | taille du sac à dos                                  | qu'il suffit à rendre une stratégie bonne    |
-| expectancy             | gain/perte moyen pondéré par les probabilités              | score moyen d'une machine de jeu                     | qu'elle reste stable                         |
-| Sharpe                 | rendement excédentaire rapporté à une mesure de volatilité | vitesse par rapport aux cahots                       | qu'il suffit pour juger une stratégie        |
-| regime                 | environnement de marché                                    | météo du terrain                                     | qu'il est visible à l'œil nu                 |
-| overfitting            | ajustement excessif aux données passées                    | mémoriser le sujet au lieu d'apprendre la matière    | qu'il nécessite un modèle complexe           |
-| look-ahead bias        | utiliser une information future                            | tricher avec la correction                           | qu'il est toujours évident                   |
-| survivorship bias      | oublier les actifs disparus                                | ne regarder que les survivants                       | qu'un historique propre est forcément fidèle |
-| execution              | transformation de la décision en transaction réelle        | passage du plan au terrain                           | qu'elle soit instantanée                     |
+| Mot | Français simple | Analogie | Ce qu'il ne faut pas conclure |
+|---|---|---|---|
+| actif | instrument exposé au marché | objet dans un inventaire | qu'il est automatiquement rentable |
+| broker (intermédiaire) | accès/acheminement vers le marché | guichet | qu'il garantit un prix |
+| bid | meilleur prix acheteur visible | prix proposé par le client en face | qu'il représente toute la demande |
+| ask | meilleur prix vendeur visible | prix demandé au guichet | qu'il représente toute l'offre |
+| spread | écart bid-ask | marge entre deux guichets | qu'il est toujours fixe |
+| liquidité | facilité à transacter | profondeur d'une file | qu'elle survit intacte en crise |
+| slippage | écart entre attendu et exécuté | sol glissant | qu'il est nul si tu utilises un stop |
+| levier | exposition amplifiée | conduire une machine plus grande avec la même pédale | qu'il augmente ton edge |
+| marge | garantie pour porter l'exposition | caution | qu'elle limite toujours la perte finale |
+| rendement | variation de valeur | compteur de progression | qu'il mesure le risque seul |
+| volatilité | amplitude des variations | route cahoteuse | qu'elle prédit la direction |
+| drawdown | perte depuis un sommet | descente depuis une crête | qu'il est identique à la volatilité |
+| backtest | simulation historique | replay d'un match | qu'il prouve le futur |
+| alpha | performance excédentaire relative à une référence | bonus au-dessus d'une ligne de base | qu'il est permanent |
+| beta | exposition à une variation de référence | sensibilité de la voiture à la route | qu'il est mauvais ou bon en soi |
+| edge | avantage statistique ou économique attendu | petit biais de la balance | qu'il garantit chaque trade |
+| stop-loss | règle de sortie prévue | porte coupe-feu | qu'elle fixe toujours la perte finale |
+| position sizing | taille décidée selon le risque | taille du sac à dos | qu'il suffit à rendre une stratégie bonne |
+| expectancy | gain/perte moyen pondéré par les probabilités | score moyen d'une machine de jeu | qu'elle reste stable |
+| Sharpe | rendement excédentaire rapporté à une mesure de volatilité | vitesse par rapport aux cahots | qu'il suffit pour juger une stratégie |
+| regime | environnement de marché | météo du terrain | qu'il est visible à l'œil nu |
+| overfitting | ajustement excessif aux données passées | mémoriser le sujet au lieu d'apprendre la matière | qu'il nécessite un modèle complexe |
+| look-ahead bias | utiliser une information future | tricher avec la correction | qu'il est toujours évident |
+| survivorship bias | oublier les actifs disparus | ne regarder que les survivants | qu'un historique propre est forcément fidèle |
+| execution | transformation de la décision en transaction réelle | passage du plan au terrain | qu'elle soit instantanée |
 
 ## 4.3 Les abréviations qui terrorisent les débutants
 
@@ -613,10 +613,10 @@ voilà ce qui survit
 
 Un concept est considéré comme vraiment acquis lorsque tu peux :
 
-**Niveau 1 : reconnaître** : tu sais que le mot existe.  
-**Niveau 2 : expliquer** : tu peux le dire sans copier la définition.  
-**Niveau 3 : mesurer** : tu peux construire une observation ou un calcul.  
-**Niveau 4 : défendre** : tu peux expliquer quand le concept échoue et quoi faire alors.
+**Niveau 1 — reconnaître** : tu sais que le mot existe.  
+**Niveau 2 — expliquer** : tu peux le dire sans copier la définition.  
+**Niveau 3 — mesurer** : tu peux construire une observation ou un calcul.  
+**Niveau 4 — défendre** : tu peux expliquer quand le concept échoue et quoi faire alors.
 
 ```text
 RECONNAÎTRE → EXPLIQUER → MESURER → DÉFENDRE
@@ -683,7 +683,7 @@ Ne saute pas directement à une équation complexe parce qu'elle semble prestigi
 
 # 6. J’ai une idée de stratégie : que faire maintenant ?
 
-## 6.1 Étape 1 : transformer le slogan en hypothèse
+## 6.1 Étape 1 — transformer le slogan en hypothèse
 
 Mauvais :
 
@@ -695,7 +695,7 @@ Meilleur :
 
 Tu viens de passer d'un slogan à une hypothèse.
 
-## 6.2 Étape 2 : définir ce qui te ferait perdre
+## 6.2 Étape 2 — définir ce qui te ferait perdre
 
 Une hypothèse sérieuse contient une sortie possible :
 
@@ -713,7 +713,7 @@ CRITÈRE D'ÉCHEC
 
 Sans critère d'échec, tu peux toujours réinterpréter les résultats pour sauver l'idée.
 
-## 6.3 Étape 3 : choisir une baseline
+## 6.3 Étape 3 — choisir une baseline
 
 Une baseline est une référence simple contre laquelle comparer.
 
@@ -728,7 +728,7 @@ modèle ML vs règle heuristique simple
 
 Si ton modèle sophistiqué ne bat qu'une baseline volontairement médiocre, tu n'as pas démontré grand-chose.
 
-## 6.4 Étape 4 : commencer volontairement naïf
+## 6.4 Étape 4 — commencer volontairement naïf
 
 Le premier modèle doit être **suffisamment simple pour être compris ligne par ligne**.
 
@@ -736,7 +736,7 @@ Pourquoi ?
 
 Parce que lorsque le résultat est étrange, tu veux pouvoir remonter la chaîne causale.
 
-## 6.5 Étape 5 : calculer les coûts avant de célébrer
+## 6.5 Étape 5 — calculer les coûts avant de célébrer
 
 Un backtest sans coûts est une maquette.
 
@@ -755,7 +755,7 @@ frais spécifiques
 
 Une amélioration de stratégie qui disparaît après friction n'est pas une erreur de comptabilité : c'est une information sur la qualité économique de l'edge.
 
-## 6.6 Étape 6 : tenter de casser le résultat
+## 6.6 Étape 6 — tenter de casser le résultat
 
 Pose au système les questions les plus hostiles :
 
@@ -772,7 +772,7 @@ Et si le fournisseur de données introduit un biais ?
 Tu n'es pas en train de détruire la stratégie.
 Tu cherches à mesurer **combien elle dépend de circonstances particulières**.
 
-## 6.7 Étape 7 : seulement ensuite augmenter la sophistication
+## 6.7 Étape 7 — seulement ensuite augmenter la sophistication
 
 ```text
 règle simple
@@ -1370,7 +1370,7 @@ contre-exemple
 retour au texte
 ```
 
-Exemple : _slippage_.
+Exemple : *slippage*.
 
 > « Le prix que je pensais obtenir et le prix réellement exécuté ne sont pas identiques. »
 
@@ -1463,18 +1463,18 @@ Puis tu montes progressivement.
 
 ## 14.2 Le tableau « ne confonds pas »
 
-| Ne pas confondre | Avec           | Pourquoi                                                                   |
-| ---------------- | -------------- | -------------------------------------------------------------------------- |
-| corrélation      | causalité      | deux séries peuvent bouger ensemble sans mécanisme causal                  |
-| gain             | edge           | une opération réussie peut être due au hasard                              |
-| backtest         | preuve         | le passé est utilisé pour tester une hypothèse, pas pour garantir le futur |
-| volatilité       | direction      | l'amplitude ne dit pas à elle seule où va le prix                          |
-| levier           | avantage       | amplifier n'améliore pas la qualité du signal                              |
-| indicateur       | mécanisme      | un indicateur est une transformation de données, pas une loi physique      |
-| complexité       | sophistication | plus de paramètres augmentent aussi les occasions de sur-ajuster           |
-| IA               | vérité         | un modèle peut être utile et faux simultanément                            |
-| intuition        | validation     | l'intuition génère une hypothèse ; le test la confronte au réel            |
-| win rate         | rentabilité    | la taille relative des gains/pertes et les coûts comptent                  |
+| Ne pas confondre | Avec | Pourquoi |
+|---|---|---|
+| corrélation | causalité | deux séries peuvent bouger ensemble sans mécanisme causal |
+| gain | edge | une opération réussie peut être due au hasard |
+| backtest | preuve | le passé est utilisé pour tester une hypothèse, pas pour garantir le futur |
+| volatilité | direction | l'amplitude ne dit pas à elle seule où va le prix |
+| levier | avantage | amplifier n'améliore pas la qualité du signal |
+| indicateur | mécanisme | un indicateur est une transformation de données, pas une loi physique |
+| complexité | sophistication | plus de paramètres augmentent aussi les occasions de sur-ajuster |
+| IA | vérité | un modèle peut être utile et faux simultanément |
+| intuition | validation | l'intuition génère une hypothèse ; le test la confronte au réel |
+| win rate | rentabilité | la taille relative des gains/pertes et les coûts comptent |
 
 ## 14.3 Les cinq phrases que tu peux utiliser partout
 
@@ -1538,7 +1538,7 @@ La personne doit ensuite pouvoir répondre à cinq questions :
 4. Pourquoi un graphique ne montre-t-il pas tout le marché ?
 5. Pourquoi l'IA doit-elle être contrôlée ?
 
-## Niveau 1 : Construire
+## Niveau 1 — Construire
 
 Dessine une carte :
 
@@ -1546,19 +1546,19 @@ Dessine une carte :
 information → décision → ordre → marché → exécution → résultat
 ```
 
-## Niveau 2 : Expliquer
+## Niveau 2 — Expliquer
 
 Explique dix mots du grimoire sans copier leurs définitions.
 
-## Niveau 3 : Mesurer
+## Niveau 3 — Mesurer
 
 Prends vingt observations de rendement et calcule au minimum moyenne, dispersion et drawdown d'une courbe cumulée.
 
-## Niveau 4 : Casser
+## Niveau 4 — Casser
 
 Trouve trois raisons pour lesquelles ton expérience pourrait donner un faux signal.
 
-## Niveau 5 : Défendre
+## Niveau 5 — Défendre
 
 Réponds à :
 
@@ -1648,1322 +1648,377 @@ PREUVE
 
 C'est cela, l'esprit de Trading Architecte.
 
-## Carnet transversal 1 : micro-pratiques
+## Carnet transversal unique — 7 micro-pratiques
 
-### Exercice 1.1 : Observation sans histoire
+Ce carnet est le rituel commun. Les 7 exercices sont à refaire au besoin ; les **44 missions spécialisées** ci-dessous sont différentes et ancrées dans leur domaine.
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+1. **Observation sans histoire** — écrire 10 faits observables sans causalité.
+2. **Deux mécanismes concurrents** — proposer 2 explications incompatibles et la donnée qui les départagerait.
+3. **Coût caché** — ajouter spread, commission, slippage et impact à un résultat théorique.
+4. **Le miroir** — écrire la meilleure objection à sa propre hypothèse.
+5. **Traduction pédagogique** — définir 5 termes avec définition simple, analogie, exemple, limite.
+6. **Transfert** — déplacer un mécanisme vers un autre actif, horizon ou contexte.
+7. **Preuve en une page** — résumer uniquement ce qui peut être mesuré, testé ou marqué comme hypothèse.
 
-### Exercice 1.2 : Deux explications concurrentes
+## 44 missions spécialisées
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+### Mission 01 — L’entrée dans le métier
 
-### Exercice 1.3 : Coût caché
+**Ancrage :** `00-SOCLE/02-PROLOGUE`
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+Écrire en 120 mots la différence entre « observer un prix » et « expliquer un marché ». Puis donner un exemple où l’on confond les deux.
 
-### Exercice 1.4 : Le miroir
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+### Mission 02 — Repères et vocabulaire
 
-### Exercice 1.5 : Traduction pédagogique
+**Ancrage :** `00-SOCLE/03-REFERENTIEL`
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+Choisir 6 termes du référentiel et construire une chaîne : terme → définition simple → unité ou objet mesurable → erreur typique.
 
-### Exercice 1.6 : Test de transfert
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+### Mission 03 — Rendement et hasard
 
-### Exercice 1.7 : Une page
+**Ancrage :** `00-SOCLE/04-FUNDAMENTALS`
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+Prendre 5 prix 100, 102, 101, 105, 103. Calculer les 4 rendements simples, puis comparer leur moyenne et leur médiane.
 
-## Carnet transversal 2 : micro-pratiques
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 2.1 : Observation sans histoire
+### Mission 04 — Question → test
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+**Ancrage :** `00-SOCLE/05-PROBLEM-SOLVING`
 
-### Exercice 2.2 : Deux explications concurrentes
+Transformer une question vague en hypothèse falsifiable avec seuil numérique d’échec, fenêtre de 20 observations et décision finale.
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 2.3 : Coût caché
+### Mission 05 — Biais sous pression
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+**Ancrage :** `00-SOCLE/06-MINDSET`
 
-### Exercice 2.4 : Le miroir
+Après 3 pertes de 0,5 % chacune, calculer le capital restant à partir de 10 000 €. Écrire ensuite la règle qui interdit l’escalade de taille.
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 2.5 : Traduction pédagogique
+### Mission 06 — Macro sans récit
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+**Ancrage :** `01-CADRAGE/06-fondamentaux-macro`
 
-### Exercice 2.6 : Test de transfert
+Comparer une hausse de taux de 50 pb à une baisse de 25 pb : calculer l’écart absolu en points de base et décrire deux canaux économiques opposés.
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 2.7 : Une page
+### Mission 07 — Changement de régime
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+**Ancrage :** `01-CADRAGE/07-regimes`
 
-## Carnet transversal 3 : micro-pratiques
+Sur une série imaginaire où la volatilité passe de 1 % à 3 %, calculer le multiplicateur de volatilité et expliquer pourquoi un même sizing change de risque.
 
-### Exercice 3.1 : Observation sans histoire
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+### Mission 08 — Familles d’edge
 
-### Exercice 3.2 : Deux explications concurrentes
+**Ancrage :** `01-CADRAGE/08-familles-de-strategies`
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+Comparer un signal à espérance 0,20 € avec 55 % de gains et un autre à 0,20 € avec 35 % de gains. Démontrer pourquoi le win rate seul ne suffit pas.
 
-### Exercice 3.3 : Coût caché
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+### Mission 09 — Échelle temporelle
 
-### Exercice 3.4 : Le miroir
+**Ancrage :** `01-CADRAGE/09-timeframes`
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+Un signal journalier vise 2 % avec un stop de 1 %. Un signal horaire vise 0,5 % avec un stop de 0,25 %. Calculer le RR brut des deux et identifier ce que le RR ne dit pas.
 
-### Exercice 3.5 : Traduction pédagogique
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+### Mission 10 — Données sales
 
-### Exercice 3.6 : Test de transfert
+**Ancrage :** `02-CONSTRUCTION/06-data-engineering`
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+Introduire un split 2:1 dans une série à 100 €. Montrer le rendement artificiel obtenu sans ajustement, puis écrire la correction attendue.
 
-### Exercice 3.7 : Une page
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+### Mission 11 — Tests multiples
 
-## Carnet transversal 4 : micro-pratiques
+**Ancrage :** `02-CONSTRUCTION/07-validation-statistique`
 
-### Exercice 4.1 : Observation sans histoire
+Simuler mentalement 100 tests indépendants au seuil 5 %. Calculer le nombre moyen de faux positifs attendus sous l’hypothèse nulle.
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 4.2 : Deux explications concurrentes
+### Mission 12 — Feature leakage
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+**Ancrage :** `02-CONSTRUCTION/08-feature-design`
 
-### Exercice 4.3 : Coût caché
+Une variable utilise le rendement de T+1 pour expliquer T. Numéroter la séquence temporelle correcte et indiquer exactement où se trouve la fuite.
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 4.4 : Le miroir
+### Mission 13 — Risque de modèle
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+**Ancrage :** `02-CONSTRUCTION/09-model-risk`
 
-### Exercice 4.5 : Traduction pédagogique
+Un modèle estime 1 % de risque quotidien mais réalise 4 % une fois sur 50 jours. Calculer la moyenne du choc observé dans ce cas et expliquer pourquoi une moyenne masque le tail risk.
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 4.6 : Test de transfert
+### Mission 14 — Laboratoire
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+**Ancrage :** `02-CONSTRUCTION/10-lab-executable`
 
-### Exercice 4.7 : Une page
+Lancer le sizing sur 10 000 € avec 0,5 % de risque et 2 € de distance au stop. Vérifier à la main la taille obtenue et écrire une assertion qui la protège.
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-## Carnet transversal 5 : micro-pratiques
+### Mission 15 — Greeks
 
-### Exercice 5.1 : Observation sans histoire
+**Ancrage :** `03-PILOTAGE/06-derives-et-greques`
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+Une option a delta 0,45 et le sous-jacent gagne 3 €. Estimer la variation delta-hedgée de premier ordre, puis expliquer pourquoi l’approximation n’est pas une garantie.
 
-### Exercice 5.2 : Deux explications concurrentes
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+### Mission 16 — Corrélation
 
-### Exercice 5.3 : Coût caché
+**Ancrage :** `03-PILOTAGE/07-portfolio-construction`
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+Deux actifs ont volatilité 10 % et 15 %, corrélation 0,2, poids 60/40. Calculer la volatilité de portefeuille à partir de la covariance.
 
-### Exercice 5.4 : Le miroir
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+### Mission 17 — Opérationnel
 
-### Exercice 5.5 : Traduction pédagogique
+**Ancrage :** `03-PILOTAGE/08-operations-et-compliance`
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+Un ordre est envoyé deux fois sur 100 titres à 50 €. Quantifier l’exposition additionnelle et définir le contrôle qui aurait dû empêcher l’incident.
 
-### Exercice 5.6 : Test de transfert
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+### Mission 18 — Runbook
 
-### Exercice 5.7 : Une page
+**Ancrage :** `03-PILOTAGE/09-runbooks`
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+Construire une alerte avec seuil : drawdown intraday 2 %, latence 500 ms, ou perte cumulative 1 %. Indiquer le premier déclencheur et l’action associée.
 
-## Carnet transversal 6 : micro-pratiques
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 6.1 : Observation sans histoire
+### Mission 19 — Réplication
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+**Ancrage :** `04-EPREUVE/06-replication-lab`
 
-### Exercice 6.2 : Deux explications concurrentes
+Une étude annonce Sharpe 1,2. Recalculer le Sharpe après division par 2 de l’excès de rendement mais volatilité inchangée, puis discuter la robustesse.
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 6.3 : Coût caché
+### Mission 20 — Backtest vs réel
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+**Ancrage :** `04-EPREUVE/07-live-vs-backtest`
 
-### Exercice 6.4 : Le miroir
+Backtest : 12 % brut, coûts 2 %. Réel : 12 % brut, coûts 5 %. Calculer les rendements nets et le différentiel de 3 points.
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 6.5 : Traduction pédagogique
+### Mission 21 — Red team
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+**Ancrage :** `04-EPREUVE/08-red-team-research`
 
-### Exercice 6.6 : Test de transfert
+Prendre une affirmation « robuste » et proposer 3 attaques quantitatives : période, coûts, univers. Pour chacune, fixer un seuil de falsification.
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 6.7 : Une page
+### Mission 22 — Lire un papier
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+**Ancrage :** `05-MAITRISE/06-lecture-de-recherche`
 
-## Carnet transversal 7 : micro-pratiques
+Extraire d’un résultat annoncé n=500 observations : variable expliquée, estimateur, intervalle de confiance et taille d’effet. Refuser toute conclusion sans ces 4 éléments.
 
-### Exercice 7.1 : Observation sans histoire
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+### Mission 23 — Gouvernance
 
-### Exercice 7.2 : Deux explications concurrentes
+**Ancrage :** `05-MAITRISE/07-ia-et-gouvernance`
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+Un agent propose 40 ordres dont 6 dépassent la limite. Calculer le taux d’ordres rejetés et définir un garde-fou automatique.
 
-### Exercice 7.3 : Coût caché
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+### Mission 24 — Défense orale
 
-### Exercice 7.4 : Le miroir
+**Ancrage :** `05-MAITRISE/08-communication-praticien`
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+Présenter en 90 secondes un système avec 52 % de trades gagnants et gain moyen 1,4R contre perte moyenne 1R. Calculer l’espérance par trade.
 
-### Exercice 7.5 : Traduction pédagogique
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+### Mission 25 — Horizon 2035
 
-### Exercice 7.6 : Test de transfert
+**Ancrage :** `05-MAITRISE/09-feuille-de-route-2035`
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+Classer 4 compétences selon leur durée de vie : microstructure, syntaxe d’un outil, gestion du risque, nom d’un fournisseur. Justifier le classement avec une fenêtre 2026→2035.
 
-### Exercice 7.7 : Une page
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+### Mission 26 — Sensibilité au spread
 
-## Carnet transversal 8 : micro-pratiques
+**Ancrage :** `CROSS/01`
 
-### Exercice 8.1 : Observation sans histoire
+Avec 60 trades/mois, spread 2 € par trade : calculer le coût mensuel. Refaire à 3 € et mesurer l’écart.
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 8.2 : Deux explications concurrentes
+### Mission 27 — Drawdown
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+**Ancrage :** `CROSS/02`
 
-### Exercice 8.3 : Coût caché
+Une equity passe 10 000 → 9 200 → 10 580. Calculer le drawdown maximal puis le gain nécessaire pour revenir au sommet.
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 8.4 : Le miroir
+### Mission 28 — Position sizing
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+**Ancrage :** `CROSS/03`
 
-### Exercice 8.5 : Traduction pédagogique
+Capital 25 000 €, risque 0,4 %, distance 1,25 €. Calculer le budget de risque et la quantité théorique.
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 8.6 : Test de transfert
+### Mission 29 — Slippage
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+**Ancrage :** `CROSS/04`
 
-### Exercice 8.7 : Une page
+Prix prévu 100 €, exécution moyenne 100,08 € pour 400 unités. Calculer le slippage en euros et en points de base.
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-## Carnet transversal 9 : micro-pratiques
+### Mission 30 — Espérance
 
-### Exercice 9.1 : Observation sans histoire
+**Ancrage :** `CROSS/05`
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+40 gains à +1,5R et 60 pertes à −1R sur 100 trades. Calculer l’espérance en R/trade.
 
-### Exercice 9.2 : Deux explications concurrentes
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+### Mission 31 — Profit factor
 
-### Exercice 9.3 : Coût caché
+**Ancrage :** `CROSS/06`
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+Gross wins 7 500 €, gross losses 5 000 €. Calculer le profit factor et préciser ce qu’il ignore.
 
-### Exercice 9.4 : Le miroir
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+### Mission 32 — Sharpe
 
-### Exercice 9.5 : Traduction pédagogique
+**Ancrage :** `CROSS/07`
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+Rendement moyen 0,06 %/jour, écart-type 0,9 %. Calculer le Sharpe journalier simplifié et rappeler qu’une annualisation suppose une convention.
 
-### Exercice 9.6 : Test de transfert
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+### Mission 33 — VaR vs perte
 
-### Exercice 9.7 : Une page
+**Ancrage :** `CROSS/08`
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+VaR 95 % = 1,2 %. Une journée réalise −3,5 %. Mesurer l’écart et expliquer pourquoi la VaR ne borne pas la perte.
 
-## Carnet transversal 10 : micro-pratiques
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 10.1 : Observation sans histoire
+### Mission 34 — Corrélation
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+**Ancrage :** `CROSS/09`
 
-### Exercice 10.2 : Deux explications concurrentes
+Deux positions ont ρ=0,9. Comparer qualitativement le gain de diversification à ρ=0,1 et donner un exemple de risque commun.
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 10.3 : Coût caché
+### Mission 35 — Turnover
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+**Ancrage :** `CROSS/10`
 
-### Exercice 10.4 : Le miroir
+Un portefeuille de 100 000 € tourne 80 % par semaine à 15 pb de coût aller-retour. Estimer un coût hebdomadaire simplifié.
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 10.5 : Traduction pédagogique
+### Mission 36 — Regime filter
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+**Ancrage :** `CROSS/11`
 
-### Exercice 10.6 : Test de transfert
+Régime calme : vol 0,8 %. Régime stress : 2,4 %. Calculer le ratio 3:1 et la réduction de taille nécessaire pour garder un risque absolu comparable.
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 10.7 : Une page
+### Mission 37 — Walk-forward
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+**Ancrage :** `CROSS/12`
 
-## Carnet transversal 11 : micro-pratiques
+4 fenêtres train/test de 120/30 jours. Calculer le nombre total d’observations de test et expliquer pourquoi le futur n’est jamais mélangé au passé.
 
-### Exercice 11.1 : Observation sans histoire
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+### Mission 38 — Overfitting
 
-### Exercice 11.2 : Deux explications concurrentes
+**Ancrage :** `CROSS/13`
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+10 000 configurations sont testées à seuil 5 %. Donner l’espérance naïve de faux positifs sous indépendance et expliquer pourquoi ce n’est qu’un ordre de grandeur.
 
-### Exercice 11.3 : Coût caché
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+### Mission 39 — Break-even costs
 
-### Exercice 11.4 : Le miroir
+**Ancrage :** `CROSS/14`
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+Edge brut 0,18R/trade, coût 0,11R. Calculer l’edge net et le coût maximal avant passage à zéro.
 
-### Exercice 11.5 : Traduction pédagogique
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+### Mission 40 — Options
 
-### Exercice 11.6 : Test de transfert
+**Ancrage :** `CROSS/15`
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+Premium 4 €, delta 0,5, move de 2 €. Approximation de premier ordre : variation du premium. Puis citer ce qui manque (gamma, theta, vol implicite).
 
-### Exercice 11.7 : Une page
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+### Mission 41 — Execution latency
 
-## Carnet transversal 1 : micro-pratiques
+**Ancrage :** `CROSS/16`
 
-### Exercice 1.1 : Observation sans histoire
+100 ordres, 8 au-delà de 500 ms. Calculer le taux de dépassement et proposer une alerte à 10 %.
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 1.2 : Deux explications concurrentes
+### Mission 42 — Data quality
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
+**Ancrage :** `CROSS/17`
 
-### Exercice 1.3 : Coût caché
+1 000 lignes, 12 timestamps dupliqués, 5 prix manquants. Calculer les pourcentages de doublons et de valeurs manquantes.
 
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 1.4 : Le miroir
+### Mission 43 — Scenario stress
 
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
+**Ancrage :** `CROSS/18`
 
-### Exercice 1.5 : Traduction pédagogique
+Perte −6 % du portefeuille, corrélation qui passe de 0,2 à 0,8. Calculer la hausse en points de corrélation et expliquer le risque de convergence.
 
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-### Exercice 1.6 : Test de transfert
+### Mission 44 — Research decay
 
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
+**Ancrage :** `CROSS/19`
 
-### Exercice 1.7 : Une page
+Une anomalie annonce 8 % ; post-publication 4,8 %. Calculer la baisse relative de rendement.
 
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-## Carnet transversal 2 : micro-pratiques
+### Mission 45 — Capital recovery
 
-### Exercice 2.1 : Observation sans histoire
+**Ancrage :** `CROSS/20`
 
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
+Après −30 %, calculer le gain requis pour revenir au capital initial et expliquer l’asymétrie.
 
-### Exercice 2.2 : Deux explications concurrentes
+**Critère de sortie :** une réponse chiffrée, une hypothèse explicite et une phrase sur la limite principale.
 
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 2.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 2.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 2.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 2.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 2.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 3 : micro-pratiques
-
-### Exercice 3.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 3.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 3.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 3.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 3.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 3.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 3.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 4 : micro-pratiques
-
-### Exercice 4.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 4.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 4.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 4.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 4.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 4.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 4.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 5 : micro-pratiques
-
-### Exercice 5.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 5.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 5.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 5.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 5.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 5.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 5.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 6 : micro-pratiques
-
-### Exercice 6.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 6.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 6.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 6.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 6.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 6.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 6.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 7 : micro-pratiques
-
-### Exercice 7.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 7.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 7.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 7.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 7.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 7.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 7.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 8 : micro-pratiques
-
-### Exercice 8.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 8.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 8.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 8.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 8.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 8.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 8.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 9 : micro-pratiques
-
-### Exercice 9.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 9.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 9.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 9.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 9.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 9.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 9.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 10 : micro-pratiques
-
-### Exercice 10.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 10.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 10.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 10.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 10.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 10.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 10.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 11 : micro-pratiques
-
-### Exercice 11.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 11.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 11.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 11.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 11.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 11.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 11.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 1 : micro-pratiques
-
-### Exercice 1.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 1.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 1.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 1.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 1.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 1.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 1.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 2 : micro-pratiques
-
-### Exercice 2.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 2.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 2.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 2.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 2.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 2.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 2.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 3 : micro-pratiques
-
-### Exercice 3.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 3.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 3.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 3.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 3.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 3.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 3.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 4 : micro-pratiques
-
-### Exercice 4.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 4.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 4.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 4.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 4.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 4.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 4.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 5 : micro-pratiques
-
-### Exercice 5.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 5.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 5.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 5.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 5.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 5.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 5.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 6 : micro-pratiques
-
-### Exercice 6.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 6.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 6.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 6.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 6.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 6.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 6.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 7 : micro-pratiques
-
-### Exercice 7.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 7.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 7.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 7.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 7.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 7.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 7.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 8 : micro-pratiques
-
-### Exercice 8.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 8.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 8.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 8.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 8.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 8.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 8.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 9 : micro-pratiques
-
-### Exercice 9.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 9.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 9.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 9.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 9.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 9.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 9.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 10 : micro-pratiques
-
-### Exercice 10.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 10.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 10.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 10.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 10.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 10.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 10.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 11 : micro-pratiques
-
-### Exercice 11.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 11.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 11.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 11.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 11.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 11.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 11.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 1 : micro-pratiques
-
-### Exercice 1.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 1.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 1.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 1.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 1.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 1.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 1.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 2 : micro-pratiques
-
-### Exercice 2.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 2.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 2.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 2.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 2.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 2.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 2.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 3 : micro-pratiques
-
-### Exercice 3.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 3.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 3.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 3.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 3.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 3.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 3.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 4 : micro-pratiques
-
-### Exercice 4.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 4.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 4.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 4.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 4.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 4.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 4.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 5 : micro-pratiques
-
-### Exercice 5.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 5.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 5.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 5.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 5.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 5.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 5.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 6 : micro-pratiques
-
-### Exercice 6.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 6.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 6.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 6.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 6.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 6.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 6.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 7 : micro-pratiques
-
-### Exercice 7.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 7.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 7.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 7.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 7.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 7.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 7.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 8 : micro-pratiques
-
-### Exercice 8.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 8.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 8.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 8.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 8.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 8.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 8.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 9 : micro-pratiques
-
-### Exercice 9.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 9.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 9.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 9.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 9.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 9.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 9.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 10 : micro-pratiques
-
-### Exercice 10.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 10.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 10.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 10.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 10.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 10.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 10.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.
-
-## Carnet transversal 11 : micro-pratiques
-
-### Exercice 11.1 : Observation sans histoire
-
-Choisis une série de prix et écris dix faits observables sans causalité. Interdiction d'écrire « parce que ».
-
-### Exercice 11.2 : Deux explications concurrentes
-
-Pour un mouvement donné, propose deux mécanismes incompatibles. Puis définis la donnée qui les départagerait.
-
-### Exercice 11.3 : Coût caché
-
-Prends un résultat théorique et ajoute successivement spread, commission, slippage et impact. Note à quel niveau le résultat change de signe.
-
-### Exercice 11.4 : Le miroir
-
-Écris l'argument le plus fort contre ton hypothèse. Écris ensuite l'argument le plus fort qui la défend. Interdis-toi les attaques faibles.
-
-### Exercice 11.5 : Traduction pédagogique
-
-Choisis cinq termes du module du jour et écris pour chacun : définition simple, analogie, exemple, limite.
-
-### Exercice 11.6 : Test de transfert
-
-Prends un mécanisme appris et applique-le à un autre actif, un autre horizon ou une autre classe d'actifs. Indique l'invariant et ce qui change.
-
-### Exercice 11.7 : Une page
-
-Résume ce que tu as réellement compris sur une page maximum. Toute phrase qui ne pourrait pas être vérifiée doit être marquée comme hypothèse.

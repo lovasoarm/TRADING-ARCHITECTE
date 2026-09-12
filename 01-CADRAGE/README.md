@@ -4,9 +4,9 @@ acte: parcours
 noyau: oui
 ---
 
-> **SCÈNE CRAZYDEVS : LE CONTRADICTEUR :** Le premier graphique raconte une histoire. Le deuxième montre le contre-exemple.
+> **SCÈNE CRAZYDEVS — LE CONTRADICTEUR :** Le premier graphique raconte une histoire. Le deuxième montre le contre-exemple.
 
-# 01 : CADRAGE
+# 01 — CADRAGE
 
 **Mission :** Transformer une impression en question testable et instrumenter la décision.
 
@@ -42,6 +42,7 @@ PORTAGE
 PONT
 ```
 
+
 ## Modules approfondis
 
 - [FONDAMENTAUX MACRO ET DÉCLENCHEURS](06-fondamentaux-macro/README.md)
@@ -51,11 +52,11 @@ PONT
 
 ## Leçons
 
-- [01 : 01-prix-vs-signal](01-prix-vs-signal.md)
-- [03 : 02-analyse-technique-sous-critique](02-analyse-technique-sous-critique.md)
-- [05 : 03-formuler-une-hypothese](03-formuler-une-hypothese.md)
-- [08 : 04-psychologie-observable](04-psychologie-observable.md)
-- [10 : 05-journal-decisionnel](05-journal-decisionnel.md)
+- [01 — 01-prix-vs-signal](01-prix-vs-signal.md)
+- [03 — 02-analyse-technique-sous-critique](02-analyse-technique-sous-critique.md)
+- [05 — 03-formuler-une-hypothese](03-formuler-une-hypothese.md)
+- [08 — 04-psychologie-observable](04-psychologie-observable.md)
+- [10 — 05-journal-decisionnel](05-journal-decisionnel.md)
 
 ## NEXT ACTION
 

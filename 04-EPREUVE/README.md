@@ -4,9 +4,9 @@ acte: parcours
 noyau: oui
 ---
 
-> **SCÈNE CRAZYDEVS : L’ARÈNE :** L’épreuve commence quand quelqu’un change les conditions.
+> **SCÈNE CRAZYDEVS — L’ARÈNE :** L’épreuve commence quand quelqu’un change les conditions.
 
-# 04 : ÉPREUVE
+# 04 — ÉPREUVE
 
 **Mission :** Attaquer le système jusqu’à faire apparaître ses limites.
 
@@ -42,6 +42,7 @@ PORTAGE
 PONT
 ```
 
+
 ## Modules approfondis
 
 - [REPLICATION LAB](06-replication-lab/README.md)
@@ -50,11 +51,11 @@ PONT
 
 ## Leçons
 
-- [02 : 04-incident-operationnel](04-incident-operationnel.md)
-- [04 : 02-recherche-quantitative](02-recherche-quantitative.md)
-- [06 : 03-adversarial-data](03-adversarial-data.md)
-- [07 : 05-postmortem-et-reconstruction](05-postmortem-et-reconstruction.md)
-- [09 : 01-validation-avancee](01-validation-avancee.md)
+- [02 — 04-incident-operationnel](04-incident-operationnel.md)
+- [04 — 02-recherche-quantitative](02-recherche-quantitative.md)
+- [06 — 03-adversarial-data](03-adversarial-data.md)
+- [07 — 05-postmortem-et-reconstruction](05-postmortem-et-reconstruction.md)
+- [09 — 01-validation-avancee](01-validation-avancee.md)
 
 ## NEXT ACTION
 

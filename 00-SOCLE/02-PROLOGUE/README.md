@@ -3,9 +3,9 @@ stability: intemporel
 acte: parcours
 ---
 
-> **SCÈNE CRAZYDEVS : la carte de campagne :** le danger n'est pas de ne pas connaître la destination. C'est de partir sans savoir comment vérifier que tu es encore sur la bonne route.
+> **SCÈNE CRAZYDEVS — la carte de campagne :** le danger n'est pas de ne pas connaître la destination. C'est de partir sans savoir comment vérifier que tu es encore sur la bonne route.
 
-# 02 : PROLOGUE
+# 02 — PROLOGUE
 
 Le Prologue explique les règles du dépôt avant les sujets techniques.
 

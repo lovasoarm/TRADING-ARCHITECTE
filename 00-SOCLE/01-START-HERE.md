@@ -4,7 +4,7 @@ acte: démarrage
 assessment_role: entry_checkpoint
 ---
 
-> **SCÈNE CRAZYDEVS : les rails avant le train :** tu n’as pas besoin de connaître tous les marchés pour commencer. Tu dois d’abord comprendre ce qu’est une décision dans un marché.
+> **SCÈNE CRAZYDEVS — les rails avant le train :** tu n’as pas besoin de connaître tous les marchés pour commencer. Tu dois d’abord comprendre ce qu’est une décision dans un marché.
 
 # START HERE
 
@@ -20,7 +20,7 @@ Avant toute chose, réponds sans outil :
 
 Date ta réponse. Ce sera ton **t0**.
 
-## Première séance : 25 à 35 min
+## Première séance — 25 à 35 min
 
 ```text
 1. 01-la-realite-du-trading.md
@@ -41,3 +41,7 @@ Pas de broker. Pas de capital réel. Pas de dizaines de plateformes. Pas de mém
 Retourne à `PROGRESSION.md`. Ton prochain pas doit être un seul fichier.
 
 **NEXT ACTION →** `00-SOCLE/00-PREREQUIS.md`.
+
+### Références
+
+- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348

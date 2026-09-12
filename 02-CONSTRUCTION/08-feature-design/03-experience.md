@@ -4,25 +4,22 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 : EXPÉRIENCE : LEAKAGE HUNT
+# 03 — EXPÉRIENCE : LEAKAGE HUNT
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Construis une feature correcte puis deux variantes volontairement fautives : moyenne centrée et normalisation globale.

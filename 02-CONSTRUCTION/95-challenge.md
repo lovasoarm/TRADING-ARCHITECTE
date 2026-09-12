@@ -5,27 +5,24 @@ route: complete
 assessment_role: module_gate
 ---
 
-> **SCÈNE CRAZYDEVS : 02-CONSTRUCTION** : on ne te demande pas de réciter ; on te demande de montrer ce que ton raisonnement fait sous contrainte.
+> **SCÈNE CRAZYDEVS : 02-CONSTRUCTION** — on ne te demande pas de réciter ; on te demande de montrer ce que ton raisonnement fait sous contrainte.
 
-# CHALLENGE : 02-CONSTRUCTION
+# CHALLENGE — 02-CONSTRUCTION
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 ## Mission
@@ -50,3 +47,19 @@ Projet principal : [50-MINI-PROJET.md](50-MINI-PROJET.md)
 - [ ] preuve datée dans le portfolio.
 
 **NEXT ACTION →** `96-boss-fight.md`.
+
+### Grille d’auto-évaluation — /10
+
+| Critère | Points | Ce qu’on attend |
+|---|---:|---|
+| Exactitude | 0–2 | Les calculs et définitions sont cohérents |
+| Méthode | 0–2 | Les étapes sont explicites et reproductibles |
+| Preuve | 0–2 | Une observation ou un test concret soutient l’argument |
+| Limites | 0–2 | Au moins 2 modes d’échec sont nommés |
+| Communication | 0–2 | Un débutant peut suivre sans jargon non expliqué |
+
+**Seuil conseillé : 8/10.** En dessous, corriger puis refaire l’exercice.
+
+### Exemple de réponse acceptable
+
+Une bonne réponse ne cherche pas à « avoir raison » ; elle montre le calcul, donne l’hypothèse, précise l'unité et dit ce qui ferait échouer la conclusion.

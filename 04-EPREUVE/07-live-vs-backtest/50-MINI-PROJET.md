@@ -4,7 +4,7 @@ acte: construire
 assessment_role: project_gate
 ---
 
-# 50 : MINI-PROJET
+# 50 — MINI-PROJET
 
 Transforme le module en un artefact inspectable.
 
@@ -19,3 +19,8 @@ Transforme le module en un artefact inspectable.
 - [ ] prochaine décision
 
 Sujet du module : **BACKTEST VS TERRAIN**.
+
+### Références
+
+- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253

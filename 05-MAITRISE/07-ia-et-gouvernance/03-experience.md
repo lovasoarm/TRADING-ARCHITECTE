@@ -4,25 +4,22 @@ acte: expérimenter
 assessment_role: instructional_checkpoint
 ---
 
-# 03 : EXPÉRIENCE : DOUBLE IMPLEMENTATION
+# 03 — EXPÉRIENCE : DOUBLE IMPLEMENTATION
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Demande à une IA de produire deux implémentations d'une même règle. Compare code, hypothèses, tests et résultats. Cherche volontairement une hallucination, une fuite de donnée ou une hypothèse silencieuse.

@@ -4,7 +4,7 @@ acte: protéger
 noyau: oui
 ---
 
-# 06 : LEVIER, MARGE & LIQUIDATION (fermeture d’une position, parfois forcée)
+# 06 — LEVIER, MARGE & LIQUIDATION (fermeture d’une position, parfois forcée)
 
 **Levier (exposition / capital)** augmente les gains potentiels **et** les pertes.
 
@@ -33,3 +33,7 @@ Simule le même portefeuille à 1×, 2× et 5×. Mesure le drawdown (baisse du c
 ## Règle
 
 Le sizing réel doit partir de la **perte soutenable**, pas du montant maximum autorisé.
+
+### Références
+
+- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041

@@ -3,25 +3,22 @@ stability: intemporel
 acte: hypothéser
 ---
 
-# 02 : HYPOTHÈSE FALSIFIABLE
+# 02 — HYPOTHÈSE FALSIFIABLE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Forme minimale :

@@ -3,25 +3,22 @@ stability: intemporel
 acte: transférer
 ---
 
-# 99 : PORTAGE DU GUIDE
+# 99 — PORTAGE DU GUIDE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Transfère le mécanisme « clarifier → mesurer → tester » à :

@@ -4,7 +4,7 @@ acte: observer
 noyau: oui
 ---
 
-# 03 : DISTRIBUTIONS & QUEUES
+# 03 — DISTRIBUTIONS & QUEUES
 
 Une **distribution (forme collective des résultats)** décrit les résultats possibles d'une population de trades, pas un trade particulier.
 

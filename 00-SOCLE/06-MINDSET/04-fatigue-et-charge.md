@@ -3,25 +3,22 @@ stability: intemporel
 acte: gérer
 ---
 
-# 04 : FATIGUE & CHARGE
+# 04 — FATIGUE & CHARGE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Sous fatigue, le cerveau privilégie les raccourcis.

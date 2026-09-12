@@ -3,25 +3,22 @@ stability: intemporel
 acte: raisonner
 ---
 
-# 07 : INCERTITUDE & AMBIGUÏTÉ
+# 07 — INCERTITUDE & AMBIGUÏTÉ
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 **Risque** : probabilités suffisamment spécifiées.

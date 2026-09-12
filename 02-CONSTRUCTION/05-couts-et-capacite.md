@@ -8,7 +8,7 @@ cognitive_level: L5
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
 
 > **CE MODULE RÉUTILISE :** `01-CADRAGE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu apprends à distinguer rendement de tableur et rendement économiquement acce
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 
@@ -113,3 +113,17 @@ Ce que je pense avant de voir la suite : ________
 Ce que je sais réellement à t0 : _______________
 Ce qui pourrait réfuter mon interprétation : _____
 ```
+
+## Cas numérique : l'edge peut être mangé par les frictions
+
+Un edge brut de **0,08 %** par opération semble confortable jusqu'à ce que le spread + slippage + commission atteignent **0,06 %**. Il reste **0,02 %** avant financement, erreurs et impact. À cette échelle, une petite détérioration du marché peut suffire à inverser le signe.
+
+La bonne question devient : **quel coût maximal la stratégie peut-elle supporter avant de perdre son avantage ?**
+
+## Référence
+
+Le module s'appuie sur le cadre de coûts/impact d'Almgren & Chriss et sur les remarques de microstructure du dossier de recherche.
+
+### Références
+
+- Hasbrouck, J. (1995), *One Security, Many Markets: Determining the Contributions to Price Discovery*, Journal of Finance 50, 1175–1199. — https://doi.org/10.2307/2329348

@@ -4,9 +4,9 @@ acte: parcours
 noyau: oui
 ---
 
-> **SCÈNE CRAZYDEVS : L’ATELIER :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
+> **SCÈNE CRAZYDEVS — L’ATELIER :** Une idée brillante n’est pas encore une lame : il faut la forger puis la casser.
 
-# 02 : CONSTRUCTION
+# 02 — CONSTRUCTION
 
 **Mission :** Transformer une idée en système reproductible, testable et économiquement réaliste.
 
@@ -42,6 +42,7 @@ PORTAGE
 PONT
 ```
 
+
 ## Modules approfondis
 
 - [DATA ENGINEERING](06-data-engineering/README.md)
@@ -49,13 +50,17 @@ PONT
 - [FEATURE ENGINEERING](08-feature-design/README.md)
 - [MODEL RISK](09-model-risk/README.md)
 
+## Laboratoire exécutable
+
+[LAB PYTHON — calculs reproductibles](10-lab-executable/README.md)
+
 ## Leçons
 
-- [01 : 04-risque-et-sizing](04-risque-et-sizing.md)
-- [02 : 03-biais-de-validation](03-biais-de-validation.md)
-- [04 : 05-couts-et-capacite](05-couts-et-capacite.md)
-- [06 : 01-strategy-engineering](01-strategy-engineering.md)
-- [10 : 02-backtest-reproductible](02-backtest-reproductible.md)
+- [01 — 04-risque-et-sizing](04-risque-et-sizing.md)
+- [02 — 03-biais-de-validation](03-biais-de-validation.md)
+- [04 — 05-couts-et-capacite](05-couts-et-capacite.md)
+- [06 — 01-strategy-engineering](01-strategy-engineering.md)
+- [10 — 02-backtest-reproductible](02-backtest-reproductible.md)
 
 ## NEXT ACTION
 

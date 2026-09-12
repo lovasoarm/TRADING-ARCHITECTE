@@ -3,25 +3,22 @@ stability: évolutif
 acte: parcours
 ---
 
-# ROUTE DÉBUTANT : ZÉRO → PREMIÈRE PREUVE
+# ROUTE DÉBUTANT — ZÉRO → PREMIÈRE PREUVE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Ce fichier donne une route courte aux personnes totalement nouvelles.

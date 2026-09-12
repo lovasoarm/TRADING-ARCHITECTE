@@ -5,7 +5,7 @@ noyau: oui
 assessment_role: project_gate
 ---
 
-# 50 : MINI-PROJET FOUNDATIONS
+# 50 — MINI-PROJET FOUNDATIONS
 
 ## CARTE VISUELLE
 
@@ -43,3 +43,7 @@ Construis un **marché miniature** local : données de rendements, distributions
 Chaque artefact possède :
 
 `hypothèse → procédure → résultat → limite → prochaine décision`.
+
+### Références
+
+- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041

@@ -4,9 +4,9 @@ acte: démarrage
 assessment_role: entry_checkpoint
 ---
 
-> **SCÈNE CRAZYDEVS : la gare avant le train :** tu n'as pas besoin de connaître toutes les lignes. Tu dois savoir où monter, pourquoi, et comment revenir si tu te trompes.
+> **SCÈNE CRAZYDEVS — la gare avant le train :** tu n'as pas besoin de connaître toutes les lignes. Tu dois savoir où monter, pourquoi, et comment revenir si tu te trompes.
 
-# 00-GUIDE : START HERE
+# 00-GUIDE — START HERE
 
 Ce dossier existe pour une raison simple : **ne pas confondre expertise du domaine et capacité à apprendre le domaine**.
 

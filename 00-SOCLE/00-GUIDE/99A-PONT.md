@@ -3,7 +3,7 @@ stability: intemporel
 acte: transition
 ---
 
-# 99A : PONT VERS LE RÉFÉRENTIEL
+# 99A — PONT VERS LE RÉFÉRENTIEL
 
 Tu ne dois pas encore « savoir trader ».
 

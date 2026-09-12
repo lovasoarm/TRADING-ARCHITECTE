@@ -3,7 +3,7 @@ stability: intemporel
 acte: comprendre
 ---
 
-# PORTAGE MENTAL : 05 : MAÎTRISE
+# PORTAGE MENTAL — 05 — MAÎTRISE
 
 ```text
 PRINCIPE

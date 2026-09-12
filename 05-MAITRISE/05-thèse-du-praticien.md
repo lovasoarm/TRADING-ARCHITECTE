@@ -8,7 +8,7 @@ cognitive_level: L5
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** À ce niveau, tu décides aussi ce qui mérite d’être arrêté.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** À ce niveau, tu décides aussi ce qui mérite d’être arrêté.
 
 > **CE MODULE RÉUTILISE :** `04-EPREUVE/README.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu termines avec un raisonnement défendable, pas avec une promesse de rentabili
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 
@@ -113,3 +113,54 @@ Ce que je pense avant de voir la suite : ________
 Ce que je sais réellement à t0 : _______________
 Ce qui pourrait réfuter mon interprétation : _____
 ```
+
+## Architecture de la thèse
+
+La thèse n'est pas un « meilleur setup ». C'est une **affirmation limitée, falsifiable et reproductible** sur un mécanisme de marché.
+
+### Question
+
+Formule une phrase dont l'issue peut être : **supportée, infirmée ou indécidable**.
+
+### Preuve minimale
+
+```text
+hypothèse
+   ↓
+pré-enregistrement de la règle
+   ↓
+données point-in-time
+   ↓
+test in-sample
+   ↓
+hors échantillon
+   ↓
+coûts réalistes
+   ↓
+résultats + incertitude
+   ↓
+réplication
+```
+
+### Cas chiffré miniature
+
+Un backtest affiche 12 % annuel brut, 7 % après coûts, avec un drawdown maximal de 18 %. La conclusion n'est pas « 7 % est bon ». La vraie question est : l'incertitude de l'estimation, le nombre d'essais, la stabilité des périodes et la plausibilité du coût permettent-ils encore d'attribuer une partie du résultat au mécanisme proposé ?
+
+### Chapitre de réfutation
+
+Une thèse forte contient sa propre attaque : variation des fenêtres, univers élargi, coûts ×2, retard d'exécution, sous-périodes, permutation ou bootstrap, et réplication par un protocole indépendant.
+
+### Grille de soutenance
+
+- 3 pts — problème et mécanisme
+- 3 pts — protocole reproductible
+- 2 pts — preuve quantitative + incertitude
+- 1 pt — limites et contre-exemple
+- 1 pt — décision de suite
+
+**Une thèse qui ne dit pas clairement ce qui la ferait échouer n'est pas terminée.**
+
+### Références
+
+- White, H. (2000), *A Reality Check for Data Snooping*, Econometrica 68(5), 1097–1126. — https://doi.org/10.1111/1468-0262.00152
+- Bailey, D. H. et al. (2015), *The Probability of Backtest Overfitting*. — https://ssrn.com/abstract=2326253

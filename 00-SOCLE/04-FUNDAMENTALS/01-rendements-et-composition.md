@@ -4,7 +4,7 @@ acte: comprendre
 noyau: oui
 ---
 
-# 01 : RENDEMENTS & COMPOSITION
+# 01 — RENDEMENTS & COMPOSITION
 
 **Rendement (variation relative de valeur)** : si un capital passe de 100 à 105, le rendement est +5 %.
 

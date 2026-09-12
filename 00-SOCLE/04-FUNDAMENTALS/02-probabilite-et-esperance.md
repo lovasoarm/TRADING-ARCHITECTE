@@ -4,25 +4,22 @@ acte: calculer
 noyau: oui
 ---
 
-# 02 : PROBABILITÉ & ESPÉRANCE
+# 02 — PROBABILITÉ & ESPÉRANCE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 **Espérance (gain moyen attendu d'une règle si on la répète)** : moyenne pondérée des résultats possibles.
@@ -43,3 +40,7 @@ Construis deux règles avec le même win rate mais des espérances différentes.
 ## Anti-recette
 
 Ne transforme jamais une espérance historique en promesse.
+
+### Références
+
+- Almgren, R. & Chriss, N. (2001), *Optimal Execution of Portfolio Transactions*. — https://doi.org/10.21314/JOR.2001.041

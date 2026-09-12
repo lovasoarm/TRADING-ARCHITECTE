@@ -3,27 +3,52 @@ stability: intemporel
 acte: transférer
 ---
 
-# 99 : PORTAGE
+# 99 — PORTAGE
 
 ## CARTE VISUELLE
 
 ```text
-OBSERVE
-   ↓
-FORMULE
-   ↓
-CONSTRUIS
-   ↓
-TESTE
-   ↓
-MESURE
-   ↓
-CASSE
-   ↓
-RÉVISE
-   ↺
+question
+  ↓
+mécanisme
+  ↓
+mesure
+  ↓
+expérience
+  ↓
+contre-exemple
+  ↓
+décision
 ```
 
 Transfère le mécanisme de **RED TEAM RESEARCH** à un autre actif, un autre horizon et un problème non financier.
 
 Pour chaque cas : invariant, changement, mesure, risque.
+
+## Cas de transfert
+
+Prends le concept **recherche contradictoire** et applique-le à un objet différent de celui de l'exercice principal.
+
+### Protocole
+
+1. définis le même mécanisme en langage simple ;
+2. change l'actif, la période ou la granularité ;
+3. garde la même question ;
+4. mesure ce qui change ;
+5. explique pourquoi le résultat est différent ou similaire.
+
+### Exemple
+
+Un raisonnement appris sur des actions quotidiennes ne peut pas être copié mot à mot sur des futures intraday (contrats standardisés négociés en continu sur une place donnée). Tu dois réévaluer les coûts, la liquidité, le calendrier et la granularité des données.
+
+### Critère de réussite
+
+Le portage est réussi si tu peux dire **deux invariants** du mécanisme et **deux paramètres** qui doivent changer dans le nouveau contexte.
+
+### Preuve
+
+Conserve : contexte initial → contexte nouveau → tableau comparatif → décision.
+
+### Références
+
+- McLean, R. D. & Pontiff, J. (2016), *Does Academic Research Destroy Stock Return Predictability?*, Journal of Finance 71(1), 5–32. — https://doi.org/10.1111/jofi.12365

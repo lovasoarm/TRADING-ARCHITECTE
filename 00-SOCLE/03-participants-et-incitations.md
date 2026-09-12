@@ -8,7 +8,7 @@ cognitive_level: L6
 perturbation_modes: [preuve_partielle, contre_exemple, contraintes_injectees]
 ---
 
-> **SCÈNE CRAZYDEVS : LA SALLE DU CONSEIL :** Avant de choisir un train, regarde les rails.
+> **SCÈNE CRAZYDEVS — LA SALLE DU CONSEIL :** Avant de choisir un train, regarde les rails.
 
 > **CE MODULE RÉUTILISE :** `00-SOCLE/01-START-HERE.md`. Tu n'as pas besoin de tout relire. Réactive seulement la dépendance qui bloque réellement.
 
@@ -92,7 +92,7 @@ Tu remplaces une explication anthropomorphique par un ensemble d’hypothèses t
 
 Tu n'as pas démontré une rentabilité future. Tu as démontré une capacité de raisonnement sur ce problème.
 
-## 8. CHECKPOINT DE PROFONDEUR : rappel à livre fermé
+## 8. CHECKPOINT DE PROFONDEUR — rappel à livre fermé
 
 Ferme le fichier.
 
